@@ -1,0 +1,50 @@
+[
+    {
+        "query_number": 0,
+        "max_items": 100,
+        "params": {
+            "fillQuickSearch": "false",
+            "target": "advanced",
+            "expand": "dl",
+            "AllField": "\"Robotic+Process+Automation\"+AND+(integration+AND+finance+AND+industry+AND+financial)+AND+(bank+OR+fintech)",
+            "base": "https://dl.acm.org/action/doSearch",
+            "AvailableFormat": "lit:pdf",
+            "AfterYear": 2014,
+            "BeforeYear": 2024,
+            "startPage": 0,
+            "pageSize": 50
+        }
+    },
+    {
+        "query_number": 1,
+        "max_items": 100,
+        "params": {
+            "fillQuickSearch": "false",
+            "target": "advanced",
+            "expand": "dl",
+            "AllField": "\"Robotic+Process+Automation\"+AND+(integration+AND+business+AND+management)+AND+(bank+OR+fintech)",
+            "base": "https://dl.acm.org/action/doSearch",
+            "AvailableFormat": "lit:pdf",
+            "AfterYear": 2014,
+            "BeforeYear": 2024,
+            "startPage": 0,
+            "pageSize": 50
+        }
+    },
+    {
+        "query_number": 2,
+        "max_items": 100,
+        "params": {
+            "fillQuickSearch": "false",
+            "target": "advanced",
+            "expand": "dl",
+            "AllField": "\"Robotic+Process+Automation\"+AND+(implementation+AND+recommendations)+AND+(bank+OR+fintech)",
+            "base": "https://dl.acm.org/action/doSearch",
+            "AvailableFormat": "lit:pdf",
+            "AfterYear": 2014,
+            "BeforeYear": 2024,
+            "startPage": 0,
+            "pageSize": 50
+        }
+    }
+]

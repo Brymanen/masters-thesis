@@ -1,0 +1,1613 @@
+{
+  "total_queries": 3,
+  "total_results": 154,
+  "total_pdf_links": 24,
+  "queries_data": [
+    {
+      "query_metadata": {
+        "query_number": 0,
+        "max_items": 100,
+        "params": {
+          "fillQuickSearch": "false",
+          "target": "advanced",
+          "expand": "dl",
+          "AllField": "\"Robotic+Process+Automation\"+AND+(integration+AND+finance+AND+industry+AND+financial)+AND+(bank+OR+fintech)",
+          "base": "https://dl.acm.org/action/doSearch",
+          "AvailableFormat": "lit:pdf",
+          "AfterYear": 2014,
+          "BeforeYear": 2024,
+          "startPage": 0,
+          "pageSize": 50
+        }
+      },
+      "query_link_statistics": {
+        "total_results_query": 51,
+        "total_pdf_links_query": 8
+      },
+      "query_results": [
+        {
+          "title": "The Implementation of Robotic Process Automation for Banking Sector Case Study of A Private Bank in Indonesia",
+          "title_link": "https://dl.acm.org/doi/10.1145/3512576.3512641",
+          "publication_info": "ICIT '21: Proceedings of the 2021 9th International Conference on Information Technology: IoT and Smart CityDecember 2021, pp 365–371https://doi.org/10.1145/3512576.3512641",
+          "authors": [
+            "Andrianto Susilo",
+            "Harjanto Prabowo",
+            "Wibowo Kosasih",
+            "Rano Kartono",
+            "Viany Utami Tjhin"
+          ],
+          "doc_link": null
+        },
+        {
+          "title": "Robotic Process Automation and Opportunities for Vietnamese Market",
+          "title_link": "https://dl.acm.org/doi/10.1145/3348445.3348458",
+          "publication_info": "ICCCM '19: Proceedings of the 7th International Conference on Computer and Communications ManagementJuly 2019, pp 86–90https://doi.org/10.1145/3348445.3348458",
+          "authors": [
+            "Le Van Chuong",
+            "Phan Duy Hung",
+            "Vu Thu Diep"
+          ],
+          "doc_link": null
+        },
+        {
+          "title": "NLP And IR Applications For Financial Reporting And Non-Financial Disclosure. Framework Implementation And Roadmap For Feasible Integration With The Accounting Process",
+          "title_link": "https://dl.acm.org/doi/10.1145/3582768.3582796",
+          "publication_info": "NLPIR '22: Proceedings of the 2022 6th International Conference on Natural Language Processing and Information RetrievalDecember 2022, pp 117–124https://doi.org/10.1145/3582768.3582796",
+          "authors": [
+            "Alessio Faccia",
+            "Pythagoras Petratos"
+          ],
+          "doc_link": "https://dl.acm.org/doi/pdf/10.1145/3582768.3582796"
+        },
+        {
+          "title": "Challenges in implementing financial technologies in to the Uzbekistan's financial system",
+          "title_link": "https://dl.acm.org/doi/10.1145/3584202.3584276",
+          "publication_info": "ICFNDS '22: Proceedings of the 6th International Conference on Future Networks & Distributed SystemsDecember 2022, pp 499–503https://doi.org/10.1145/3584202.3584276",
+          "authors": [
+            "Rakhmatilla Rahmonovich Tojiev"
+          ],
+          "doc_link": "https://dl.acm.org/doi/pdf/10.1145/3584202.3584276"
+        },
+        {
+          "title": "Analysis of The Advancement of Rpa Technology and Its Application in the Financial Field of Electric Power Enterprises",
+          "title_link": "https://dl.acm.org/doi/10.1145/3513142.3513235",
+          "publication_info": "ICITEE '21: Proceedings of the 4th International Conference on Information Technologies and Electrical EngineeringOctober 2021, Article No.: 91, pp 1–5https://doi.org/10.1145/3513142.3513235",
+          "authors": [
+            "Le Zhang",
+            "Junda Ren",
+            "Zhi Yang",
+            "Zenan Yin",
+            "Yiting Chen",
+            "Yiming Gu"
+          ],
+          "doc_link": null
+        },
+        {
+          "title": "Fundamental Framework for Task Mining Technology Adoption: Results from a Qualitative Empirical Study",
+          "title_link": "https://dl.acm.org/doi/10.1145/3605423.3605443",
+          "publication_info": "ICCTA '23: Proceedings of the 2023 9th International Conference on Computer Technology ApplicationsMay 2023, pp 50–59https://doi.org/10.1145/3605423.3605443",
+          "authors": [
+            "Johannes Dirnberger",
+            "Bernadette Loidl",
+            "Uwe Brunner"
+          ],
+          "doc_link": "https://dl.acm.org/doi/pdf/10.1145/3605423.3605443"
+        },
+        {
+          "title": "ICAIF '23: Proceedings of the Fourth ACM International Conference on AI in Finance",
+          "title_link": "https://dl.acm.org/doi/proceedings/10.1145/3604237",
+          "publication_info": "No Publication Info",
+          "authors": [],
+          "doc_link": null
+        },
+        {
+          "title": "The growth and evolution of India's software industry",
+          "title_link": "https://dl.acm.org/doi/10.1145/3347863",
+          "publication_info": "Communications of the ACM (CACM), Volume 62, Issue 11November 2019, pp 64–69https://doi.org/10.1145/3347863",
+          "authors": [
+            "Pankaj Jalote",
+            "Pari Natarajan"
+          ],
+          "doc_link": "https://dl.acm.org/doi/pdf/10.1145/3347863"
+        },
+        {
+          "title": "FlowMind: Automatic Workflow Generation with LLMs",
+          "title_link": "https://dl.acm.org/doi/10.1145/3604237.3626908",
+          "publication_info": "ICAIF '23: Proceedings of the Fourth ACM International Conference on AI in FinanceNovember 2023, pp 73–81https://doi.org/10.1145/3604237.3626908",
+          "authors": [
+            "Zhen Zeng",
+            "William Watson",
+            "Nicole Cho",
+            "Saba Rahimi",
+            "Shayleen Reynolds",
+            "Tucker Balch",
+            "Manuela Veloso"
+          ],
+          "doc_link": null
+        },
+        {
+          "title": "The Key Factors Affecting RPA-business Alignment",
+          "title_link": "https://dl.acm.org/doi/10.1145/3265689.3265699",
+          "publication_info": "ICCSE'18: Proceedings of the 3rd International Conference on Crowd Science and EngineeringJuly 2018, Article No.: 10, pp 1–6https://doi.org/10.1145/3265689.3265699",
+          "authors": [
+            "Ning Zhang",
+            "Bo Liu"
+          ],
+          "doc_link": null
+        },
+        {
+          "title": "A Methodology for Assessing the Effectiveness of the Introduction of Digital Technologies in Commercial Banks of Uzbekistan",
+          "title_link": "https://dl.acm.org/doi/10.1145/3584202.3584217",
+          "publication_info": "ICFNDS '22: Proceedings of the 6th International Conference on Future Networks & Distributed SystemsDecember 2022, pp 93–98https://doi.org/10.1145/3584202.3584217",
+          "authors": [
+            "Muyassarzoda Fayzieva"
+          ],
+          "doc_link": "https://dl.acm.org/doi/pdf/10.1145/3584202.3584217"
+        },
+        {
+          "title": "Research on the Influence of Artificial Intelligence Technology with web 3.0 on Accounting Education and Its Countermeasures",
+          "title_link": "https://dl.acm.org/doi/10.1145/3527666",
+          "publication_info": "ACM Transactions on Asian and Low-Resource Language Information Processing (TALLIP), Volume 21, Issue 6Article No.: 116, pp 1–17https://doi.org/10.1145/3527666",
+          "authors": [
+            "Changzhen Li",
+            "Xin Zhao"
+          ],
+          "doc_link": null
+        },
+        {
+          "title": "Research and Exploration on The Application of RPA and Artificial Intelligence Technology in The Field of Electric Power Marketing",
+          "title_link": "https://dl.acm.org/doi/10.1145/3513142.3513236",
+          "publication_info": "ICITEE '21: Proceedings of the 4th International Conference on Information Technologies and Electrical EngineeringOctober 2021, Article No.: 92, pp 1–5https://doi.org/10.1145/3513142.3513236",
+          "authors": [
+            "Zhun Wang",
+            "Le Zhang",
+            "Fan Zhang",
+            "Wenjuan Li",
+            "Zhi Yang"
+          ],
+          "doc_link": null
+        },
+        {
+          "title": "Artificial Intelligence: Opportunities and Challenges for the Public Sector",
+          "title_link": "https://dl.acm.org/doi/10.1145/3326365.3326420",
+          "publication_info": "ICEGOV '19: Proceedings of the 12th International Conference on Theory and Practice of Electronic GovernanceApril 2019, pp 418–426https://doi.org/10.1145/3326365.3326420",
+          "authors": [
+            "Deniz Susar",
+            "Vincenzo Aquaro"
+          ],
+          "doc_link": null
+        },
+        {
+          "title": "ICIBE '23: Proceedings of the 2023 9th International Conference on Industrial and Business Engineering",
+          "title_link": "https://dl.acm.org/doi/proceedings/10.1145/3629378",
+          "publication_info": "No Publication Info",
+          "authors": [],
+          "doc_link": null
+        },
+        {
+          "title": "An Exploration on Accounting Professionals Facing the Development of AI",
+          "title_link": "https://dl.acm.org/doi/10.1145/3494583.3494595",
+          "publication_info": "ICIBE '21: Proceedings of the 7th International Conference on Industrial and Business EngineeringSeptember 2021, pp 94–103https://doi.org/10.1145/3494583.3494595",
+          "authors": [
+            "Justine S. Chang",
+            "Manchun Hsiao",
+            "Yiting Peng"
+          ],
+          "doc_link": null
+        },
+        {
+          "title": "ICCTA '23: Proceedings of the 2023 9th International Conference on Computer Technology Applications",
+          "title_link": "https://dl.acm.org/doi/proceedings/10.1145/3605423",
+          "publication_info": "No Publication Info",
+          "authors": [],
+          "doc_link": null
+        },
+        {
+          "title": "Whither AutoML? Understanding the Role of Automation in Machine Learning Workflows",
+          "title_link": "https://dl.acm.org/doi/10.1145/3411764.3445306",
+          "publication_info": "CHI '21: Proceedings of the 2021 CHI Conference on Human Factors in Computing SystemsMay 2021, Article No.: 83, pp 1–16https://doi.org/10.1145/3411764.3445306",
+          "authors": [
+            "Doris Xin",
+            "Eva Yiwei Wu",
+            "Doris Jung-Lin Lee",
+            "Niloufar Salehi",
+            "Aditya Parameswaran"
+          ],
+          "doc_link": "https://dl.acm.org/doi/pdf/10.1145/3411764.3445306"
+        },
+        {
+          "title": "Design of Human Resource Management System to Improve the Payout Schedule of a Garments Company",
+          "title_link": "https://dl.acm.org/doi/10.1145/3535782.3535806",
+          "publication_info": "MSIE '22: Proceedings of the 4th International Conference on Management Science and Industrial EngineeringApril 2022, pp 174–183https://doi.org/10.1145/3535782.3535806",
+          "authors": [
+            "Grace Lorraine Intal",
+            "Johnamae Khow",
+            "Karim Elshal",
+            "Christopher Pardillo",
+            "Danielicah Cruz"
+          ],
+          "doc_link": null
+        },
+        {
+          "title": "An algorithmic method for business process reengineering and service automation in the public sector",
+          "title_link": "https://dl.acm.org/doi/10.1145/3614321.3614336",
+          "publication_info": "ICEGOV '23: Proceedings of the 16th International Conference on Theory and Practice of Electronic GovernanceSeptember 2023, pp 119–126https://doi.org/10.1145/3614321.3614336",
+          "authors": [
+            "Yannis Charalabidis",
+            "Zoi Lachana",
+            "Charalampos Alexopoulos",
+            "Michalis-Avgerinos Loutsaris"
+          ],
+          "doc_link": "https://dl.acm.org/doi/pdf/10.1145/3614321.3614336"
+        },
+        {
+          "title": "What's Next in Blockchain Research?: - An Identification of Key Topics Using a Multidisciplinary Perspective",
+          "title_link": "https://dl.acm.org/doi/10.1145/3447934.3447938",
+          "publication_info": "ACM SIGMIS Database: the DATABASE for Advances in Information Systems (SIGMIS), Volume 52, Issue 1February 2021, pp 27–52https://doi.org/10.1145/3447934.3447938",
+          "authors": [
+            "Horst Treiblmaier",
+            "Melanie Swan",
+            "Primavera de Filippi",
+            "Mary Lacity",
+            "Thomas Hardjono",
+            "Henry Kim"
+          ],
+          "doc_link": null
+        },
+        {
+          "title": "ICACS '22: Proceedings of the 6th International Conference on Algorithms, Computing and Systems",
+          "title_link": "https://dl.acm.org/doi/proceedings/10.1145/3564982",
+          "publication_info": "No Publication Info",
+          "authors": [],
+          "doc_link": null
+        },
+        {
+          "title": "MISNC '22: Proceedings of the 9th Multidisciplinary International Social Networks Conference",
+          "title_link": "https://dl.acm.org/doi/proceedings/10.1145/3561278",
+          "publication_info": "No Publication Info",
+          "authors": [],
+          "doc_link": null
+        },
+        {
+          "title": "ICFNDS '22: Proceedings of the 6th International Conference on Future Networks & Distributed Systems",
+          "title_link": "https://dl.acm.org/doi/proceedings/10.1145/3584202",
+          "publication_info": "No Publication Info",
+          "authors": [],
+          "doc_link": null
+        },
+        {
+          "title": "ICCTA '22: Proceedings of the 2022 8th International Conference on Computer Technology Applications",
+          "title_link": "https://dl.acm.org/doi/proceedings/10.1145/3543712",
+          "publication_info": "No Publication Info",
+          "authors": [],
+          "doc_link": null
+        },
+        {
+          "title": "ICSCA '23: Proceedings of the 2023 12th International Conference on Software and Computer Applications",
+          "title_link": "https://dl.acm.org/doi/proceedings/10.1145/3587828",
+          "publication_info": "No Publication Info",
+          "authors": [],
+          "doc_link": null
+        },
+        {
+          "title": "ICICM '22: Proceedings of the 12th International Conference on Information Communication and Management",
+          "title_link": "https://dl.acm.org/doi/proceedings/10.1145/3551690",
+          "publication_info": "No Publication Info",
+          "authors": [],
+          "doc_link": null
+        },
+        {
+          "title": "DGO '23: Proceedings of the 24th Annual International Conference on Digital Government Research",
+          "title_link": "https://dl.acm.org/doi/proceedings/10.1145/3598469",
+          "publication_info": "No Publication Info",
+          "authors": [
+            "David Duenas Cid",
+            "Nadzeya Sabatini",
+            "Loni Hagen",
+            "Hsin-chung Liao"
+          ],
+          "doc_link": null
+        },
+        {
+          "title": "ICIMMI '22: Proceedings of the 4th International Conference on Information Management & Machine Intelligence",
+          "title_link": "https://dl.acm.org/doi/proceedings/10.1145/3590837",
+          "publication_info": "No Publication Info",
+          "authors": [],
+          "doc_link": null
+        },
+        {
+          "title": "UKICER '22: Proceedings of the 2022 Conference on United Kingdom & Ireland Computing Education Research",
+          "title_link": "https://dl.acm.org/doi/proceedings/10.1145/3555009",
+          "publication_info": "No Publication Info",
+          "authors": [
+            "Keith Quille",
+            "Joseph Maguire",
+            "Brett A. Becker"
+          ],
+          "doc_link": null
+        },
+        {
+          "title": "NLPIR '22: Proceedings of the 2022 6th International Conference on Natural Language Processing and Information Retrieval",
+          "title_link": "https://dl.acm.org/doi/proceedings/10.1145/3582768",
+          "publication_info": "No Publication Info",
+          "authors": [],
+          "doc_link": null
+        },
+        {
+          "title": "CHIWORK '23: Proceedings of the 2nd Annual Meeting of the Symposium on Human-Computer Interaction for Work",
+          "title_link": "https://dl.acm.org/doi/proceedings/10.1145/3596671",
+          "publication_info": "No Publication Info",
+          "authors": [
+            "Susanne Boll",
+            "Anna Cox",
+            "Thomas Ludwig",
+            "Marta E Cecchinato"
+          ],
+          "doc_link": null
+        },
+        {
+          "title": "dg.o 2022: DG.O 2022: The 23rd Annual International Conference on Digital Government Research",
+          "title_link": "https://dl.acm.org/doi/proceedings/10.1145/3543434",
+          "publication_info": "No Publication Info",
+          "authors": [
+            "Loni Hagen",
+            "Mihkel Solvak",
+            "Sungsoo Hwang"
+          ],
+          "doc_link": null
+        },
+        {
+          "title": "Onward! 2023: Proceedings of the 2023 ACM SIGPLAN International Symposium on New Ideas, New Paradigms, and Reflections on Programming and Software",
+          "title_link": "https://dl.acm.org/doi/proceedings/10.1145/3622758",
+          "publication_info": "No Publication Info",
+          "authors": [
+            "Tijs van der Storm",
+            "Robert Hirschfeld"
+          ],
+          "doc_link": null
+        },
+        {
+          "title": "C&T '23: Proceedings of the 11th International Conference on Communities and Technologies",
+          "title_link": "https://dl.acm.org/doi/proceedings/10.1145/3593743",
+          "publication_info": "No Publication Info",
+          "authors": [
+            "Annika Wolff",
+            "Dominik Siemon",
+            "Anna De Liddo",
+            "Grazia Concilio"
+          ],
+          "doc_link": null
+        },
+        {
+          "title": "SBSI '23: Proceedings of the XIX Brazilian Symposium on Information Systems",
+          "title_link": "https://dl.acm.org/doi/proceedings/10.1145/3592813",
+          "publication_info": "No Publication Info",
+          "authors": [
+            "Mônica Ximenes C. da Cunha",
+            "Marcílio F. de Souza Júnior",
+            "Johnny C. Marques",
+            "Tadeu M. de Classe",
+            "Rafael D. Araújo"
+          ],
+          "doc_link": null
+        },
+        {
+          "title": "Computing Curricula 2020: Paradigms for Global Computing Education",
+          "title_link": "https://dl.acm.org/doi/book/10.1145/3467967",
+          "publication_info": "No Publication Info",
+          "authors": [
+            " CC2020 Task Force"
+          ],
+          "doc_link": "https://dl.acm.org/doi/pdf/10.1145/3467967"
+        },
+        {
+          "title": "SIGMIS-CPR '22: Proceedings of the 2022 Computers and People Research Conference",
+          "title_link": "https://dl.acm.org/doi/proceedings/10.1145/3510606",
+          "publication_info": "No Publication Info",
+          "authors": [
+            "Mike Gallivan",
+            "Sam Zaza",
+            "Deborah Armstrong",
+            "Indira R. Guzman",
+            "Guillermo Rodriguez-Abitia"
+          ],
+          "doc_link": null
+        },
+        {
+          "title": "ICSLT '22: Proceedings of the 8th International Conference on e-Society, e-Learning and e-Technologies",
+          "title_link": "https://dl.acm.org/doi/proceedings/10.1145/3545922",
+          "publication_info": "No Publication Info",
+          "authors": [],
+          "doc_link": null
+        },
+        {
+          "title": "ICEGOV '23: Proceedings of the 16th International Conference on Theory and Practice of Electronic Governance",
+          "title_link": "https://dl.acm.org/doi/proceedings/10.1145/3614321",
+          "publication_info": "No Publication Info",
+          "authors": [
+            "Demi Getschko",
+            "Ida Lindgren",
+            "Mete Yildiz",
+            "Mário Peixoto",
+            "Flávia Barbosa",
+            "Cristina Braga"
+          ],
+          "doc_link": null
+        },
+        {
+          "title": "IMMS '23: Proceedings of the 2023 6th International Conference on Information Management and Management Science",
+          "title_link": "https://dl.acm.org/doi/proceedings/10.1145/3625469",
+          "publication_info": "No Publication Info",
+          "authors": [],
+          "doc_link": null
+        },
+        {
+          "title": "CHI '21: Proceedings of the 2021 CHI Conference on Human Factors in Computing Systems",
+          "title_link": "https://dl.acm.org/doi/proceedings/10.1145/3411764",
+          "publication_info": "No Publication Info",
+          "authors": [
+            "Yoshifumi Kitamura",
+            "Aaron Quigley",
+            "Katherine Isbister",
+            "Takeo Igarashi",
+            "Pernille Bjørn",
+            "Steven Drucker"
+          ],
+          "doc_link": null
+        },
+        {
+          "title": "UIST '23 Adjunct: Adjunct Proceedings of the 36th Annual ACM Symposium on User Interface Software and Technology",
+          "title_link": "https://dl.acm.org/doi/proceedings/10.1145/3586182",
+          "publication_info": "No Publication Info",
+          "authors": [
+            "Sean Follmer",
+            "Jeff Han",
+            "Jürgen Steimle",
+            "Nathalie Henry Riche"
+          ],
+          "doc_link": null
+        },
+        {
+          "title": "CHI EA '23: Extended Abstracts of the 2023 CHI Conference on Human Factors in Computing Systems",
+          "title_link": "https://dl.acm.org/doi/proceedings/10.1145/3544549",
+          "publication_info": "No Publication Info",
+          "authors": [
+            "Albrecht Schmidt",
+            "Kaisa Väänänen",
+            "Tesh Goyal",
+            "Per Ola Kristensson",
+            "Anicia Peters"
+          ],
+          "doc_link": null
+        },
+        {
+          "title": "CHI EA '21: Extended Abstracts of the 2021 CHI Conference on Human Factors in Computing Systems",
+          "title_link": "https://dl.acm.org/doi/proceedings/10.1145/3411763",
+          "publication_info": "No Publication Info",
+          "authors": [
+            "Yoshifumi Kitamura",
+            "Aaron Quigley",
+            "Katherine Isbister",
+            "Takeo Igarashi"
+          ],
+          "doc_link": null
+        },
+        {
+          "title": "WSSE '23: Proceedings of the 2023 5th World Symposium on Software Engineering",
+          "title_link": "https://dl.acm.org/doi/proceedings/10.1145/3631991",
+          "publication_info": "No Publication Info",
+          "authors": [],
+          "doc_link": null
+        },
+        {
+          "title": "ICETC '23: Proceedings of the 15th International Conference on Education Technology and Computers",
+          "title_link": "https://dl.acm.org/doi/proceedings/10.1145/3629296",
+          "publication_info": "No Publication Info",
+          "authors": [],
+          "doc_link": null
+        },
+        {
+          "title": "ICEMT '22: Proceedings of the 6th International Conference on Education and Multimedia Technology",
+          "title_link": "https://dl.acm.org/doi/proceedings/10.1145/3551708",
+          "publication_info": "No Publication Info",
+          "authors": [],
+          "doc_link": null
+        },
+        {
+          "title": "SIGDOC '23: Proceedings of the 41st ACM International Conference on Design of Communication",
+          "title_link": "https://dl.acm.org/doi/proceedings/10.1145/3615335",
+          "publication_info": "No Publication Info",
+          "authors": [
+            "Sonia Stephens",
+            "Joseph Bartolotta",
+            "Kristin Marie Bivens"
+          ],
+          "doc_link": null
+        },
+        {
+          "title": "RICAI '22: Proceedings of the 2022 4th International Conference on Robotics, Intelligent Control and Artificial Intelligence",
+          "title_link": "https://dl.acm.org/doi/proceedings/10.1145/3584376",
+          "publication_info": "No Publication Info",
+          "authors": [],
+          "doc_link": null
+        },
+        {
+          "title": "ASE '22: Proceedings of the 37th IEEE/ACM International Conference on Automated Software Engineering",
+          "title_link": "https://dl.acm.org/doi/proceedings/10.1145/3551349",
+          "publication_info": "No Publication Info",
+          "authors": [],
+          "doc_link": null
+        }
+      ]
+    },
+    {
+      "query_metadata": {
+        "query_number": 1,
+        "max_items": 100,
+        "params": {
+          "fillQuickSearch": "false",
+          "target": "advanced",
+          "expand": "dl",
+          "AllField": "\"Robotic+Process+Automation\"+AND+(integration+AND+business+AND+management)+AND+(bank+OR+fintech)",
+          "base": "https://dl.acm.org/action/doSearch",
+          "AvailableFormat": "lit:pdf",
+          "AfterYear": 2014,
+          "BeforeYear": 2024,
+          "startPage": 0,
+          "pageSize": 50
+        }
+      },
+      "query_link_statistics": {
+        "total_results_query": 58,
+        "total_pdf_links_query": 10
+      },
+      "query_results": [
+        {
+          "title": "The Acquirements of Digitalization with RPA (Robotic Process Automation) Technology in the Vakif Participation Bank",
+          "title_link": "https://dl.acm.org/doi/10.1145/3459955.3460602",
+          "publication_info": "ICISS '21: Proceedings of the 4th International Conference on Information Science and SystemsMarch 2021, pp 68–73https://doi.org/10.1145/3459955.3460602",
+          "authors": [
+            "Mahmut Ahmet Unal",
+            "Oguzhan Bolukbas"
+          ],
+          "doc_link": null
+        },
+        {
+          "title": "The Implementation of Robotic Process Automation for Banking Sector Case Study of A Private Bank in Indonesia",
+          "title_link": "https://dl.acm.org/doi/10.1145/3512576.3512641",
+          "publication_info": "ICIT '21: Proceedings of the 2021 9th International Conference on Information Technology: IoT and Smart CityDecember 2021, pp 365–371https://doi.org/10.1145/3512576.3512641",
+          "authors": [
+            "Andrianto Susilo",
+            "Harjanto Prabowo",
+            "Wibowo Kosasih",
+            "Rano Kartono",
+            "Viany Utami Tjhin"
+          ],
+          "doc_link": null
+        },
+        {
+          "title": "Robotic Process Automation and Opportunities for Vietnamese Market",
+          "title_link": "https://dl.acm.org/doi/10.1145/3348445.3348458",
+          "publication_info": "ICCCM '19: Proceedings of the 7th International Conference on Computer and Communications ManagementJuly 2019, pp 86–90https://doi.org/10.1145/3348445.3348458",
+          "authors": [
+            "Le Van Chuong",
+            "Phan Duy Hung",
+            "Vu Thu Diep"
+          ],
+          "doc_link": null
+        },
+        {
+          "title": "Robotic process automation of calculating investments in a business project",
+          "title_link": "https://dl.acm.org/doi/10.1145/3587828.3587874",
+          "publication_info": "ICSCA '23: Proceedings of the 2023 12th International Conference on Software and Computer ApplicationsFebruary 2023, pp 309–314https://doi.org/10.1145/3587828.3587874",
+          "authors": [
+            "Michael Hafenscherer",
+            "Vitaliy Mezhuyev",
+            "Martin Tschandl"
+          ],
+          "doc_link": "https://dl.acm.org/doi/pdf/10.1145/3587828.3587874"
+        },
+        {
+          "title": "Fundamental Framework for Task Mining Technology Adoption: Results from a Qualitative Empirical Study",
+          "title_link": "https://dl.acm.org/doi/10.1145/3605423.3605443",
+          "publication_info": "ICCTA '23: Proceedings of the 2023 9th International Conference on Computer Technology ApplicationsMay 2023, pp 50–59https://doi.org/10.1145/3605423.3605443",
+          "authors": [
+            "Johannes Dirnberger",
+            "Bernadette Loidl",
+            "Uwe Brunner"
+          ],
+          "doc_link": "https://dl.acm.org/doi/pdf/10.1145/3605423.3605443"
+        },
+        {
+          "title": "Towards automated testing of RPA implementations",
+          "title_link": "https://dl.acm.org/doi/10.1145/3412452.3423573",
+          "publication_info": "A-TEST 2020: Proceedings of the 11th ACM SIGSOFT International Workshop on Automating TEST Case Design, Selection, and EvaluationNovember 2020, pp 21–24https://doi.org/10.1145/3412452.3423573",
+          "authors": [
+            "Marina Cernat",
+            "Adelina Nicoleta Staicu",
+            "Alin Stefanescu"
+          ],
+          "doc_link": null
+        },
+        {
+          "title": "The Key Factors Affecting RPA-business Alignment",
+          "title_link": "https://dl.acm.org/doi/10.1145/3265689.3265699",
+          "publication_info": "ICCSE'18: Proceedings of the 3rd International Conference on Crowd Science and EngineeringJuly 2018, Article No.: 10, pp 1–6https://doi.org/10.1145/3265689.3265699",
+          "authors": [
+            "Ning Zhang",
+            "Bo Liu"
+          ],
+          "doc_link": null
+        },
+        {
+          "title": "NLP And IR Applications For Financial Reporting And Non-Financial Disclosure. Framework Implementation And Roadmap For Feasible Integration With The Accounting Process",
+          "title_link": "https://dl.acm.org/doi/10.1145/3582768.3582796",
+          "publication_info": "NLPIR '22: Proceedings of the 2022 6th International Conference on Natural Language Processing and Information RetrievalDecember 2022, pp 117–124https://doi.org/10.1145/3582768.3582796",
+          "authors": [
+            "Alessio Faccia",
+            "Pythagoras Petratos"
+          ],
+          "doc_link": "https://dl.acm.org/doi/pdf/10.1145/3582768.3582796"
+        },
+        {
+          "title": "Towards a Framework of Implementing Software Robots: Transforming Human-executed Routines into Machines",
+          "title_link": "https://dl.acm.org/doi/10.1145/3380799.3380808",
+          "publication_info": "ACM SIGMIS Database: the DATABASE for Advances in Information Systems (SIGMIS), Volume 51, Issue 1February 2020, pp 104–128https://doi.org/10.1145/3380799.3380808",
+          "authors": [
+            "Corinna Rutschi",
+            "Jens Dibbern"
+          ],
+          "doc_link": null
+        },
+        {
+          "title": "Design of Human Resource Management System to Improve the Payout Schedule of a Garments Company",
+          "title_link": "https://dl.acm.org/doi/10.1145/3535782.3535806",
+          "publication_info": "MSIE '22: Proceedings of the 4th International Conference on Management Science and Industrial EngineeringApril 2022, pp 174–183https://doi.org/10.1145/3535782.3535806",
+          "authors": [
+            "Grace Lorraine Intal",
+            "Johnamae Khow",
+            "Karim Elshal",
+            "Christopher Pardillo",
+            "Danielicah Cruz"
+          ],
+          "doc_link": null
+        },
+        {
+          "title": "An algorithmic method for business process reengineering and service automation in the public sector",
+          "title_link": "https://dl.acm.org/doi/10.1145/3614321.3614336",
+          "publication_info": "ICEGOV '23: Proceedings of the 16th International Conference on Theory and Practice of Electronic GovernanceSeptember 2023, pp 119–126https://doi.org/10.1145/3614321.3614336",
+          "authors": [
+            "Yannis Charalabidis",
+            "Zoi Lachana",
+            "Charalampos Alexopoulos",
+            "Michalis-Avgerinos Loutsaris"
+          ],
+          "doc_link": "https://dl.acm.org/doi/pdf/10.1145/3614321.3614336"
+        },
+        {
+          "title": "IMMS '23: Proceedings of the 2023 6th International Conference on Information Management and Management Science",
+          "title_link": "https://dl.acm.org/doi/proceedings/10.1145/3625469",
+          "publication_info": "No Publication Info",
+          "authors": [],
+          "doc_link": null
+        },
+        {
+          "title": "IWSiB '22: Proceedings of the 5th International Workshop on Software-intensive Business: Towards Sustainable Software Business",
+          "title_link": "https://dl.acm.org/doi/proceedings/10.1145/3524614",
+          "publication_info": "No Publication Info",
+          "authors": [
+            "Jorge Melegati"
+          ],
+          "doc_link": null
+        },
+        {
+          "title": "ICIBE '23: Proceedings of the 2023 9th International Conference on Industrial and Business Engineering",
+          "title_link": "https://dl.acm.org/doi/proceedings/10.1145/3629378",
+          "publication_info": "No Publication Info",
+          "authors": [],
+          "doc_link": null
+        },
+        {
+          "title": "ICICM '22: Proceedings of the 12th International Conference on Information Communication and Management",
+          "title_link": "https://dl.acm.org/doi/proceedings/10.1145/3551690",
+          "publication_info": "No Publication Info",
+          "authors": [],
+          "doc_link": null
+        },
+        {
+          "title": "ICIMMI '22: Proceedings of the 4th International Conference on Information Management & Machine Intelligence",
+          "title_link": "https://dl.acm.org/doi/proceedings/10.1145/3590837",
+          "publication_info": "No Publication Info",
+          "authors": [],
+          "doc_link": null
+        },
+        {
+          "title": "FlowMind: Automatic Workflow Generation with LLMs",
+          "title_link": "https://dl.acm.org/doi/10.1145/3604237.3626908",
+          "publication_info": "ICAIF '23: Proceedings of the Fourth ACM International Conference on AI in FinanceNovember 2023, pp 73–81https://doi.org/10.1145/3604237.3626908",
+          "authors": [
+            "Zhen Zeng",
+            "William Watson",
+            "Nicole Cho",
+            "Saba Rahimi",
+            "Shayleen Reynolds",
+            "Tucker Balch",
+            "Manuela Veloso"
+          ],
+          "doc_link": null
+        },
+        {
+          "title": "A Methodology for Assessing the Effectiveness of the Introduction of Digital Technologies in Commercial Banks of Uzbekistan",
+          "title_link": "https://dl.acm.org/doi/10.1145/3584202.3584217",
+          "publication_info": "ICFNDS '22: Proceedings of the 6th International Conference on Future Networks & Distributed SystemsDecember 2022, pp 93–98https://doi.org/10.1145/3584202.3584217",
+          "authors": [
+            "Muyassarzoda Fayzieva"
+          ],
+          "doc_link": "https://dl.acm.org/doi/pdf/10.1145/3584202.3584217"
+        },
+        {
+          "title": "Research and Exploration on The Application of RPA and Artificial Intelligence Technology in The Field of Electric Power Marketing",
+          "title_link": "https://dl.acm.org/doi/10.1145/3513142.3513236",
+          "publication_info": "ICITEE '21: Proceedings of the 4th International Conference on Information Technologies and Electrical EngineeringOctober 2021, Article No.: 92, pp 1–5https://doi.org/10.1145/3513142.3513236",
+          "authors": [
+            "Zhun Wang",
+            "Le Zhang",
+            "Fan Zhang",
+            "Wenjuan Li",
+            "Zhi Yang"
+          ],
+          "doc_link": null
+        },
+        {
+          "title": "Challenges in implementing financial technologies in to the Uzbekistan's financial system",
+          "title_link": "https://dl.acm.org/doi/10.1145/3584202.3584276",
+          "publication_info": "ICFNDS '22: Proceedings of the 6th International Conference on Future Networks & Distributed SystemsDecember 2022, pp 499–503https://doi.org/10.1145/3584202.3584276",
+          "authors": [
+            "Rakhmatilla Rahmonovich Tojiev"
+          ],
+          "doc_link": "https://dl.acm.org/doi/pdf/10.1145/3584202.3584276"
+        },
+        {
+          "title": "Analysis of The Advancement of Rpa Technology and Its Application in the Financial Field of Electric Power Enterprises",
+          "title_link": "https://dl.acm.org/doi/10.1145/3513142.3513235",
+          "publication_info": "ICITEE '21: Proceedings of the 4th International Conference on Information Technologies and Electrical EngineeringOctober 2021, Article No.: 91, pp 1–5https://doi.org/10.1145/3513142.3513235",
+          "authors": [
+            "Le Zhang",
+            "Junda Ren",
+            "Zhi Yang",
+            "Zenan Yin",
+            "Yiting Chen",
+            "Yiming Gu"
+          ],
+          "doc_link": null
+        },
+        {
+          "title": "An Exploration on Accounting Professionals Facing the Development of AI",
+          "title_link": "https://dl.acm.org/doi/10.1145/3494583.3494595",
+          "publication_info": "ICIBE '21: Proceedings of the 7th International Conference on Industrial and Business EngineeringSeptember 2021, pp 94–103https://doi.org/10.1145/3494583.3494595",
+          "authors": [
+            "Justine S. Chang",
+            "Manchun Hsiao",
+            "Yiting Peng"
+          ],
+          "doc_link": null
+        },
+        {
+          "title": "What's Next in Blockchain Research?: - An Identification of Key Topics Using a Multidisciplinary Perspective",
+          "title_link": "https://dl.acm.org/doi/10.1145/3447934.3447938",
+          "publication_info": "ACM SIGMIS Database: the DATABASE for Advances in Information Systems (SIGMIS), Volume 52, Issue 1February 2021, pp 27–52https://doi.org/10.1145/3447934.3447938",
+          "authors": [
+            "Horst Treiblmaier",
+            "Melanie Swan",
+            "Primavera de Filippi",
+            "Mary Lacity",
+            "Thomas Hardjono",
+            "Henry Kim"
+          ],
+          "doc_link": null
+        },
+        {
+          "title": "The growth and evolution of India's software industry",
+          "title_link": "https://dl.acm.org/doi/10.1145/3347863",
+          "publication_info": "Communications of the ACM (CACM), Volume 62, Issue 11November 2019, pp 64–69https://doi.org/10.1145/3347863",
+          "authors": [
+            "Pankaj Jalote",
+            "Pari Natarajan"
+          ],
+          "doc_link": "https://dl.acm.org/doi/pdf/10.1145/3347863"
+        },
+        {
+          "title": "Tool smiths in off-shored work: socio-technical system of quality testing in India",
+          "title_link": "https://dl.acm.org/doi/10.1145/3287098.3287112",
+          "publication_info": "ICTD '19: Proceedings of the Tenth International Conference on Information and Communication Technologies and DevelopmentJanuary 2019, Article No.: 11, pp 1–10https://doi.org/10.1145/3287098.3287112",
+          "authors": [
+            "Venkata Ratnadeep Suri",
+            "Nimmy Rangaswamy",
+            "Tanmay Joshi",
+            "Meghna Joshi",
+            "Sneha Nanavati"
+          ],
+          "doc_link": null
+        },
+        {
+          "title": "Artificial Intelligence: Opportunities and Challenges for the Public Sector",
+          "title_link": "https://dl.acm.org/doi/10.1145/3326365.3326420",
+          "publication_info": "ICEGOV '19: Proceedings of the 12th International Conference on Theory and Practice of Electronic GovernanceApril 2019, pp 418–426https://doi.org/10.1145/3326365.3326420",
+          "authors": [
+            "Deniz Susar",
+            "Vincenzo Aquaro"
+          ],
+          "doc_link": null
+        },
+        {
+          "title": "Research on the Influence of Artificial Intelligence Technology with web 3.0 on Accounting Education and Its Countermeasures",
+          "title_link": "https://dl.acm.org/doi/10.1145/3527666",
+          "publication_info": "ACM Transactions on Asian and Low-Resource Language Information Processing (TALLIP), Volume 21, Issue 6Article No.: 116, pp 1–17https://doi.org/10.1145/3527666",
+          "authors": [
+            "Changzhen Li",
+            "Xin Zhao"
+          ],
+          "doc_link": null
+        },
+        {
+          "title": "ICCTA '23: Proceedings of the 2023 9th International Conference on Computer Technology Applications",
+          "title_link": "https://dl.acm.org/doi/proceedings/10.1145/3605423",
+          "publication_info": "No Publication Info",
+          "authors": [],
+          "doc_link": null
+        },
+        {
+          "title": "ICACS '22: Proceedings of the 6th International Conference on Algorithms, Computing and Systems",
+          "title_link": "https://dl.acm.org/doi/proceedings/10.1145/3564982",
+          "publication_info": "No Publication Info",
+          "authors": [],
+          "doc_link": null
+        },
+        {
+          "title": "SIGMIS-CPR '22: Proceedings of the 2022 Computers and People Research Conference",
+          "title_link": "https://dl.acm.org/doi/proceedings/10.1145/3510606",
+          "publication_info": "No Publication Info",
+          "authors": [
+            "Mike Gallivan",
+            "Sam Zaza",
+            "Deborah Armstrong",
+            "Indira R. Guzman",
+            "Guillermo Rodriguez-Abitia"
+          ],
+          "doc_link": null
+        },
+        {
+          "title": "Whither AutoML? Understanding the Role of Automation in Machine Learning Workflows",
+          "title_link": "https://dl.acm.org/doi/10.1145/3411764.3445306",
+          "publication_info": "CHI '21: Proceedings of the 2021 CHI Conference on Human Factors in Computing SystemsMay 2021, Article No.: 83, pp 1–16https://doi.org/10.1145/3411764.3445306",
+          "authors": [
+            "Doris Xin",
+            "Eva Yiwei Wu",
+            "Doris Jung-Lin Lee",
+            "Niloufar Salehi",
+            "Aditya Parameswaran"
+          ],
+          "doc_link": "https://dl.acm.org/doi/pdf/10.1145/3411764.3445306"
+        },
+        {
+          "title": "Global Pandemic and Rapid New Product Development of Medical Products",
+          "title_link": "https://dl.acm.org/doi/10.1145/3428492",
+          "publication_info": "Digital Government: Research and Practice (DGOV), Volume 2, Issue 2Article No.: 17, pp 1–38https://doi.org/10.1145/3428492",
+          "authors": [
+            "Moothedath Chandran Kumari",
+            "Biradar Sagar"
+          ],
+          "doc_link": "https://dl.acm.org/doi/pdf/10.1145/3428492"
+        },
+        {
+          "title": "MISNC '22: Proceedings of the 9th Multidisciplinary International Social Networks Conference",
+          "title_link": "https://dl.acm.org/doi/proceedings/10.1145/3561278",
+          "publication_info": "No Publication Info",
+          "authors": [],
+          "doc_link": null
+        },
+        {
+          "title": "ICFNDS '22: Proceedings of the 6th International Conference on Future Networks & Distributed Systems",
+          "title_link": "https://dl.acm.org/doi/proceedings/10.1145/3584202",
+          "publication_info": "No Publication Info",
+          "authors": [],
+          "doc_link": null
+        },
+        {
+          "title": "ICSCA '23: Proceedings of the 2023 12th International Conference on Software and Computer Applications",
+          "title_link": "https://dl.acm.org/doi/proceedings/10.1145/3587828",
+          "publication_info": "No Publication Info",
+          "authors": [],
+          "doc_link": null
+        },
+        {
+          "title": "ICCTA '22: Proceedings of the 2022 8th International Conference on Computer Technology Applications",
+          "title_link": "https://dl.acm.org/doi/proceedings/10.1145/3543712",
+          "publication_info": "No Publication Info",
+          "authors": [],
+          "doc_link": null
+        },
+        {
+          "title": "UKICER '22: Proceedings of the 2022 Conference on United Kingdom & Ireland Computing Education Research",
+          "title_link": "https://dl.acm.org/doi/proceedings/10.1145/3555009",
+          "publication_info": "No Publication Info",
+          "authors": [
+            "Keith Quille",
+            "Joseph Maguire",
+            "Brett A. Becker"
+          ],
+          "doc_link": null
+        },
+        {
+          "title": "DGO '23: Proceedings of the 24th Annual International Conference on Digital Government Research",
+          "title_link": "https://dl.acm.org/doi/proceedings/10.1145/3598469",
+          "publication_info": "No Publication Info",
+          "authors": [
+            "David Duenas Cid",
+            "Nadzeya Sabatini",
+            "Loni Hagen",
+            "Hsin-chung Liao"
+          ],
+          "doc_link": null
+        },
+        {
+          "title": "Onward! 2023: Proceedings of the 2023 ACM SIGPLAN International Symposium on New Ideas, New Paradigms, and Reflections on Programming and Software",
+          "title_link": "https://dl.acm.org/doi/proceedings/10.1145/3622758",
+          "publication_info": "No Publication Info",
+          "authors": [
+            "Tijs van der Storm",
+            "Robert Hirschfeld"
+          ],
+          "doc_link": null
+        },
+        {
+          "title": "ICAIF '23: Proceedings of the Fourth ACM International Conference on AI in Finance",
+          "title_link": "https://dl.acm.org/doi/proceedings/10.1145/3604237",
+          "publication_info": "No Publication Info",
+          "authors": [],
+          "doc_link": null
+        },
+        {
+          "title": "CHIWORK '23: Proceedings of the 2nd Annual Meeting of the Symposium on Human-Computer Interaction for Work",
+          "title_link": "https://dl.acm.org/doi/proceedings/10.1145/3596671",
+          "publication_info": "No Publication Info",
+          "authors": [
+            "Susanne Boll",
+            "Anna Cox",
+            "Thomas Ludwig",
+            "Marta E Cecchinato"
+          ],
+          "doc_link": null
+        },
+        {
+          "title": "C&T '23: Proceedings of the 11th International Conference on Communities and Technologies",
+          "title_link": "https://dl.acm.org/doi/proceedings/10.1145/3593743",
+          "publication_info": "No Publication Info",
+          "authors": [
+            "Annika Wolff",
+            "Dominik Siemon",
+            "Anna De Liddo",
+            "Grazia Concilio"
+          ],
+          "doc_link": null
+        },
+        {
+          "title": "SBSI '23: Proceedings of the XIX Brazilian Symposium on Information Systems",
+          "title_link": "https://dl.acm.org/doi/proceedings/10.1145/3592813",
+          "publication_info": "No Publication Info",
+          "authors": [
+            "Mônica Ximenes C. da Cunha",
+            "Marcílio F. de Souza Júnior",
+            "Johnny C. Marques",
+            "Tadeu M. de Classe",
+            "Rafael D. Araújo"
+          ],
+          "doc_link": null
+        },
+        {
+          "title": "NLPIR '22: Proceedings of the 2022 6th International Conference on Natural Language Processing and Information Retrieval",
+          "title_link": "https://dl.acm.org/doi/proceedings/10.1145/3582768",
+          "publication_info": "No Publication Info",
+          "authors": [],
+          "doc_link": null
+        },
+        {
+          "title": "Computing Curricula 2020: Paradigms for Global Computing Education",
+          "title_link": "https://dl.acm.org/doi/book/10.1145/3467967",
+          "publication_info": "No Publication Info",
+          "authors": [
+            " CC2020 Task Force"
+          ],
+          "doc_link": "https://dl.acm.org/doi/pdf/10.1145/3467967"
+        },
+        {
+          "title": "dg.o 2022: DG.O 2022: The 23rd Annual International Conference on Digital Government Research",
+          "title_link": "https://dl.acm.org/doi/proceedings/10.1145/3543434",
+          "publication_info": "No Publication Info",
+          "authors": [
+            "Loni Hagen",
+            "Mihkel Solvak",
+            "Sungsoo Hwang"
+          ],
+          "doc_link": null
+        },
+        {
+          "title": "ICSLT '22: Proceedings of the 8th International Conference on e-Society, e-Learning and e-Technologies",
+          "title_link": "https://dl.acm.org/doi/proceedings/10.1145/3545922",
+          "publication_info": "No Publication Info",
+          "authors": [],
+          "doc_link": null
+        },
+        {
+          "title": "ICEGOV '23: Proceedings of the 16th International Conference on Theory and Practice of Electronic Governance",
+          "title_link": "https://dl.acm.org/doi/proceedings/10.1145/3614321",
+          "publication_info": "No Publication Info",
+          "authors": [
+            "Demi Getschko",
+            "Ida Lindgren",
+            "Mete Yildiz",
+            "Mário Peixoto",
+            "Flávia Barbosa",
+            "Cristina Braga"
+          ],
+          "doc_link": null
+        },
+        {
+          "title": "UIST '23 Adjunct: Adjunct Proceedings of the 36th Annual ACM Symposium on User Interface Software and Technology",
+          "title_link": "https://dl.acm.org/doi/proceedings/10.1145/3586182",
+          "publication_info": "No Publication Info",
+          "authors": [
+            "Sean Follmer",
+            "Jeff Han",
+            "Jürgen Steimle",
+            "Nathalie Henry Riche"
+          ],
+          "doc_link": null
+        },
+        {
+          "title": "CHI '21: Proceedings of the 2021 CHI Conference on Human Factors in Computing Systems",
+          "title_link": "https://dl.acm.org/doi/proceedings/10.1145/3411764",
+          "publication_info": "No Publication Info",
+          "authors": [
+            "Yoshifumi Kitamura",
+            "Aaron Quigley",
+            "Katherine Isbister",
+            "Takeo Igarashi",
+            "Pernille Bjørn",
+            "Steven Drucker"
+          ],
+          "doc_link": null
+        },
+        {
+          "title": "CHI EA '21: Extended Abstracts of the 2021 CHI Conference on Human Factors in Computing Systems",
+          "title_link": "https://dl.acm.org/doi/proceedings/10.1145/3411763",
+          "publication_info": "No Publication Info",
+          "authors": [
+            "Yoshifumi Kitamura",
+            "Aaron Quigley",
+            "Katherine Isbister",
+            "Takeo Igarashi"
+          ],
+          "doc_link": null
+        },
+        {
+          "title": "CHI EA '23: Extended Abstracts of the 2023 CHI Conference on Human Factors in Computing Systems",
+          "title_link": "https://dl.acm.org/doi/proceedings/10.1145/3544549",
+          "publication_info": "No Publication Info",
+          "authors": [
+            "Albrecht Schmidt",
+            "Kaisa Väänänen",
+            "Tesh Goyal",
+            "Per Ola Kristensson",
+            "Anicia Peters"
+          ],
+          "doc_link": null
+        },
+        {
+          "title": "WSSE '23: Proceedings of the 2023 5th World Symposium on Software Engineering",
+          "title_link": "https://dl.acm.org/doi/proceedings/10.1145/3631991",
+          "publication_info": "No Publication Info",
+          "authors": [],
+          "doc_link": null
+        },
+        {
+          "title": "ICEMT '22: Proceedings of the 6th International Conference on Education and Multimedia Technology",
+          "title_link": "https://dl.acm.org/doi/proceedings/10.1145/3551708",
+          "publication_info": "No Publication Info",
+          "authors": [],
+          "doc_link": null
+        },
+        {
+          "title": "ICETC '23: Proceedings of the 15th International Conference on Education Technology and Computers",
+          "title_link": "https://dl.acm.org/doi/proceedings/10.1145/3629296",
+          "publication_info": "No Publication Info",
+          "authors": [],
+          "doc_link": null
+        },
+        {
+          "title": "SIGDOC '23: Proceedings of the 41st ACM International Conference on Design of Communication",
+          "title_link": "https://dl.acm.org/doi/proceedings/10.1145/3615335",
+          "publication_info": "No Publication Info",
+          "authors": [
+            "Sonia Stephens",
+            "Joseph Bartolotta",
+            "Kristin Marie Bivens"
+          ],
+          "doc_link": null
+        },
+        {
+          "title": "RICAI '22: Proceedings of the 2022 4th International Conference on Robotics, Intelligent Control and Artificial Intelligence",
+          "title_link": "https://dl.acm.org/doi/proceedings/10.1145/3584376",
+          "publication_info": "No Publication Info",
+          "authors": [],
+          "doc_link": null
+        },
+        {
+          "title": "ASE '22: Proceedings of the 37th IEEE/ACM International Conference on Automated Software Engineering",
+          "title_link": "https://dl.acm.org/doi/proceedings/10.1145/3551349",
+          "publication_info": "No Publication Info",
+          "authors": [],
+          "doc_link": null
+        }
+      ]
+    },
+    {
+      "query_metadata": {
+        "query_number": 2,
+        "max_items": 100,
+        "params": {
+          "fillQuickSearch": "false",
+          "target": "advanced",
+          "expand": "dl",
+          "AllField": "\"Robotic+Process+Automation\"+AND+(implementation+AND+recommendations)+AND+(bank+OR+fintech)",
+          "base": "https://dl.acm.org/action/doSearch",
+          "AvailableFormat": "lit:pdf",
+          "AfterYear": 2014,
+          "BeforeYear": 2024,
+          "startPage": 0,
+          "pageSize": 50
+        }
+      },
+      "query_link_statistics": {
+        "total_results_query": 45,
+        "total_pdf_links_query": 6
+      },
+      "query_results": [
+        {
+          "title": "Impact of robotic process automation in supply chain:: A model for task selection",
+          "title_link": "https://dl.acm.org/doi/10.1145/3475851.3475865",
+          "publication_info": "RSAE '21: Proceedings of the 2021 3rd International Conference on Robotics Systems and Automation EngineeringMay 2021, pp 17–20https://doi.org/10.1145/3475851.3475865",
+          "authors": [
+            "Abdelkader Rhouati",
+            "El Hassane Ettifouri",
+            "Walid Dahhane",
+            "Georges Abou Haidar"
+          ],
+          "doc_link": null
+        },
+        {
+          "title": "Robotic process automation of calculating investments in a business project",
+          "title_link": "https://dl.acm.org/doi/10.1145/3587828.3587874",
+          "publication_info": "ICSCA '23: Proceedings of the 2023 12th International Conference on Software and Computer ApplicationsFebruary 2023, pp 309–314https://doi.org/10.1145/3587828.3587874",
+          "authors": [
+            "Michael Hafenscherer",
+            "Vitaliy Mezhuyev",
+            "Martin Tschandl"
+          ],
+          "doc_link": "https://dl.acm.org/doi/pdf/10.1145/3587828.3587874"
+        },
+        {
+          "title": "Towards a Framework of Implementing Software Robots: Transforming Human-executed Routines into Machines",
+          "title_link": "https://dl.acm.org/doi/10.1145/3380799.3380808",
+          "publication_info": "ACM SIGMIS Database: the DATABASE for Advances in Information Systems (SIGMIS), Volume 51, Issue 1February 2020, pp 104–128https://doi.org/10.1145/3380799.3380808",
+          "authors": [
+            "Corinna Rutschi",
+            "Jens Dibbern"
+          ],
+          "doc_link": null
+        },
+        {
+          "title": "Fundamental Framework for Task Mining Technology Adoption: Results from a Qualitative Empirical Study",
+          "title_link": "https://dl.acm.org/doi/10.1145/3605423.3605443",
+          "publication_info": "ICCTA '23: Proceedings of the 2023 9th International Conference on Computer Technology ApplicationsMay 2023, pp 50–59https://doi.org/10.1145/3605423.3605443",
+          "authors": [
+            "Johannes Dirnberger",
+            "Bernadette Loidl",
+            "Uwe Brunner"
+          ],
+          "doc_link": "https://dl.acm.org/doi/pdf/10.1145/3605423.3605443"
+        },
+        {
+          "title": "NLP And IR Applications For Financial Reporting And Non-Financial Disclosure. Framework Implementation And Roadmap For Feasible Integration With The Accounting Process",
+          "title_link": "https://dl.acm.org/doi/10.1145/3582768.3582796",
+          "publication_info": "NLPIR '22: Proceedings of the 2022 6th International Conference on Natural Language Processing and Information RetrievalDecember 2022, pp 117–124https://doi.org/10.1145/3582768.3582796",
+          "authors": [
+            "Alessio Faccia",
+            "Pythagoras Petratos"
+          ],
+          "doc_link": "https://dl.acm.org/doi/pdf/10.1145/3582768.3582796"
+        },
+        {
+          "title": "Challenges in implementing financial technologies in to the Uzbekistan's financial system",
+          "title_link": "https://dl.acm.org/doi/10.1145/3584202.3584276",
+          "publication_info": "ICFNDS '22: Proceedings of the 6th International Conference on Future Networks & Distributed SystemsDecember 2022, pp 499–503https://doi.org/10.1145/3584202.3584276",
+          "authors": [
+            "Rakhmatilla Rahmonovich Tojiev"
+          ],
+          "doc_link": "https://dl.acm.org/doi/pdf/10.1145/3584202.3584276"
+        },
+        {
+          "title": "Research and Exploration on The Application of RPA and Artificial Intelligence Technology in The Field of Electric Power Marketing",
+          "title_link": "https://dl.acm.org/doi/10.1145/3513142.3513236",
+          "publication_info": "ICITEE '21: Proceedings of the 4th International Conference on Information Technologies and Electrical EngineeringOctober 2021, Article No.: 92, pp 1–5https://doi.org/10.1145/3513142.3513236",
+          "authors": [
+            "Zhun Wang",
+            "Le Zhang",
+            "Fan Zhang",
+            "Wenjuan Li",
+            "Zhi Yang"
+          ],
+          "doc_link": null
+        },
+        {
+          "title": "Computing Curricula 2020: Paradigms for Global Computing Education",
+          "title_link": "https://dl.acm.org/doi/book/10.1145/3467967",
+          "publication_info": "No Publication Info",
+          "authors": [
+            " CC2020 Task Force"
+          ],
+          "doc_link": "https://dl.acm.org/doi/pdf/10.1145/3467967"
+        },
+        {
+          "title": "Artificial Intelligence: Opportunities and Challenges for the Public Sector",
+          "title_link": "https://dl.acm.org/doi/10.1145/3326365.3326420",
+          "publication_info": "ICEGOV '19: Proceedings of the 12th International Conference on Theory and Practice of Electronic GovernanceApril 2019, pp 418–426https://doi.org/10.1145/3326365.3326420",
+          "authors": [
+            "Deniz Susar",
+            "Vincenzo Aquaro"
+          ],
+          "doc_link": null
+        },
+        {
+          "title": "Artificial intelligence-based indicators for ALGO trading strategy on the NSE derivatives",
+          "title_link": "https://dl.acm.org/doi/10.1145/3590837.3590875",
+          "publication_info": "ICIMMI '22: Proceedings of the 4th International Conference on Information Management & Machine IntelligenceDecember 2022, Article No.: 38, pp 1–6https://doi.org/10.1145/3590837.3590875",
+          "authors": [
+            "Joyjit Patra",
+            "Mimo Patra",
+            "Subir Gupta"
+          ],
+          "doc_link": null
+        },
+        {
+          "title": "Research on the Influence of Artificial Intelligence Technology with web 3.0 on Accounting Education and Its Countermeasures",
+          "title_link": "https://dl.acm.org/doi/10.1145/3527666",
+          "publication_info": "ACM Transactions on Asian and Low-Resource Language Information Processing (TALLIP), Volume 21, Issue 6Article No.: 116, pp 1–17https://doi.org/10.1145/3527666",
+          "authors": [
+            "Changzhen Li",
+            "Xin Zhao"
+          ],
+          "doc_link": null
+        },
+        {
+          "title": "ICIBE '23: Proceedings of the 2023 9th International Conference on Industrial and Business Engineering",
+          "title_link": "https://dl.acm.org/doi/proceedings/10.1145/3629378",
+          "publication_info": "No Publication Info",
+          "authors": [],
+          "doc_link": null
+        },
+        {
+          "title": "ICCTA '23: Proceedings of the 2023 9th International Conference on Computer Technology Applications",
+          "title_link": "https://dl.acm.org/doi/proceedings/10.1145/3605423",
+          "publication_info": "No Publication Info",
+          "authors": [],
+          "doc_link": null
+        },
+        {
+          "title": "ICACS '22: Proceedings of the 6th International Conference on Algorithms, Computing and Systems",
+          "title_link": "https://dl.acm.org/doi/proceedings/10.1145/3564982",
+          "publication_info": "No Publication Info",
+          "authors": [],
+          "doc_link": null
+        },
+        {
+          "title": "Whither AutoML? Understanding the Role of Automation in Machine Learning Workflows",
+          "title_link": "https://dl.acm.org/doi/10.1145/3411764.3445306",
+          "publication_info": "CHI '21: Proceedings of the 2021 CHI Conference on Human Factors in Computing SystemsMay 2021, Article No.: 83, pp 1–16https://doi.org/10.1145/3411764.3445306",
+          "authors": [
+            "Doris Xin",
+            "Eva Yiwei Wu",
+            "Doris Jung-Lin Lee",
+            "Niloufar Salehi",
+            "Aditya Parameswaran"
+          ],
+          "doc_link": "https://dl.acm.org/doi/pdf/10.1145/3411764.3445306"
+        },
+        {
+          "title": "ICFNDS '22: Proceedings of the 6th International Conference on Future Networks & Distributed Systems",
+          "title_link": "https://dl.acm.org/doi/proceedings/10.1145/3584202",
+          "publication_info": "No Publication Info",
+          "authors": [],
+          "doc_link": null
+        },
+        {
+          "title": "UKICER '22: Proceedings of the 2022 Conference on United Kingdom & Ireland Computing Education Research",
+          "title_link": "https://dl.acm.org/doi/proceedings/10.1145/3555009",
+          "publication_info": "No Publication Info",
+          "authors": [
+            "Keith Quille",
+            "Joseph Maguire",
+            "Brett A. Becker"
+          ],
+          "doc_link": null
+        },
+        {
+          "title": "MISNC '22: Proceedings of the 9th Multidisciplinary International Social Networks Conference",
+          "title_link": "https://dl.acm.org/doi/proceedings/10.1145/3561278",
+          "publication_info": "No Publication Info",
+          "authors": [],
+          "doc_link": null
+        },
+        {
+          "title": "ICSCA '23: Proceedings of the 2023 12th International Conference on Software and Computer Applications",
+          "title_link": "https://dl.acm.org/doi/proceedings/10.1145/3587828",
+          "publication_info": "No Publication Info",
+          "authors": [],
+          "doc_link": null
+        },
+        {
+          "title": "ICCTA '22: Proceedings of the 2022 8th International Conference on Computer Technology Applications",
+          "title_link": "https://dl.acm.org/doi/proceedings/10.1145/3543712",
+          "publication_info": "No Publication Info",
+          "authors": [],
+          "doc_link": null
+        },
+        {
+          "title": "DGO '23: Proceedings of the 24th Annual International Conference on Digital Government Research",
+          "title_link": "https://dl.acm.org/doi/proceedings/10.1145/3598469",
+          "publication_info": "No Publication Info",
+          "authors": [
+            "David Duenas Cid",
+            "Nadzeya Sabatini",
+            "Loni Hagen",
+            "Hsin-chung Liao"
+          ],
+          "doc_link": null
+        },
+        {
+          "title": "ICAIF '23: Proceedings of the Fourth ACM International Conference on AI in Finance",
+          "title_link": "https://dl.acm.org/doi/proceedings/10.1145/3604237",
+          "publication_info": "No Publication Info",
+          "authors": [],
+          "doc_link": null
+        },
+        {
+          "title": "Onward! 2023: Proceedings of the 2023 ACM SIGPLAN International Symposium on New Ideas, New Paradigms, and Reflections on Programming and Software",
+          "title_link": "https://dl.acm.org/doi/proceedings/10.1145/3622758",
+          "publication_info": "No Publication Info",
+          "authors": [
+            "Tijs van der Storm",
+            "Robert Hirschfeld"
+          ],
+          "doc_link": null
+        },
+        {
+          "title": "ICICM '22: Proceedings of the 12th International Conference on Information Communication and Management",
+          "title_link": "https://dl.acm.org/doi/proceedings/10.1145/3551690",
+          "publication_info": "No Publication Info",
+          "authors": [],
+          "doc_link": null
+        },
+        {
+          "title": "IWSiB '22: Proceedings of the 5th International Workshop on Software-intensive Business: Towards Sustainable Software Business",
+          "title_link": "https://dl.acm.org/doi/proceedings/10.1145/3524614",
+          "publication_info": "No Publication Info",
+          "authors": [
+            "Jorge Melegati"
+          ],
+          "doc_link": null
+        },
+        {
+          "title": "ICIMMI '22: Proceedings of the 4th International Conference on Information Management & Machine Intelligence",
+          "title_link": "https://dl.acm.org/doi/proceedings/10.1145/3590837",
+          "publication_info": "No Publication Info",
+          "authors": [],
+          "doc_link": null
+        },
+        {
+          "title": "CHIWORK '23: Proceedings of the 2nd Annual Meeting of the Symposium on Human-Computer Interaction for Work",
+          "title_link": "https://dl.acm.org/doi/proceedings/10.1145/3596671",
+          "publication_info": "No Publication Info",
+          "authors": [
+            "Susanne Boll",
+            "Anna Cox",
+            "Thomas Ludwig",
+            "Marta E Cecchinato"
+          ],
+          "doc_link": null
+        },
+        {
+          "title": "C&T '23: Proceedings of the 11th International Conference on Communities and Technologies",
+          "title_link": "https://dl.acm.org/doi/proceedings/10.1145/3593743",
+          "publication_info": "No Publication Info",
+          "authors": [
+            "Annika Wolff",
+            "Dominik Siemon",
+            "Anna De Liddo",
+            "Grazia Concilio"
+          ],
+          "doc_link": null
+        },
+        {
+          "title": "SIGMIS-CPR '22: Proceedings of the 2022 Computers and People Research Conference",
+          "title_link": "https://dl.acm.org/doi/proceedings/10.1145/3510606",
+          "publication_info": "No Publication Info",
+          "authors": [
+            "Mike Gallivan",
+            "Sam Zaza",
+            "Deborah Armstrong",
+            "Indira R. Guzman",
+            "Guillermo Rodriguez-Abitia"
+          ],
+          "doc_link": null
+        },
+        {
+          "title": "NLPIR '22: Proceedings of the 2022 6th International Conference on Natural Language Processing and Information Retrieval",
+          "title_link": "https://dl.acm.org/doi/proceedings/10.1145/3582768",
+          "publication_info": "No Publication Info",
+          "authors": [],
+          "doc_link": null
+        },
+        {
+          "title": "SBSI '23: Proceedings of the XIX Brazilian Symposium on Information Systems",
+          "title_link": "https://dl.acm.org/doi/proceedings/10.1145/3592813",
+          "publication_info": "No Publication Info",
+          "authors": [
+            "Mônica Ximenes C. da Cunha",
+            "Marcílio F. de Souza Júnior",
+            "Johnny C. Marques",
+            "Tadeu M. de Classe",
+            "Rafael D. Araújo"
+          ],
+          "doc_link": null
+        },
+        {
+          "title": "dg.o 2022: DG.O 2022: The 23rd Annual International Conference on Digital Government Research",
+          "title_link": "https://dl.acm.org/doi/proceedings/10.1145/3543434",
+          "publication_info": "No Publication Info",
+          "authors": [
+            "Loni Hagen",
+            "Mihkel Solvak",
+            "Sungsoo Hwang"
+          ],
+          "doc_link": null
+        },
+        {
+          "title": "UIST '23 Adjunct: Adjunct Proceedings of the 36th Annual ACM Symposium on User Interface Software and Technology",
+          "title_link": "https://dl.acm.org/doi/proceedings/10.1145/3586182",
+          "publication_info": "No Publication Info",
+          "authors": [
+            "Sean Follmer",
+            "Jeff Han",
+            "Jürgen Steimle",
+            "Nathalie Henry Riche"
+          ],
+          "doc_link": null
+        },
+        {
+          "title": "ICEGOV '23: Proceedings of the 16th International Conference on Theory and Practice of Electronic Governance",
+          "title_link": "https://dl.acm.org/doi/proceedings/10.1145/3614321",
+          "publication_info": "No Publication Info",
+          "authors": [
+            "Demi Getschko",
+            "Ida Lindgren",
+            "Mete Yildiz",
+            "Mário Peixoto",
+            "Flávia Barbosa",
+            "Cristina Braga"
+          ],
+          "doc_link": null
+        },
+        {
+          "title": "CHI '21: Proceedings of the 2021 CHI Conference on Human Factors in Computing Systems",
+          "title_link": "https://dl.acm.org/doi/proceedings/10.1145/3411764",
+          "publication_info": "No Publication Info",
+          "authors": [
+            "Yoshifumi Kitamura",
+            "Aaron Quigley",
+            "Katherine Isbister",
+            "Takeo Igarashi",
+            "Pernille Bjørn",
+            "Steven Drucker"
+          ],
+          "doc_link": null
+        },
+        {
+          "title": "ICSLT '22: Proceedings of the 8th International Conference on e-Society, e-Learning and e-Technologies",
+          "title_link": "https://dl.acm.org/doi/proceedings/10.1145/3545922",
+          "publication_info": "No Publication Info",
+          "authors": [],
+          "doc_link": null
+        },
+        {
+          "title": "CHI EA '21: Extended Abstracts of the 2021 CHI Conference on Human Factors in Computing Systems",
+          "title_link": "https://dl.acm.org/doi/proceedings/10.1145/3411763",
+          "publication_info": "No Publication Info",
+          "authors": [
+            "Yoshifumi Kitamura",
+            "Aaron Quigley",
+            "Katherine Isbister",
+            "Takeo Igarashi"
+          ],
+          "doc_link": null
+        },
+        {
+          "title": "CHI EA '23: Extended Abstracts of the 2023 CHI Conference on Human Factors in Computing Systems",
+          "title_link": "https://dl.acm.org/doi/proceedings/10.1145/3544549",
+          "publication_info": "No Publication Info",
+          "authors": [
+            "Albrecht Schmidt",
+            "Kaisa Väänänen",
+            "Tesh Goyal",
+            "Per Ola Kristensson",
+            "Anicia Peters"
+          ],
+          "doc_link": null
+        },
+        {
+          "title": "IMMS '23: Proceedings of the 2023 6th International Conference on Information Management and Management Science",
+          "title_link": "https://dl.acm.org/doi/proceedings/10.1145/3625469",
+          "publication_info": "No Publication Info",
+          "authors": [],
+          "doc_link": null
+        },
+        {
+          "title": "WSSE '23: Proceedings of the 2023 5th World Symposium on Software Engineering",
+          "title_link": "https://dl.acm.org/doi/proceedings/10.1145/3631991",
+          "publication_info": "No Publication Info",
+          "authors": [],
+          "doc_link": null
+        },
+        {
+          "title": "SIGDOC '23: Proceedings of the 41st ACM International Conference on Design of Communication",
+          "title_link": "https://dl.acm.org/doi/proceedings/10.1145/3615335",
+          "publication_info": "No Publication Info",
+          "authors": [
+            "Sonia Stephens",
+            "Joseph Bartolotta",
+            "Kristin Marie Bivens"
+          ],
+          "doc_link": null
+        },
+        {
+          "title": "ICEMT '22: Proceedings of the 6th International Conference on Education and Multimedia Technology",
+          "title_link": "https://dl.acm.org/doi/proceedings/10.1145/3551708",
+          "publication_info": "No Publication Info",
+          "authors": [],
+          "doc_link": null
+        },
+        {
+          "title": "ICETC '23: Proceedings of the 15th International Conference on Education Technology and Computers",
+          "title_link": "https://dl.acm.org/doi/proceedings/10.1145/3629296",
+          "publication_info": "No Publication Info",
+          "authors": [],
+          "doc_link": null
+        },
+        {
+          "title": "ASE '22: Proceedings of the 37th IEEE/ACM International Conference on Automated Software Engineering",
+          "title_link": "https://dl.acm.org/doi/proceedings/10.1145/3551349",
+          "publication_info": "No Publication Info",
+          "authors": [],
+          "doc_link": null
+        },
+        {
+          "title": "RICAI '22: Proceedings of the 2022 4th International Conference on Robotics, Intelligent Control and Artificial Intelligence",
+          "title_link": "https://dl.acm.org/doi/proceedings/10.1145/3584376",
+          "publication_info": "No Publication Info",
+          "authors": [],
+          "doc_link": null
+        }
+      ]
+    }
+  ]
+}
