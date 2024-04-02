@@ -1,0 +1,3957 @@
+{
+    "total_queries": 3,
+    "total_results": 300,
+    "total_pdf_links": 300,
+    "total_downloaded_pdfs": 262,
+    "queries_data": [
+        {
+            "query_metadata": {
+                "query_number": 0,
+                "max_items": 100,
+                "params": {
+                    "q": "\"Robotic+Process+Automation\"+(integration+finance+industry+financial+sector)+AND+(bank+OR+fintech)+AND+(yearPublished>=2014+AND+yearPublished<=2024)+AND+language%3A\"en\"",
+                    "base": "https://core.ac.uk/search",
+                    "page": 11
+                }
+            },
+            "query_link_statistics": {
+                "total_results_query": 100,
+                "total_pdf_links_query": 100,
+                "downloaded_pdfs_count_query": 85
+            },
+            "query_results": [
+                {
+                    "title": "FinTech ecosystem as an instrument of sustainable development provision",
+                    "authors": [
+                        "Dzhu  O. S.",
+                        "Galazova  S. S.",
+                        "Sopchenko  A. A.",
+                        "Vovchenko  N. G.",
+                        "OAR@UM"
+                    ],
+                    "publication_date": "01/01/2019",
+                    "pdf_link": "https://core.ac.uk/download/288638543.pdf",
+                    "page": 0,
+                    "pdf_downloaded": true
+                },
+                {
+                    "title": "The AI Revolution: Opportunities and Challenges for the Finance Sector",
+                    "authors": [
+                        "Avramovic  Pavle",
+                        "Epiphaniou  Gregory",
+                        "Hariharan  Jagdish",
+                        "Maple  Carsten",
+                        "Penwarden  William",
+                        "Singh  Simran",
+                        "Staykova  Kalina",
+                        "Szpruch  Lukasz",
+                        "Wang  Zijian",
+                        "Wen  Yisi",
+                        "arXiv.org e-Print Archive"
+                    ],
+                    "publication_date": "31/08/2023",
+                    "pdf_link": "http://arxiv.org/abs/2308.16538",
+                    "page": 0,
+                    "pdf_downloaded": true
+                },
+                {
+                    "title": "Information and Communication Technology Capabilities and Business Performance: The Case of Differences in the Czech Financial Sector and Lessons from Robotic Process Automation between 2015 and 2020",
+                    "authors": [
+                        "Marek Vokoun",
+                        "Martin Zelenka",
+                        "Directory of Open Access Journals",
+                        "HR\u010cAK - Portal of Croatian Scientific and Professional Journals",
+                        "Hr\u010dak - Portal of scientific journals of Croatia"
+                    ],
+                    "publication_date": "01/01/2021",
+                    "pdf_link": "https://core.ac.uk/download/481997065.pdf",
+                    "page": 0,
+                    "pdf_downloaded": true
+                },
+                {
+                    "title": "Exploring the Role of Big Data Analytics in Driving Financial Innovation: An Affordance Actualisation Perspectivec",
+                    "authors": [
+                        "Farouk  Firdous Mohd",
+                        "Siew  Eu-Gene",
+                        "AIS Electronic Library (AISeL)"
+                    ],
+                    "publication_date": "01/01/2020",
+                    "pdf_link": "https://core.ac.uk/download/389054927.pdf",
+                    "page": 0,
+                    "pdf_downloaded": true
+                },
+                {
+                    "title": "THE DEVELOPMENT OF THE BANKING INDUSTRY IN THE DIGITAL ERA IN INDONESIA",
+                    "authors": [
+                        "H  Bambang Gunawan",
+                        "Kuswandi  Dadi",
+                        "Ratih  Sri Wulan Windu",
+                        "Sahara  Radi",
+                        "Widiarsih  Widiarsih",
+                        "Jurnal Ilmiah Online STIE Muhammadiyah Bandung"
+                    ],
+                    "publication_date": "23/10/2022",
+                    "pdf_link": "https://core.ac.uk/download/542555941.pdf",
+                    "page": 0,
+                    "pdf_downloaded": true
+                },
+                {
+                    "title": "Employees\u2019 perception of value-added activity increase of Robotic Process Automation with time and cost efficiency: a case study",
+                    "authors": [
+                        "Ortak\u00f6y  Selman",
+                        "Salih Ayd\u0131ner  Arafat",
+                        "\u00d6zs\u00fcr\u00fcn\u00e7  Zehra",
+                        "AIS Electronic Library (AISeL)"
+                    ],
+                    "publication_date": "01/01/2023",
+                    "pdf_link": "https://core.ac.uk/download/567666979.pdf",
+                    "page": 0,
+                    "pdf_downloaded": true
+                },
+                {
+                    "title": "Employees\u2019 perception of value-added activity increase of Robotic Process Automation with time and cost efficiency: a case study",
+                    "authors": [
+                        "Ortak\u00f6y  Selman",
+                        "Salih Ayd\u0131ner  Arafat",
+                        "\u00d6zs\u00fcr\u00fcn\u00e7  Zehra",
+                        "UMinho Editora Revistas"
+                    ],
+                    "publication_date": "06/04/2023",
+                    "pdf_link": "https://core.ac.uk/download/568378362.pdf",
+                    "page": 0,
+                    "pdf_downloaded": false
+                },
+                {
+                    "title": "The Impact of Disruptive Technologies in Finance and Accounting: A Systematic Literature Review",
+                    "authors": [
+                        "Santos  Maria Catarina Ferreira dos",
+                        "Reposit\u00f3rio da Universidade Nova de Lisboa"
+                    ],
+                    "publication_date": "10/04/2023",
+                    "pdf_link": "https://core.ac.uk/download/570972964.pdf",
+                    "page": 0,
+                    "pdf_downloaded": false
+                },
+                {
+                    "title": "Artificial Intelligence in Banking Industry: A Review on Fraud Detection, Credit Management, and Document Processing",
+                    "authors": [
+                        "Alhaddad  Musaab Mohammad",
+                        "ResearchBerg"
+                    ],
+                    "publication_date": "08/11/2018",
+                    "pdf_link": "https://core.ac.uk/download/560380647.pdf",
+                    "page": 0,
+                    "pdf_downloaded": true
+                },
+                {
+                    "title": "INTRODUCTION OF THE LATEST DIGITAL TECHNOLOGIES IN THE BANKING SECTOR: FOREIGN EXPERIENCE AND RUSSIAN PRACTICE",
+                    "authors": [
+                        "I. Bykanova  Natalya",
+                        "L. Mityushina  Irina",
+                        "Mohanad  Al-Saadi",
+                        "Salim  Raheem",
+                        "V. Vaganova  Oksana",
+                        "Crossref",
+                        "DSpace at Belgorod State University",
+                        "Gyandhara International Academic Publication (GIAP): Journals"
+                    ],
+                    "publication_date": "01/01/2019",
+                    "pdf_link": "https://core.ac.uk/download/268005323.pdf",
+                    "page": 0,
+                    "pdf_downloaded": true
+                },
+                {
+                    "title": "How students can combine earning with learning through flexible business process sourcing: a proposition",
+                    "authors": [
+                        "Ian Herbert (1254471)",
+                        "Loughborough University Institutional Repository"
+                    ],
+                    "publication_date": "01/01/2016",
+                    "pdf_link": "https://core.ac.uk/download/288370090.pdf",
+                    "page": 1,
+                    "pdf_downloaded": true
+                },
+                {
+                    "title": "\u201cYou have no idea how much we love Casper\u201d \u2013 Developing configurations of employees\u2019 RPA implementation experiences",
+                    "authors": [
+                        "Techatassanasoontorn  Angsana A",
+                        "Waizenegger  Lena",
+                        "AIS Electronic Library (AISeL)"
+                    ],
+                    "publication_date": "01/01/2020",
+                    "pdf_link": "https://core.ac.uk/download/389054866.pdf",
+                    "page": 1,
+                    "pdf_downloaded": true
+                },
+                {
+                    "title": "Robotic process automation framework - The implementation of Robotic Process Automation in Business Processing Outsourcing Organizations",
+                    "authors": [
+                        "Gon\u00e7alves  Ana Isabel Fernandes",
+                        "Reposit\u00f3rio da Universidade Nova de Lisboa"
+                    ],
+                    "publication_date": "27/01/2023",
+                    "pdf_link": "https://core.ac.uk/download/560745316.pdf",
+                    "page": 1,
+                    "pdf_downloaded": true
+                },
+                {
+                    "title": "Knowledge-based automation and new workforce implementation at a financial institution",
+                    "authors": [
+                        "Elsworth  Catherine",
+                        "University of Johannesburg Institutional Repository"
+                    ],
+                    "publication_date": "01/01/2018",
+                    "pdf_link": "https://core.ac.uk/download/245881171.pdf",
+                    "page": 1,
+                    "pdf_downloaded": true
+                },
+                {
+                    "title": "Influencing factors for the digital transformation in the financial services sector",
+                    "authors": [
+                        "Breitner  Michael H.",
+                        "Rodr\u00edguez Cardona  Davinia",
+                        "Schulenburg  Johann-Matthias Graf von der",
+                        "Schwarzbach  Christoph",
+                        "Werth  Oliver",
+                        "Institutionelles Repositorium der Leibniz Universit\u00e4t Hannover"
+                    ],
+                    "publication_date": "01/01/2020",
+                    "pdf_link": "https://core.ac.uk/download/421650937.pdf",
+                    "page": 1,
+                    "pdf_downloaded": true
+                },
+                {
+                    "title": "Robotic process automation : impact and best practices in portuguese banks",
+                    "authors": [
+                        "Carmo  Gon\u00e7alo Pires de Carvalho Mota",
+                        "Reposit\u00f3rio Institucional da Universidade Cat\u00f3lica Portuguesa"
+                    ],
+                    "publication_date": "28/05/2020",
+                    "pdf_link": "https://core.ac.uk/download/344687883.pdf",
+                    "page": 1,
+                    "pdf_downloaded": true
+                },
+                {
+                    "title": "Guest editorial",
+                    "authors": [
+                        "Chang  Victor",
+                        "Gagnon  St\u00e9phane",
+                        "Ramachandran  Muthu",
+                        "Valverde  Raul",
+                        "Teeside University's Research Repository"
+                    ],
+                    "publication_date": "09/11/2021",
+                    "pdf_link": "https://core.ac.uk/download/492530956.pdf",
+                    "page": 1,
+                    "pdf_downloaded": true
+                },
+                {
+                    "title": "The role of technology in improving the Customer Experience in the banking sector: a systematic mapping study",
+                    "authors": [
+                        "MAINETTI L.",
+                        "VERGALLO R.",
+                        "Archivio Istituzionale della Ricerca- Universit\u00e0 del Salento"
+                    ],
+                    "publication_date": "01/01/2022",
+                    "pdf_link": "https://core.ac.uk/download/571666855.pdf",
+                    "page": 1,
+                    "pdf_downloaded": true
+                },
+                {
+                    "title": "Literature based Cyber Security Topics: Handbook",
+                    "authors": [
+                        "SESHADRI  Dr SRIDHAR",
+                        "International Journal of Innovative Technology and Research (IJITR)"
+                    ],
+                    "publication_date": "29/10/2022",
+                    "pdf_link": "https://core.ac.uk/download/544087838.pdf",
+                    "page": 1,
+                    "pdf_downloaded": true
+                },
+                {
+                    "title": "Future of the German Banking Sector",
+                    "authors": [
+                        "Z\u00fcgel  Alexander",
+                        "Hochschulschriftenserver der Hochschule Furtwangen"
+                    ],
+                    "publication_date": "01/01/2020",
+                    "pdf_link": "https://core.ac.uk/download/334494957.pdf",
+                    "page": 2,
+                    "pdf_downloaded": true
+                },
+                {
+                    "title": "Artificial intelligence and data analytics: Emerging opportunities and challenges in financial services",
+                    "authors": [
+                        "Crispin Coombs (1255719)",
+                        "Raghav Chopra (8354952)",
+                        "Loughborough University Institutional Repository"
+                    ],
+                    "publication_date": "27/11/2019",
+                    "pdf_link": "https://core.ac.uk/download/288351463.pdf",
+                    "page": 2,
+                    "pdf_downloaded": true
+                },
+                {
+                    "title": "Success factors of Robotic Process Automation in case processing",
+                    "authors": [
+                        "Carlstr\u00f6m  Martin",
+                        "Sk\u00e5lin  Ole",
+                        "Agder University Research Archive"
+                    ],
+                    "publication_date": "01/01/2023",
+                    "pdf_link": "https://core.ac.uk/download/577836015.pdf",
+                    "page": 2,
+                    "pdf_downloaded": true
+                },
+                {
+                    "title": "Success factors of Robotic Process Automation in case processing",
+                    "authors": [
+                        "Carlstr\u00f6m  Martin",
+                        "Sk\u00e5lin  Ole",
+                        "Agder University Research Archive"
+                    ],
+                    "publication_date": "01/01/2023",
+                    "pdf_link": "https://core.ac.uk/download/577836325.pdf",
+                    "page": 2,
+                    "pdf_downloaded": false
+                },
+                {
+                    "title": "UNDERSTANDING THE ADOPTION OF ARTIFICIAL INTELLIGENCE IN THE NORWEGIAN BANKING SECTOR: AN ANALYSES OF TRUST, PERCEIVED RISK, AND BENEFITS\"",
+                    "authors": [
+                        "Khan Sultan",
+                        "Agder University Research Archive"
+                    ],
+                    "publication_date": "01/01/2023",
+                    "pdf_link": "https://core.ac.uk/download/577836299.pdf",
+                    "page": 2,
+                    "pdf_downloaded": true
+                },
+                {
+                    "title": "Digital Trade Technology and Policy - Barriers and Opportunities:A Scoping Report for a Centre for Digital Trade and Innovation",
+                    "authors": [
+                        "Adu-Amankwa  Nana Akua",
+                        "Arutyunyan  Arutyun",
+                        "Baucherel  Kate",
+                        "Joneidy  Sina",
+                        "Parniani  Behzad",
+                        "Rahimian  Farzad",
+                        "Roughan  Andrew",
+                        "Short  Michael",
+                        "Teeside University's Research Repository"
+                    ],
+                    "publication_date": "31/03/2022",
+                    "pdf_link": "https://core.ac.uk/download/519712501.pdf",
+                    "page": 2,
+                    "pdf_downloaded": true
+                },
+                {
+                    "title": "Emerging Technology in Business and Finance",
+                    "authors": [
+                        "Chaudhary  Shashwat",
+                        "Dewakar  Sneha",
+                        "Kanika",
+                        "Satsangi  Priya",
+                        "Integrated Journal for Research in Arts and Humanities"
+                    ],
+                    "publication_date": "07/04/2023",
+                    "pdf_link": "https://core.ac.uk/download/570780794.pdf",
+                    "page": 2,
+                    "pdf_downloaded": true
+                },
+                {
+                    "title": "Digital Trade Technology and Policy - Barriers and Opportunities:A Scoping Report for a Centre for Digital Trade and Innovation",
+                    "authors": [
+                        "Adu-Amankwa  Nana Akua",
+                        "Arutyunyan  Arutyun",
+                        "Baucherel  Kate",
+                        "Joneidy  Sina",
+                        "Parniani  Behzad",
+                        "Rahimian  Farzad",
+                        "Roughan  Andrew",
+                        "Short  Michael",
+                        "Teeside University's Research Repository"
+                    ],
+                    "publication_date": "31/03/2022",
+                    "pdf_link": "https://core.ac.uk/download/519711116.pdf",
+                    "page": 2,
+                    "pdf_downloaded": false
+                },
+                {
+                    "title": "The impact of the Center of Excellence governance on the definition of RPA KPIs : An exploratory case-study of the Dutch banking sector",
+                    "authors": [
+                        "Lioliou  Kyveli",
+                        "UTUPub"
+                    ],
+                    "publication_date": "18/06/2020",
+                    "pdf_link": "https://core.ac.uk/download/347180743.pdf",
+                    "page": 2,
+                    "pdf_downloaded": true
+                },
+                {
+                    "title": "The Ecosystem of Startups in Greece: An Explorative Study",
+                    "authors": [
+                        "Koulouris  Stamatios",
+                        "Bard College"
+                    ],
+                    "publication_date": "01/01/2022",
+                    "pdf_link": "https://core.ac.uk/download/541433992.pdf",
+                    "page": 2,
+                    "pdf_downloaded": true
+                },
+                {
+                    "title": "Money after money:Disassembling value/information infrastructures",
+                    "authors": [
+                        "Ferrari  V.",
+                        "International Migration, Integration and Social Cohesion online publications"
+                    ],
+                    "publication_date": "01/01/2023",
+                    "pdf_link": "https://core.ac.uk/download/560939858.pdf",
+                    "page": 3,
+                    "pdf_downloaded": true
+                },
+                {
+                    "title": "Industry 4.0 and accounting: directions, challenges, opportunities",
+                    "authors": [
+                        "Demchuk  Olena",
+                        "Koval   Nataliia",
+                        "Onyshchenko  Oksana",
+                        "Shara  Yevheniia",
+                        "Shevchuk  Kateryna",
+                        "DIALNET",
+                        "Independent Journal of Management & Production"
+                    ],
+                    "publication_date": "01/01/2022",
+                    "pdf_link": "https://core.ac.uk/download/522186633.pdf",
+                    "page": 3,
+                    "pdf_downloaded": true
+                },
+                {
+                    "title": "Money after money:Disassembling value/information infrastructures",
+                    "authors": [
+                        "Ferrari  V.",
+                        "International Migration, Integration and Social Cohesion online publications"
+                    ],
+                    "publication_date": "01/01/2023",
+                    "pdf_link": "https://core.ac.uk/download/560941850.pdf",
+                    "page": 3,
+                    "pdf_downloaded": false
+                },
+                {
+                    "title": "The Impact of Electronic Data Interchange on Accounting Systems",
+                    "authors": [
+                        "Oleiwi  Raad Abdulameer",
+                        "International Journal of Professional Business Review",
+                        "Revista REGEP"
+                    ],
+                    "publication_date": "22/03/2023",
+                    "pdf_link": "https://core.ac.uk/download/561089523.pdf",
+                    "page": 3,
+                    "pdf_downloaded": true
+                },
+                {
+                    "title": "Implications of Emerging Technologies on the Accounting Profession",
+                    "authors": [
+                        "Peace  Collin",
+                        "East Tennessee State University"
+                    ],
+                    "publication_date": "01/05/2021",
+                    "pdf_link": "https://core.ac.uk/download/428357823.pdf",
+                    "page": 3,
+                    "pdf_downloaded": true
+                },
+                {
+                    "title": "How do Machine Learning, Robotic Process Automation, and Blockchains Affect the Human Factor in Business Process Management?",
+                    "authors": [
+                        "Decker  Gero",
+                        "Hull  Richard",
+                        "Mendling  Jan",
+                        "Reijers  Hajo A.",
+                        "Weber  Ingo",
+                        "VU Research Portal",
+                        "Elektronische Publikationen der Wirtschaftsuniversit\u00e4t Wien",
+                        "AIS Electronic Library (AISeL)"
+                    ],
+                    "publication_date": "01/01/2018",
+                    "pdf_link": "https://core.ac.uk/download/301375901.pdf",
+                    "page": 3,
+                    "pdf_downloaded": true
+                },
+                {
+                    "title": "16th Prof. Vladas Gronskas International Scientific Conference",
+                    "authors": [
+                        "\u0160arki\u016bnait\u0117  Ingrida",
+                        "Vilnius University Open Series",
+                        "Vilnius University Proceedings"
+                    ],
+                    "publication_date": "26/10/2022",
+                    "pdf_link": "https://core.ac.uk/download/543008841.pdf",
+                    "page": 3,
+                    "pdf_downloaded": true
+                },
+                {
+                    "title": "Research on the implication of artificial intelligence in accounting subfields: current research trends from bibliometric analysis, and research directions",
+                    "authors": [
+                        "AYAD  Meryem",
+                        "EL MEZOUARI  Said",
+                        "International Journal of Accounting, Finance, Auditing, Management and Economics - IJAFAME",
+                        "International Journal of Accounting, Finance, Auditing, Management and Economics (IJAFAME)",
+                        "International Journal of Accounting, Finance, Auditing, Management and Economics"
+                    ],
+                    "publication_date": "13/10/2022",
+                    "pdf_link": "https://core.ac.uk/download/543113253.pdf",
+                    "page": 3,
+                    "pdf_downloaded": true
+                },
+                {
+                    "title": "Essays on the New Blockchain-Based Digital Financial Market : Risks and Opportunities",
+                    "authors": [
+                        "Sapkota  Niranjan",
+                        "Osuva"
+                    ],
+                    "publication_date": "04/10/2022",
+                    "pdf_link": "https://core.ac.uk/download/535017085.pdf",
+                    "page": 3,
+                    "pdf_downloaded": true
+                },
+                {
+                    "title": "How to Measure RPA\\u27s Benefits? A Review on Metrics, Indicators, and Evaluation Methods of RPA Benefit Assessment",
+                    "authors": [
+                        "Kuehnel  Stephan",
+                        "Meironke  Anja",
+                        "AIS Electronic Library (AISeL)"
+                    ],
+                    "publication_date": "17/01/2022",
+                    "pdf_link": "https://core.ac.uk/download/491250784.pdf",
+                    "page": 3,
+                    "pdf_downloaded": true
+                },
+                {
+                    "title": "Charting the future of accountancy with AI",
+                    "authors": [
+                        "GOH  Clarence",
+                        "LEE  Benjamin Huan Zhou",
+                        "PAN  Gary",
+                        "SEOW  Poh Sun",
+                        "YONG  Melvin",
+                        "Institutional Knowledge at Singapore Management University"
+                    ],
+                    "publication_date": "01/07/2019",
+                    "pdf_link": "https://core.ac.uk/download/286383980.pdf",
+                    "page": 4,
+                    "pdf_downloaded": true
+                },
+                {
+                    "title": "Restructuring the Supply Chain in the Post Covid Era with Geopolitics in the Background",
+                    "authors": [
+                        "Gupta  Vikas",
+                        "ExcelingTech Publishing Company (E-Journals)"
+                    ],
+                    "publication_date": "29/12/2022",
+                    "pdf_link": "https://core.ac.uk/download/552580113.pdf",
+                    "page": 4,
+                    "pdf_downloaded": false
+                },
+                {
+                    "title": "Trend tracking approaches : a critical overview and possible integration between internal and external environment",
+                    "authors": [
+                        "Barroso  Marcos Andr\u00e9 Rosendo",
+                        "UTL Repository"
+                    ],
+                    "publication_date": "01/10/2019",
+                    "pdf_link": "https://core.ac.uk/download/289120129.pdf",
+                    "page": 4,
+                    "pdf_downloaded": true
+                },
+                {
+                    "title": "Future-proofing accounting professionals: Ensuring graduate employability and future readiness",
+                    "authors": [
+                        "Bowles  M",
+                        "Ghosh  S",
+                        "Thomas  L",
+                        "University of Tasmania Open Access Repository",
+                        "Deakin University: openjournals@Deakin"
+                    ],
+                    "publication_date": "01/01/2020",
+                    "pdf_link": "https://core.ac.uk/download/328828824.pdf",
+                    "page": 4,
+                    "pdf_downloaded": false
+                },
+                {
+                    "title": "Development of a model for Business Process Reengineering: A practical application in a Corporate Center of a Logistics Company",
+                    "authors": [
+                        "Ricardo Manuel Monteiro Mo\u00e7o",
+                        "Reposit\u00f3rio Aberto da Universidade do Porto"
+                    ],
+                    "publication_date": "17/07/2018",
+                    "pdf_link": "https://core.ac.uk/download/481359748.pdf",
+                    "page": 4,
+                    "pdf_downloaded": true
+                },
+                {
+                    "title": "Guiding the Automation and AI Revolution: What the Rise in Automation Means for Shifting Standards of Human Value and Our Societal Structure",
+                    "authors": [
+                        "Purandare  Neha",
+                        "UT Digital Repository"
+                    ],
+                    "publication_date": "01/05/2020",
+                    "pdf_link": "https://core.ac.uk/download/395033730.pdf",
+                    "page": 4,
+                    "pdf_downloaded": true
+                },
+                {
+                    "title": "How Technology Has Changed the Field of Accounting",
+                    "authors": [
+                        "Quinto II  Emmanuel J",
+                        "Virtual Commons - Bridgewater State University"
+                    ],
+                    "publication_date": "18/08/2022",
+                    "pdf_link": "https://core.ac.uk/download/541298320.pdf",
+                    "page": 4,
+                    "pdf_downloaded": true
+                },
+                {
+                    "title": "Collective employee narratives and responses to  subtractive change",
+                    "authors": [
+                        "\u00c5gnes  Julie Salthella",
+                        "NHH Brage",
+                        "NORA - Norwegian Open Research Archives"
+                    ],
+                    "publication_date": "01/01/2022",
+                    "pdf_link": "https://core.ac.uk/download/539602746.pdf",
+                    "page": 4,
+                    "pdf_downloaded": true
+                },
+                {
+                    "title": "Using a test automation tool for robotic process automation: An empirical study",
+                    "authors": [
+                        "Santos  Filipa da Silva",
+                        "Reposit\u00f3rio Institucional do ISCTE-IUL"
+                    ],
+                    "publication_date": "15/11/2019",
+                    "pdf_link": "https://core.ac.uk/download/542333041.pdf",
+                    "page": 4,
+                    "pdf_downloaded": true
+                },
+                {
+                    "title": "Robotic Process Automation as a Lever for Productivity in a Luxury E-Commerce Company",
+                    "authors": [
+                        "Teresa Maria Carvalho Coelho Ribas",
+                        "Reposit\u00f3rio Aberto da Universidade do Porto"
+                    ],
+                    "publication_date": "13/07/2023",
+                    "pdf_link": "https://core.ac.uk/download/580104955.pdf",
+                    "page": 4,
+                    "pdf_downloaded": true
+                },
+                {
+                    "title": "Development of Accounting Curriculum Model Based on Industrial Revolution Approach",
+                    "authors": [
+                        "Surianti  Meily",
+                        "International Institute for Science, Technology and Education (IISTE): E-Journals"
+                    ],
+                    "publication_date": "02/02/2020",
+                    "pdf_link": "https://core.ac.uk/download/287193003.pdf",
+                    "page": 5,
+                    "pdf_downloaded": true
+                },
+                {
+                    "title": "Business Theory and Practice Across Industries and Markets",
+                    "authors": [
+                        "Baima  Gabriele",
+                        "Goria  Mirko",
+                        "Santoro  Gabriele",
+                        "Institutional Research Information System University of Turin"
+                    ],
+                    "publication_date": "01/01/2020",
+                    "pdf_link": "https://core.ac.uk/download/389056722.pdf",
+                    "page": 5,
+                    "pdf_downloaded": true
+                },
+                {
+                    "title": "Towards the Implementation of an Intelligent ERP System: Guidelines for Building Intelligent ERP Systems",
+                    "authors": [
+                        "Sousa  Filipe In\u00e1cio Ferreira da Silva de",
+                        "Reposit\u00f3rio da Universidade Nova de Lisboa"
+                    ],
+                    "publication_date": "28/10/2022",
+                    "pdf_link": "https://core.ac.uk/download/543997380.pdf",
+                    "page": 5,
+                    "pdf_downloaded": true
+                },
+                {
+                    "title": "The role of middle management in achieving continuous improvement:a demanding playing field",
+                    "authors": [
+                        "Hermkens  Freek Johan Andreus",
+                        "Pure OAI Repository"
+                    ],
+                    "publication_date": "03/06/2020",
+                    "pdf_link": "https://core.ac.uk/download/577428119.pdf",
+                    "page": 5,
+                    "pdf_downloaded": true
+                },
+                {
+                    "title": "The role of middle management in achieving continuous improvement:a demanding playing field",
+                    "authors": [
+                        "Hermkens  Freek Johan Andreus",
+                        "Pure OAI Repository"
+                    ],
+                    "publication_date": "03/06/2020",
+                    "pdf_link": "https://core.ac.uk/download/577063983.pdf",
+                    "page": 5,
+                    "pdf_downloaded": false
+                },
+                {
+                    "title": "Business process prioritization criteria: a case study in the financial market",
+                    "authors": [
+                        "Martins Salgado  Thaiane",
+                        "Porf\u00edrio dos Santos  Robson",
+                        "Rotondaro Pereira  Veridiana",
+                        "Cadernos Espinosanos (E-Journal)"
+                    ],
+                    "publication_date": "14/03/2022",
+                    "pdf_link": "https://core.ac.uk/download/524520108.pdf",
+                    "page": 5,
+                    "pdf_downloaded": true
+                },
+                {
+                    "title": "Beyond oracles \u2013 a critical look at real-world blockchains",
+                    "authors": [
+                        "Caldarelli GIulio",
+                        "Catalogo dei prodotti della ricerca"
+                    ],
+                    "publication_date": "01/01/2022",
+                    "pdf_link": "https://core.ac.uk/download/534895028.pdf",
+                    "page": 5,
+                    "pdf_downloaded": true
+                },
+                {
+                    "title": "Elite agency in the growth of offshore business services in Romania",
+                    "authors": [
+                        "Campling  L",
+                        "Jipa-Musat  I",
+                        "Prevezer  M",
+                        "Queen Mary Research Online"
+                    ],
+                    "publication_date": "01/01/2023",
+                    "pdf_link": "https://core.ac.uk/download/571217967.pdf",
+                    "page": 5,
+                    "pdf_downloaded": true
+                },
+                {
+                    "title": "Overview of Blockchain Oracle Research",
+                    "authors": [
+                        "Caldarelli  G.",
+                        "Institutional Research Information System University of Turin"
+                    ],
+                    "publication_date": "01/01/2022",
+                    "pdf_link": "https://core.ac.uk/download/577844736.pdf",
+                    "page": 5,
+                    "pdf_downloaded": true
+                },
+                {
+                    "title": "Revolutionising Public Private Partnerships: A Transition to the Fifth Industrial Revolution",
+                    "authors": [
+                        "Nel-Sanders  Danielle",
+                        "International Journal of Innovation in Management, Economics and Social Sciences"
+                    ],
+                    "publication_date": "16/02/2023",
+                    "pdf_link": "https://core.ac.uk/download/572722310.pdf",
+                    "page": 5,
+                    "pdf_downloaded": true
+                },
+                {
+                    "title": "Emerging Technologies",
+                    "authors": [
+                        "K\u00fcfeo\u011flu  Sinan",
+                        "Directory of Open Access Books (DOAB)"
+                    ],
+                    "publication_date": "13/07/2022",
+                    "pdf_link": "https://core.ac.uk/download/534899422.pdf",
+                    "page": 6,
+                    "pdf_downloaded": false
+                },
+                {
+                    "title": "Information knowledge and technology for Development in Africa",
+                    "authors": [
+                        "Britz  Johannes",
+                        "Bwalya  Kelvin J.",
+                        "Kalusopa  Trywell",
+                        "Kwanya  Tom",
+                        "Ngoepe  Mpho",
+                        "Ocholla  Dennis N.",
+                        "Onyancha  Omwoyo B.",
+                        "Shongwe  Mzwandile M.",
+                        "Too  Jackson",
+                        "Directory of Open Access Books (DOAB)"
+                    ],
+                    "publication_date": "08/04/2022",
+                    "pdf_link": "https://core.ac.uk/download/520259182.pdf",
+                    "page": 6,
+                    "pdf_downloaded": true
+                },
+                {
+                    "title": "The future of internal auditing: how technology is shaping the profession",
+                    "authors": [
+                        "PERON  EDOARDO",
+                        "Padua Thesis and Dissertation Archive"
+                    ],
+                    "publication_date": "17/10/2023",
+                    "pdf_link": "https://core.ac.uk/download/588602489.pdf",
+                    "page": 6,
+                    "pdf_downloaded": true
+                },
+                {
+                    "title": "Africa's digital future",
+                    "authors": [
+                        "Grater  Sonja",
+                        "Hoffman  Alwyn",
+                        "Jansen van Rensburg  Susara J.",
+                        "Joubert  Biandri",
+                        "K\u00fchn  Marie-Luce",
+                        "Orkoh  Emmanuel",
+                        "Parry  Ali",
+                        "Strydom  Petrus D.F.",
+                        "Viviers  Wilma",
+                        "Directory of Open Access Books (DOAB)"
+                    ],
+                    "publication_date": "08/04/2022",
+                    "pdf_link": "https://core.ac.uk/download/520256302.pdf",
+                    "page": 6,
+                    "pdf_downloaded": true
+                },
+                {
+                    "title": "The Strategic Supply Chain Management in the Digital Era, Tactical vs Strategic",
+                    "authors": [
+                        "El Sherbiny  Saher",
+                        "Qucosa \u2013 Dresden International University"
+                    ],
+                    "publication_date": "05/01/2023",
+                    "pdf_link": "https://core.ac.uk/download/554064321.pdf",
+                    "page": 6,
+                    "pdf_downloaded": true
+                },
+                {
+                    "title": "Targeting the robo-advice customer: the development of a psychographic segmentation model for financial advice robots",
+                    "authors": [
+                        "van Raaij  W.F.",
+                        "van Thiel  D.",
+                        "Tilburg University Repository"
+                    ],
+                    "publication_date": "01/01/2017",
+                    "pdf_link": "https://core.ac.uk/download/420838036.pdf",
+                    "page": 6,
+                    "pdf_downloaded": true
+                },
+                {
+                    "title": "INNOVATIVE DIGITAL START-UPS AND THEIR VENTURE CREATION PROCESS WITH ENABLING DIGITAL PLATFORMS",
+                    "authors": [
+                        "M\u00e4k\u00e4r\u00e4inen-Suni  I.",
+                        "M\u00e4k\u00e4r\u00e4inen-Suni  I.",
+                        "WestminsterResearch"
+                    ],
+                    "publication_date": "01/01/2021",
+                    "pdf_link": "https://core.ac.uk/download/396458152.pdf",
+                    "page": 6,
+                    "pdf_downloaded": true
+                },
+                {
+                    "title": "Proceedings of the 4th Central European PhD Workshop on Technological Change and Development",
+                    "authors": [
+                        "University of Szeged"
+                    ],
+                    "publication_date": "01/01/2020",
+                    "pdf_link": "https://core.ac.uk/download/543573626.pdf",
+                    "page": 6,
+                    "pdf_downloaded": true
+                },
+                {
+                    "title": "Case of Indonesian Covid-19 Chatbot Service",
+                    "authors": [
+                        "\uc2dc\uc554\uc220",
+                        "SNU Open Repository and Archive"
+                    ],
+                    "publication_date": "01/08/2021",
+                    "pdf_link": "https://core.ac.uk/download/522188045.pdf",
+                    "page": 6,
+                    "pdf_downloaded": true
+                },
+                {
+                    "title": "The M2X Economy  \u2013  Concepts for Business Interactions, Transactions and Collaborations Among Autonomous Smart Devices",
+                    "authors": [
+                        "Leiding  Benjamin",
+                        "Georg-August-University G\u00f6ttingen"
+                    ],
+                    "publication_date": "11/12/2019",
+                    "pdf_link": "https://core.ac.uk/download/289245085.pdf",
+                    "page": 6,
+                    "pdf_downloaded": true
+                },
+                {
+                    "title": "Digital Security in the Public Sector",
+                    "authors": [
+                        "Valto"
+                    ],
+                    "publication_date": "01/06/2020",
+                    "pdf_link": "https://core.ac.uk/download/326751119.pdf",
+                    "page": 7,
+                    "pdf_downloaded": true
+                },
+                {
+                    "title": "Scenarios for the future of the European legal sector, in the context of disruptive technologies, and its implications for the national association of young Portuguese lawyers (Anjap): framing, scoping & External environmental scanning",
+                    "authors": [
+                        "Bork  Alexandre",
+                        "Reposit\u00f3rio da Universidade Nova de Lisboa"
+                    ],
+                    "publication_date": "20/05/2021",
+                    "pdf_link": "https://core.ac.uk/download/491649751.pdf",
+                    "page": 7,
+                    "pdf_downloaded": false
+                },
+                {
+                    "title": "An Assessment of the Impact of Disruptive Technologies on the Efficacy of Accounting Practices in Selected South Western States, Nigeria",
+                    "authors": [
+                        "Adebiyi  Ifeoluwa M.",
+                        "Akinadewo  Israel S.",
+                        "Akinadewo  Jeremiah O.",
+                        "Dagunduro  Muyiwa E.",
+                        "Ogundele  Omobolade S.",
+                        "Scholink Journals"
+                    ],
+                    "publication_date": "29/06/2023",
+                    "pdf_link": "https://core.ac.uk/download/578161900.pdf",
+                    "page": 7,
+                    "pdf_downloaded": true
+                },
+                {
+                    "title": "Offshoring of white-collar services: Business and economic perspective",
+                    "authors": [
+                        "Klimek  Artur",
+                        "SSOAR - Social Science Open Access Repository",
+                        "Directory of Open Access Books (DOAB)",
+                        "\u201cLituanistika\u201d,  International Research Database"
+                    ],
+                    "publication_date": "01/01/2020",
+                    "pdf_link": "https://core.ac.uk/download/343335461.pdf",
+                    "page": 7,
+                    "pdf_downloaded": false
+                },
+                {
+                    "title": "Homeserve - redefining home maintenance",
+                    "authors": [
+                        "B\u00f6tzow  Hannah Franziska",
+                        "Reposit\u00f3rio da Universidade Nova de Lisboa"
+                    ],
+                    "publication_date": "04/01/2021",
+                    "pdf_link": "https://core.ac.uk/download/481371776.pdf",
+                    "page": 7,
+                    "pdf_downloaded": true
+                },
+                {
+                    "title": "Digital work productivity in Finnish organizations: Enablers and challenges according to knowledge work professionals",
+                    "authors": [
+                        "Rinnekangas  Rauli",
+                        "Osuva"
+                    ],
+                    "publication_date": "01/12/2022",
+                    "pdf_link": "https://core.ac.uk/download/552977433.pdf",
+                    "page": 7,
+                    "pdf_downloaded": true
+                },
+                {
+                    "title": "AI Hype: Public Relations and AI's doomsday machine",
+                    "authors": [
+                        "Bourne  Clea D.",
+                        "Goldsmiths Research Online"
+                    ],
+                    "publication_date": "01/09/2023",
+                    "pdf_link": "https://core.ac.uk/download/587386681.pdf",
+                    "page": 7,
+                    "pdf_downloaded": true
+                },
+                {
+                    "title": "Business Process Standardization of Multinational Enterprises: Two Distinctive Organizational Models",
+                    "authors": [
+                        "Sendo  Takashi",
+                        "AIS Electronic Library (AISeL)"
+                    ],
+                    "publication_date": "26/06/2018",
+                    "pdf_link": "https://core.ac.uk/download/301376032.pdf",
+                    "page": 7,
+                    "pdf_downloaded": true
+                },
+                {
+                    "title": "Digitalization and Development",
+                    "authors": [
+                        "Directory of Open Access Books (DOAB)"
+                    ],
+                    "publication_date": "25/01/2023",
+                    "pdf_link": "https://core.ac.uk/download/553656481.pdf",
+                    "page": 7,
+                    "pdf_downloaded": true
+                },
+                {
+                    "title": "Strategic use of Scrum framework on BPMS projects",
+                    "authors": [
+                        "Pires  Jo\u00e3o Fernando Campos Mendes",
+                        "Reposit\u00f3rio da Universidade Nova de Lisboa"
+                    ],
+                    "publication_date": "26/11/2021",
+                    "pdf_link": "https://core.ac.uk/download/489419309.pdf",
+                    "page": 8,
+                    "pdf_downloaded": true
+                },
+                {
+                    "title": "Taxation in the Digital Economy",
+                    "authors": [
+                        "Directory of Open Access Books (DOAB)"
+                    ],
+                    "publication_date": "07/07/2022",
+                    "pdf_link": "https://core.ac.uk/download/534901658.pdf",
+                    "page": 8,
+                    "pdf_downloaded": true
+                },
+                {
+                    "title": "A New World Post COVID-19",
+                    "authors": [
+                        "Monica Billio",
+                        "Simone Varotto",
+                        "Archivio istituzionale della ricerca - Universit\u00e0 degli Studi di Venezia Ca' Foscari"
+                    ],
+                    "publication_date": "01/01/2020",
+                    "pdf_link": "https://core.ac.uk/download/535102189.pdf",
+                    "page": 8,
+                    "pdf_downloaded": true
+                },
+                {
+                    "title": "Business Model Innovation based on Software Robotics for Mobile Network Operators",
+                    "authors": [
+                        "Tobias  Florian",
+                        "University of South Wales Research Explorer"
+                    ],
+                    "publication_date": "29/03/2021",
+                    "pdf_link": "https://core.ac.uk/download/482703008.pdf",
+                    "page": 8,
+                    "pdf_downloaded": true
+                },
+                {
+                    "title": "Institutional Report 2020",
+                    "authors": [
+                        "Repositorio Institucional de la Biblioteca del Banco de Espa\u00f1a"
+                    ],
+                    "publication_date": "09/04/2021",
+                    "pdf_link": "https://core.ac.uk/download/479908966.pdf",
+                    "page": 8,
+                    "pdf_downloaded": false
+                },
+                {
+                    "title": "Blockchain technology in human resources management and how it contributes to employee motivation",
+                    "authors": [
+                        "Delle  Edijs",
+                        "DSpace at Tartu University Library"
+                    ],
+                    "publication_date": "01/01/2022",
+                    "pdf_link": "https://core.ac.uk/download/532381612.pdf",
+                    "page": 8,
+                    "pdf_downloaded": true
+                },
+                {
+                    "title": "Digital tax administration: transforming the workforce to deliver",
+                    "authors": [
+                        "Bentley  Duncan",
+                        "Federation ResearchOnline"
+                    ],
+                    "publication_date": "01/01/2020",
+                    "pdf_link": "https://core.ac.uk/download/544396258.pdf",
+                    "page": 8,
+                    "pdf_downloaded": true
+                },
+                {
+                    "title": "Special Issue Editorial. Artificial Intelligence in Organizations: Current State and Future Opportunities",
+                    "authors": [
+                        "Benbya  Hind",
+                        "Davenport  Thomas H.",
+                        "Pachidi  Stella",
+                        "Deakin Research Online",
+                        "AIS Electronic Library (AISeL)"
+                    ],
+                    "publication_date": "01/12/2020",
+                    "pdf_link": "https://core.ac.uk/download/356499635.pdf",
+                    "page": 8,
+                    "pdf_downloaded": true
+                },
+                {
+                    "title": "The Evolution of Smart Buildings: An Industrial Perspective of the Development of Smart Buildings in the 2010s",
+                    "authors": [
+                        "Marson  M.",
+                        "Marson  M.",
+                        "WestminsterResearch"
+                    ],
+                    "publication_date": "01/01/2022",
+                    "pdf_link": "https://core.ac.uk/download/492046340.pdf",
+                    "page": 8,
+                    "pdf_downloaded": true
+                },
+                {
+                    "title": "Blockchain Application in Information Systems Research",
+                    "authors": [
+                        "Labazova  Olga",
+                        "K\u00f6lner Universit\u00e4tsPublikationsServer"
+                    ],
+                    "publication_date": "22/12/2020",
+                    "pdf_link": "https://core.ac.uk/download/395100247.pdf",
+                    "page": 8,
+                    "pdf_downloaded": true
+                },
+                {
+                    "title": "Essays on Innovations in Public Sector Auditing",
+                    "authors": [
+                        "OTIA  Javis Ebua",
+                        "Archivio istituzionale della ricerca - Universit\u00e0 di Ferrara"
+                    ],
+                    "publication_date": "22/05/2023",
+                    "pdf_link": "https://core.ac.uk/download/576887355.pdf",
+                    "page": 9,
+                    "pdf_downloaded": true
+                },
+                {
+                    "title": "Exploring Factors and Impact of Blockchain Technology Adoption \r\nin the Food Supply Chains",
+                    "authors": [
+                        "Mohammed  Abubakar",
+                        "espace@Curtin"
+                    ],
+                    "publication_date": "01/01/2023",
+                    "pdf_link": "https://core.ac.uk/download/587251946.pdf",
+                    "page": 9,
+                    "pdf_downloaded": false
+                },
+                {
+                    "title": "Views on the Past, Present, and Future of Business and Information Systems Engineering",
+                    "authors": [
+                        "Becker  J\u00f6rg",
+                        "Bichler  Martin",
+                        "Buhl  Hans Ulrich",
+                        "Dibbern  Jens",
+                        "Frank  Ulrich",
+                        "Hasenkamp  Ulrich",
+                        "Heinzl  Armin",
+                        "Hinz  Oliver",
+                        "Hui  Kai-Lung",
+                        "Jarke  Matthias",
+                        "Karagiannis  Dimitris",
+                        "Kliewer  Natalia",
+                        "K\u00f6nig  Wolfgang",
+                        "Mendling  Jan",
+                        "Mertens  Peter",
+                        "Rossi  Matti",
+                        "van der Aalst  Wil M. P.",
+                        "Voss  Stefan",
+                        "Weinhardt  Christof",
+                        "Winter  Robert",
+                        "Zdravkovic  Jelena",
+                        "OPUS Augsburg",
+                        "Publikationsserver der RWTH Aachen University",
+                        "Bern Open Repository and Information System (BORIS)",
+                        "AIS Electronic Library (AISeL)"
+                    ],
+                    "publication_date": "01/01/2018",
+                    "pdf_link": "https://core.ac.uk/download/301378778.pdf",
+                    "page": 9,
+                    "pdf_downloaded": true
+                },
+                {
+                    "title": "Pandemic economic crisis: essence, reasons, comparative characteristics, opportunities",
+                    "authors": [
+                        "Bezpartochnyi  Maksym",
+                        "Britchenko  Igor",
+                        "PhilPapers"
+                    ],
+                    "publication_date": "01/01/2020",
+                    "pdf_link": "https://core.ac.uk/download/326512966.pdf",
+                    "page": 9,
+                    "pdf_downloaded": true
+                },
+                {
+                    "title": "Customer behaviours and online banking in New Zealand : a thesis presented in partial fulfilment of the requirements for the degree of Doctor of Philosophy in Banking at Massey University, Manawat\u016b campus, New Zealand",
+                    "authors": [
+                        "Azeem  Saba",
+                        "Massey Research Online"
+                    ],
+                    "publication_date": "01/01/2020",
+                    "pdf_link": "https://core.ac.uk/download/423235325.pdf",
+                    "page": 9,
+                    "pdf_downloaded": false
+                },
+                {
+                    "title": "Process Improvement Program in a Technology & Software Company",
+                    "authors": [
+                        "Tiago Garrido Lima Allen Valente",
+                        "Reposit\u00f3rio Aberto da Universidade do Porto"
+                    ],
+                    "publication_date": "17/07/2020",
+                    "pdf_link": "https://core.ac.uk/download/580104400.pdf",
+                    "page": 9,
+                    "pdf_downloaded": true
+                },
+                {
+                    "title": "Assessing the relationship between bpm maturity and the success of organizations",
+                    "authors": [
+                        "Pinto  Joana Leite",
+                        "Reposit\u00f3rio da Universidade Nova de Lisboa"
+                    ],
+                    "publication_date": "17/02/2020",
+                    "pdf_link": "https://core.ac.uk/download/288869556.pdf",
+                    "page": 9,
+                    "pdf_downloaded": true
+                },
+                {
+                    "title": "The substitution of labor: From technological feasibility to other factors influencing the potential of job automation",
+                    "authors": [
+                        "Siri  Shahryar",
+                        "Teigland  Karoline",
+                        "Teigland  Robin",
+                        "Van Der Zande  Jochem",
+                        "Crossref",
+                        "Chalmers Research"
+                    ],
+                    "publication_date": "01/01/2019",
+                    "pdf_link": "https://core.ac.uk/download/521280239.pdf",
+                    "page": 9,
+                    "pdf_downloaded": true
+                },
+                {
+                    "title": "Social partners going digital: using digital tools and adapting social dialogue processes",
+                    "authors": [
+                        "Abrantes  Manuel",
+                        "Allinger  Bernadette",
+                        "Antoniou  Loucas",
+                        "Bejakovic  Predrag",
+                        "Biletta  Isabella",
+                        "Blaziene  Inga",
+                        "Campos Lima  Maria da Paz",
+                        "Cerf  Catherine",
+                        "Cziria  Ludovit",
+                        "Deliu  Alexandra",
+                        "Demetriades  Stavroula",
+                        "Dimitriu  Raluca",
+                        "Eurofound",
+                        "Evans  Claire",
+                        "Garzia  Christine",
+                        "Godino  Alejandro",
+                        "Jesnes  Kristin",
+                        "Jolly  C\u00e9cile",
+                        "Kadarik  Ingel",
+                        "Kapitanov  Todor",
+                        "Karnitis  Kriss",
+                        "Kinnunen  Amanda",
+                        "Klemencic  Irena",
+                        "Kousta  Elena",
+                        "Krokovay  N\u00f3ra",
+                        "Lindstr\u00d6m  Vera",
+                        "McMahon  Gerard",
+                        "Pank\u00f3w  Maciej",
+                        "Pedersini  Roberto",
+                        "Poulsen  Mathias Hjorth",
+                        "Robert  Fanny",
+                        "Secher  Johan",
+                        "Snijders  Jacqueline",
+                        "Utas  Andrea",
+                        "Van der Graaf  Amber",
+                        "Van Herreweghe  Dries",
+                        "Veverkova  So\u00f1a",
+                        "Vogel  Sandra",
+                        "Weiss  Monika",
+                        "Diposit Digital de Documents de la UAB"
+                    ],
+                    "publication_date": "01/01/2021",
+                    "pdf_link": "https://core.ac.uk/download/491372262.pdf",
+                    "page": 9,
+                    "pdf_downloaded": true
+                },
+                {
+                    "title": "Social partners going digital: using digital tools and adapting social dialogue processes",
+                    "authors": [
+                        "Allinger  Bernadette",
+                        "Antoniou  Loucas",
+                        "Bejakovic  Predrag",
+                        "Biletta  Isabella",
+                        "Blaziene  Inga",
+                        "Campos Lima  Maria da Paz",
+                        "Cerf  Catherine",
+                        "Cziria  Ludovit",
+                        "Deliu  Alexandra",
+                        "Demetriades  Stavroula",
+                        "Dimitriu  Raluca",
+                        "Eurofound",
+                        "Evans  Claire",
+                        "Garzia  Christine",
+                        "Godino Pons  Alejandro",
+                        "Jesnes  Kristin",
+                        "Jolly  C\u00e9cile",
+                        "Kadarik  Ingel",
+                        "Kapitanov  Todor",
+                        "Karnitis  Kriss",
+                        "Kinnunen  Amanda",
+                        "Klemencic  Irena",
+                        "Kousta  Elena",
+                        "Krokovay  N\u00f3ra",
+                        "Lindstr\u00f6m  Vera",
+                        "McMahon  Gerard",
+                        "Pank\u00f3w  Maciej",
+                        "Pedersini  Roberto",
+                        "Poulsen  Mathias Hjorth",
+                        "Robert  Fanny",
+                        "Secher  Johan",
+                        "Snijders  Jacqueline",
+                        "Utas  Andrea",
+                        "Van der Graaf  Amber",
+                        "Van Herreweghe  Dries",
+                        "Veverkov\u00e1  So\u00f1a",
+                        "Vogel  Sandra",
+                        "Weiss  Monika",
+                        "Diposit Digital de Documents de la UAB"
+                    ],
+                    "publication_date": "01/01/2021",
+                    "pdf_link": "https://core.ac.uk/download/512012523.pdf",
+                    "page": 10,
+                    "pdf_downloaded": false
+                },
+                {
+                    "title": "Implications of Data Collection Tools and Practices by Oil and Gas Sector in Ghana: An Exploratory Analysis",
+                    "authors": [
+                        "Somone  Samuel Elorm Kofi",
+                        "NORA - Norwegian Open Research Archives",
+                        "Brage HiM"
+                    ],
+                    "publication_date": "01/01/2020",
+                    "pdf_link": "https://core.ac.uk/download/427469187.pdf",
+                    "page": 10,
+                    "pdf_downloaded": true
+                },
+                {
+                    "title": "Digital Transformation",
+                    "authors": [
+                        "Alboul  Lyuba",
+                        "Beetz  Klaus",
+                        "Bernab\u00e9  Franco",
+                        "Carati  Fabio",
+                        "Couglin  Tom",
+                        "De Kerckhove  Derrick",
+                        "Dukes  Stephen",
+                        "Fonseca  Nelson",
+                        "Giannattasio  Gustavo",
+                        "Gopalakrishnan  Abhilash",
+                        "Grise  Kathy",
+                        "Henz  Patrick",
+                        "Husain  Samina",
+                        "Lozano Garzon  Carlos Andres",
+                        "Mason Dambrot  Stuart",
+                        "Munuswamy  Anand",
+                        "Napp  Nicholas",
+                        "Nisiotis  Louis",
+                        "Poveda  H\u00e9ctor",
+                        "Ranaweera  Jeewika",
+                        "Reiss  Torsten",
+                        "Rivoira  Valentina",
+                        "Saracco  Roberto",
+                        "Veiga  Ricardo",
+                        "Zhouqian  Cathy",
+                        "Repositorio Institucional de la Universidad Tecnol\u00f3gica de Panam\u00e1"
+                    ],
+                    "publication_date": "01/11/2020",
+                    "pdf_link": "https://core.ac.uk/download/355855600.pdf",
+                    "page": 10,
+                    "pdf_downloaded": true
+                }
+            ]
+        },
+        {
+            "query_metadata": {
+                "query_number": 1,
+                "max_items": 100,
+                "params": {
+                    "q": "\"Robotic+Process+Automation\"+(integration+business+management)+AND+(bank+OR+fintech)+AND+(yearPublished>=2014+AND+yearPublished<=2024)+AND+language%3A\"en\"",
+                    "base": "https://core.ac.uk/search",
+                    "page": 11
+                }
+            },
+            "query_link_statistics": {
+                "total_results_query": 100,
+                "total_pdf_links_query": 100,
+                "downloaded_pdfs_count_query": 91
+            },
+            "query_results": [
+                {
+                    "title": "Information and Communication Technology Capabilities and Business Performance: The Case of Differences in the Czech Financial Sector and Lessons from Robotic Process Automation between 2015 and 2020",
+                    "authors": [
+                        "Marek Vokoun",
+                        "Martin Zelenka",
+                        "Directory of Open Access Journals",
+                        "HR\u010cAK - Portal of Croatian Scientific and Professional Journals",
+                        "Hr\u010dak - Portal of scientific journals of Croatia"
+                    ],
+                    "publication_date": "01/01/2021",
+                    "pdf_link": "https://core.ac.uk/download/481997065.pdf",
+                    "page": 0,
+                    "pdf_downloaded": true
+                },
+                {
+                    "title": "FinTech ecosystem as an instrument of sustainable development provision",
+                    "authors": [
+                        "Dzhu  O. S.",
+                        "Galazova  S. S.",
+                        "Sopchenko  A. A.",
+                        "Vovchenko  N. G.",
+                        "OAR@UM"
+                    ],
+                    "publication_date": "01/01/2019",
+                    "pdf_link": "https://core.ac.uk/download/288638543.pdf",
+                    "page": 0,
+                    "pdf_downloaded": false
+                },
+                {
+                    "title": "The AI Revolution: Opportunities and Challenges for the Finance Sector",
+                    "authors": [
+                        "Avramovic  Pavle",
+                        "Epiphaniou  Gregory",
+                        "Hariharan  Jagdish",
+                        "Maple  Carsten",
+                        "Penwarden  William",
+                        "Singh  Simran",
+                        "Staykova  Kalina",
+                        "Szpruch  Lukasz",
+                        "Wang  Zijian",
+                        "Wen  Yisi",
+                        "arXiv.org e-Print Archive"
+                    ],
+                    "publication_date": "31/08/2023",
+                    "pdf_link": "http://arxiv.org/abs/2308.16538",
+                    "page": 0,
+                    "pdf_downloaded": true
+                },
+                {
+                    "title": "Artificial Intelligence in Smart Tourism: A Conceptual Framework",
+                    "authors": [
+                        "Hsu  Chih Chun",
+                        "Tsaih  Rua-Huan",
+                        "AIS Electronic Library (AISeL)"
+                    ],
+                    "publication_date": "06/12/2018",
+                    "pdf_link": "https://core.ac.uk/download/301379098.pdf",
+                    "page": 0,
+                    "pdf_downloaded": true
+                },
+                {
+                    "title": "Employees\u2019 perception of value-added activity increase of Robotic Process Automation with time and cost efficiency: a case study",
+                    "authors": [
+                        "Ortak\u00f6y  Selman",
+                        "Salih Ayd\u0131ner  Arafat",
+                        "\u00d6zs\u00fcr\u00fcn\u00e7  Zehra",
+                        "AIS Electronic Library (AISeL)"
+                    ],
+                    "publication_date": "01/01/2023",
+                    "pdf_link": "https://core.ac.uk/download/567666979.pdf",
+                    "page": 0,
+                    "pdf_downloaded": true
+                },
+                {
+                    "title": "Employees\u2019 perception of value-added activity increase of Robotic Process Automation with time and cost efficiency: a case study",
+                    "authors": [
+                        "Ortak\u00f6y  Selman",
+                        "Salih Ayd\u0131ner  Arafat",
+                        "\u00d6zs\u00fcr\u00fcn\u00e7  Zehra",
+                        "UMinho Editora Revistas"
+                    ],
+                    "publication_date": "06/04/2023",
+                    "pdf_link": "https://core.ac.uk/download/568378362.pdf",
+                    "page": 0,
+                    "pdf_downloaded": false
+                },
+                {
+                    "title": "Knowledge-based automation and new workforce implementation at a financial institution",
+                    "authors": [
+                        "Elsworth  Catherine",
+                        "University of Johannesburg Institutional Repository"
+                    ],
+                    "publication_date": "01/01/2018",
+                    "pdf_link": "https://core.ac.uk/download/245881171.pdf",
+                    "page": 0,
+                    "pdf_downloaded": true
+                },
+                {
+                    "title": "Utilization of Forecasting Methods for Cryptocurrencies",
+                    "authors": [
+                        "Berislava  Stare\u0161ini\u0107",
+                        "Vanja  \u0160imi\u010devi\u0107",
+                        "Vi\u0161nja  Juri\u0107",
+                        "HR\u010cAK - Portal of Croatian Scientific and Professional Journals",
+                        "Hr\u010dak - Portal of scientific journals of Croatia"
+                    ],
+                    "publication_date": "01/01/2020",
+                    "pdf_link": "https://core.ac.uk/download/388187822.pdf",
+                    "page": 0,
+                    "pdf_downloaded": true
+                },
+                {
+                    "title": "Exploring the Role of Big Data Analytics in Driving Financial Innovation: An Affordance Actualisation Perspectivec",
+                    "authors": [
+                        "Farouk  Firdous Mohd",
+                        "Siew  Eu-Gene",
+                        "AIS Electronic Library (AISeL)"
+                    ],
+                    "publication_date": "01/01/2020",
+                    "pdf_link": "https://core.ac.uk/download/389054927.pdf",
+                    "page": 0,
+                    "pdf_downloaded": true
+                },
+                {
+                    "title": "How do Machine Learning, Robotic Process Automation, and Blockchains Affect the Human Factor in Business Process Management?",
+                    "authors": [
+                        "Decker  Gero",
+                        "Hull  Richard",
+                        "Mendling  Jan",
+                        "Reijers  Hajo A.",
+                        "Weber  Ingo",
+                        "VU Research Portal",
+                        "Elektronische Publikationen der Wirtschaftsuniversit\u00e4t Wien",
+                        "AIS Electronic Library (AISeL)"
+                    ],
+                    "publication_date": "01/01/2018",
+                    "pdf_link": "https://core.ac.uk/download/301375901.pdf",
+                    "page": 1,
+                    "pdf_downloaded": true
+                },
+                {
+                    "title": "INTRODUCTION OF THE LATEST DIGITAL TECHNOLOGIES IN THE BANKING SECTOR: FOREIGN EXPERIENCE AND RUSSIAN PRACTICE",
+                    "authors": [
+                        "I. Bykanova  Natalya",
+                        "L. Mityushina  Irina",
+                        "Mohanad  Al-Saadi",
+                        "Salim  Raheem",
+                        "V. Vaganova  Oksana",
+                        "Crossref",
+                        "DSpace at Belgorod State University",
+                        "Gyandhara International Academic Publication (GIAP): Journals"
+                    ],
+                    "publication_date": "01/01/2019",
+                    "pdf_link": "https://core.ac.uk/download/268005323.pdf",
+                    "page": 1,
+                    "pdf_downloaded": true
+                },
+                {
+                    "title": "The Impact of Disruptive Technologies in Finance and Accounting: A Systematic Literature Review",
+                    "authors": [
+                        "Santos  Maria Catarina Ferreira dos",
+                        "Reposit\u00f3rio da Universidade Nova de Lisboa"
+                    ],
+                    "publication_date": "10/04/2023",
+                    "pdf_link": "https://core.ac.uk/download/570972964.pdf",
+                    "page": 1,
+                    "pdf_downloaded": true
+                },
+                {
+                    "title": "Optymalizacja proces\u00f3w z wykorzystaniem RPA \u2013 jako element zarz\u0105dzania zmian\u0105 w organizacji",
+                    "authors": [
+                        "Pyp\u0142acz  Paula",
+                        "Sasak  Janusz",
+                        "Akademia Ignatianum w Krakowie: Czasopisma",
+                        "Jagiellonian Univeristy Repository"
+                    ],
+                    "publication_date": "01/01/2023",
+                    "pdf_link": "https://core.ac.uk/download/587967960.pdf",
+                    "page": 1,
+                    "pdf_downloaded": true
+                },
+                {
+                    "title": "How students can combine earning with learning through flexible business process sourcing: a proposition",
+                    "authors": [
+                        "Ian Herbert (1254471)",
+                        "Loughborough University Institutional Repository"
+                    ],
+                    "publication_date": "01/01/2016",
+                    "pdf_link": "https://core.ac.uk/download/288370090.pdf",
+                    "page": 1,
+                    "pdf_downloaded": true
+                },
+                {
+                    "title": "\u201cYou have no idea how much we love Casper\u201d \u2013 Developing configurations of employees\u2019 RPA implementation experiences",
+                    "authors": [
+                        "Techatassanasoontorn  Angsana A",
+                        "Waizenegger  Lena",
+                        "AIS Electronic Library (AISeL)"
+                    ],
+                    "publication_date": "01/01/2020",
+                    "pdf_link": "https://core.ac.uk/download/389054866.pdf",
+                    "page": 1,
+                    "pdf_downloaded": true
+                },
+                {
+                    "title": "Digital accounting: innovative technologies cause a new paradigm",
+                    "authors": [
+                        "Brukhanskyi   Ruslan",
+                        "Kolesnikova  Olena",
+                        "Sokolenko  Liudmyla",
+                        "Spilnyk  Iryna",
+                        "Struk  Nataliia",
+                        "DIALNET",
+                        "Independent Journal of Management & Production"
+                    ],
+                    "publication_date": "01/01/2022",
+                    "pdf_link": "https://core.ac.uk/download/522186631.pdf",
+                    "page": 1,
+                    "pdf_downloaded": true
+                },
+                {
+                    "title": "Artificial Intelligence in Banking Industry: A Review on Fraud Detection, Credit Management, and Document Processing",
+                    "authors": [
+                        "Alhaddad  Musaab Mohammad",
+                        "ResearchBerg"
+                    ],
+                    "publication_date": "08/11/2018",
+                    "pdf_link": "https://core.ac.uk/download/560380647.pdf",
+                    "page": 1,
+                    "pdf_downloaded": true
+                },
+                {
+                    "title": "Organizing Robotic Process Automation: Balancing Loose and Tight Coupling",
+                    "authors": [
+                        "Bygstad  Bendik",
+                        "Iden  Jon",
+                        "Osmundsen  Karen",
+                        "Crossref",
+                        "ScholarSpace at University of Hawai'i at Manoa",
+                        "AIS Electronic Library (AISeL)"
+                    ],
+                    "publication_date": "01/01/2019",
+                    "pdf_link": "https://core.ac.uk/download/211327946.pdf",
+                    "page": 1,
+                    "pdf_downloaded": true
+                },
+                {
+                    "title": "Robotic process automation framework - The implementation of Robotic Process Automation in Business Processing Outsourcing Organizations",
+                    "authors": [
+                        "Gon\u00e7alves  Ana Isabel Fernandes",
+                        "Reposit\u00f3rio da Universidade Nova de Lisboa"
+                    ],
+                    "publication_date": "27/01/2023",
+                    "pdf_link": "https://core.ac.uk/download/560745316.pdf",
+                    "page": 1,
+                    "pdf_downloaded": true
+                },
+                {
+                    "title": "Managing a Robotic Process Automation Project Implementation",
+                    "authors": [
+                        "Bernardo Ant\u00f3nio Guedes Macieira",
+                        "Reposit\u00f3rio Aberto da Universidade do Porto"
+                    ],
+                    "publication_date": "12/10/2021",
+                    "pdf_link": "https://core.ac.uk/download/481360733.pdf",
+                    "page": 2,
+                    "pdf_downloaded": true
+                },
+                {
+                    "title": "Success factors of Robotic Process Automation in case processing",
+                    "authors": [
+                        "Carlstr\u00f6m  Martin",
+                        "Sk\u00e5lin  Ole",
+                        "Agder University Research Archive"
+                    ],
+                    "publication_date": "01/01/2023",
+                    "pdf_link": "https://core.ac.uk/download/577836015.pdf",
+                    "page": 2,
+                    "pdf_downloaded": true
+                },
+                {
+                    "title": "Success factors of Robotic Process Automation in case processing",
+                    "authors": [
+                        "Carlstr\u00f6m  Martin",
+                        "Sk\u00e5lin  Ole",
+                        "Agder University Research Archive"
+                    ],
+                    "publication_date": "01/01/2023",
+                    "pdf_link": "https://core.ac.uk/download/577836325.pdf",
+                    "page": 2,
+                    "pdf_downloaded": false
+                },
+                {
+                    "title": "Influencing factors for the digital transformation in the financial services sector",
+                    "authors": [
+                        "Breitner  Michael H.",
+                        "Rodr\u00edguez Cardona  Davinia",
+                        "Schulenburg  Johann-Matthias Graf von der",
+                        "Schwarzbach  Christoph",
+                        "Werth  Oliver",
+                        "Institutionelles Repositorium der Leibniz Universit\u00e4t Hannover"
+                    ],
+                    "publication_date": "01/01/2020",
+                    "pdf_link": "https://core.ac.uk/download/421650937.pdf",
+                    "page": 2,
+                    "pdf_downloaded": true
+                },
+                {
+                    "title": "Risks of Robotic Process Automation: A multivocal literature review",
+                    "authors": [
+                        "Brites  Ant\u00f3nio Pedro",
+                        "Reposit\u00f3rio Institucional do ISCTE-IUL"
+                    ],
+                    "publication_date": "20/12/2022",
+                    "pdf_link": "https://core.ac.uk/download/554500903.pdf",
+                    "page": 2,
+                    "pdf_downloaded": true
+                },
+                {
+                    "title": "Robotic process automation : impact and best practices in portuguese banks",
+                    "authors": [
+                        "Carmo  Gon\u00e7alo Pires de Carvalho Mota",
+                        "Reposit\u00f3rio Institucional da Universidade Cat\u00f3lica Portuguesa"
+                    ],
+                    "publication_date": "28/05/2020",
+                    "pdf_link": "https://core.ac.uk/download/344687883.pdf",
+                    "page": 2,
+                    "pdf_downloaded": true
+                },
+                {
+                    "title": "Automated Testing For Software Process Automation",
+                    "authors": [
+                        "Hannonen  Antti",
+                        "Osuva"
+                    ],
+                    "publication_date": "16/04/2020",
+                    "pdf_link": "https://core.ac.uk/download/304703503.pdf",
+                    "page": 2,
+                    "pdf_downloaded": true
+                },
+                {
+                    "title": "The role of technology in improving the Customer Experience in the banking sector: a systematic mapping study",
+                    "authors": [
+                        "MAINETTI L.",
+                        "VERGALLO R.",
+                        "Archivio Istituzionale della Ricerca- Universit\u00e0 del Salento"
+                    ],
+                    "publication_date": "01/01/2022",
+                    "pdf_link": "https://core.ac.uk/download/571666855.pdf",
+                    "page": 2,
+                    "pdf_downloaded": true
+                },
+                {
+                    "title": "Literature based Cyber Security Topics: Handbook",
+                    "authors": [
+                        "SESHADRI  Dr SRIDHAR",
+                        "International Journal of Innovative Technology and Research (IJITR)"
+                    ],
+                    "publication_date": "29/10/2022",
+                    "pdf_link": "https://core.ac.uk/download/544087838.pdf",
+                    "page": 2,
+                    "pdf_downloaded": true
+                },
+                {
+                    "title": "Robotic process automation in Finnish financial administration",
+                    "authors": [
+                        "Mikonmaa  O. (Otso)",
+                        "University of Oulu Repository - Jultika"
+                    ],
+                    "publication_date": "17/06/2021",
+                    "pdf_link": "https://core.ac.uk/download/475360870.pdf",
+                    "page": 2,
+                    "pdf_downloaded": true
+                },
+                {
+                    "title": "Organizational adoption of Robotic Process Automation: managing the performativity of hype",
+                    "authors": [
+                        "Kaniadakis  Antonios",
+                        "Linturn  Laura",
+                        "UMinho Editora Revistas"
+                    ],
+                    "publication_date": "30/11/2022",
+                    "pdf_link": "https://core.ac.uk/download/544280519.pdf",
+                    "page": 3,
+                    "pdf_downloaded": true
+                },
+                {
+                    "title": "Organizational adoption of Robotic Process Automation: managing the performativity of hype",
+                    "authors": [
+                        "Kaniadakis  Antonios",
+                        "Linturn  Laura",
+                        "UMinho Editora Revistas",
+                        "AIS Electronic Library (AISeL)",
+                        "Brunel University Research Archive"
+                    ],
+                    "publication_date": "01/01/2022",
+                    "pdf_link": "https://core.ac.uk/download/544141308.pdf",
+                    "page": 3,
+                    "pdf_downloaded": false
+                },
+                {
+                    "title": "Guest editorial",
+                    "authors": [
+                        "Chang  Victor",
+                        "Gagnon  St\u00e9phane",
+                        "Ramachandran  Muthu",
+                        "Valverde  Raul",
+                        "Teeside University's Research Repository"
+                    ],
+                    "publication_date": "09/11/2021",
+                    "pdf_link": "https://core.ac.uk/download/492530956.pdf",
+                    "page": 3,
+                    "pdf_downloaded": true
+                },
+                {
+                    "title": "Artificial intelligence and data analytics: Emerging opportunities and challenges in financial services",
+                    "authors": [
+                        "Crispin Coombs (1255719)",
+                        "Raghav Chopra (8354952)",
+                        "Loughborough University Institutional Repository"
+                    ],
+                    "publication_date": "27/11/2019",
+                    "pdf_link": "https://core.ac.uk/download/288351463.pdf",
+                    "page": 3,
+                    "pdf_downloaded": true
+                },
+                {
+                    "title": "Implementing Robotic Process Automation for Internal Process Optimization",
+                    "authors": [
+                        "Mateo  Franco Zuccolillo",
+                        "Rodrigues  Gabriel R",
+                        "DigitalCommons@WPI"
+                    ],
+                    "publication_date": "16/05/2020",
+                    "pdf_link": "https://core.ac.uk/download/343944304.pdf",
+                    "page": 3,
+                    "pdf_downloaded": true
+                },
+                {
+                    "title": "Towards robotic process automation implementation: an end-to-end perspective",
+                    "authors": [
+                        "Pereira  R.",
+                        "Santos  F.",
+                        "Vasconcelos  J. B.",
+                        "Reposit\u00f3rio Institucional do ISCTE-IUL"
+                    ],
+                    "publication_date": "01/01/2020",
+                    "pdf_link": "https://core.ac.uk/download/542318684.pdf",
+                    "page": 3,
+                    "pdf_downloaded": true
+                },
+                {
+                    "title": "Implementing Robotic Process Automation for Internal Process Optimization",
+                    "authors": [
+                        "Kopper  Valeria",
+                        "Zomb  Madeline Eva",
+                        "DigitalCommons@WPI"
+                    ],
+                    "publication_date": "19/05/2020",
+                    "pdf_link": "https://core.ac.uk/download/343944309.pdf",
+                    "page": 3,
+                    "pdf_downloaded": false
+                },
+                {
+                    "title": "The impact of the Center of Excellence governance on the definition of RPA KPIs : An exploratory case-study of the Dutch banking sector",
+                    "authors": [
+                        "Lioliou  Kyveli",
+                        "UTUPub"
+                    ],
+                    "publication_date": "18/06/2020",
+                    "pdf_link": "https://core.ac.uk/download/347180743.pdf",
+                    "page": 3,
+                    "pdf_downloaded": true
+                },
+                {
+                    "title": "Embedding Robotic Process Automation into Process Management: Case Study of using taskt",
+                    "authors": [
+                        "Jeyaraj  Anand",
+                        "Sethi  Vikram",
+                        "CORE"
+                    ],
+                    "publication_date": "28/07/2020",
+                    "pdf_link": "https://core.ac.uk/download/543250709.pdf",
+                    "page": 3,
+                    "pdf_downloaded": true
+                },
+                {
+                    "title": "UNDERSTANDING THE ADOPTION OF ARTIFICIAL INTELLIGENCE IN THE NORWEGIAN BANKING SECTOR: AN ANALYSES OF TRUST, PERCEIVED RISK, AND BENEFITS\"",
+                    "authors": [
+                        "Khan Sultan",
+                        "Agder University Research Archive"
+                    ],
+                    "publication_date": "01/01/2023",
+                    "pdf_link": "https://core.ac.uk/download/577836299.pdf",
+                    "page": 3,
+                    "pdf_downloaded": true
+                },
+                {
+                    "title": "Robotic Process Automation as a Lever for Productivity in a Luxury E-Commerce Company",
+                    "authors": [
+                        "Teresa Maria Carvalho Coelho Ribas",
+                        "Reposit\u00f3rio Aberto da Universidade do Porto"
+                    ],
+                    "publication_date": "13/07/2023",
+                    "pdf_link": "https://core.ac.uk/download/580104955.pdf",
+                    "page": 4,
+                    "pdf_downloaded": true
+                },
+                {
+                    "title": "Future of the German Banking Sector",
+                    "authors": [
+                        "Z\u00fcgel  Alexander",
+                        "Hochschulschriftenserver der Hochschule Furtwangen"
+                    ],
+                    "publication_date": "01/01/2020",
+                    "pdf_link": "https://core.ac.uk/download/334494957.pdf",
+                    "page": 4,
+                    "pdf_downloaded": true
+                },
+                {
+                    "title": "THE RISE OF AI IN CONTENT MANAGEMENT: REIMAGINING INTELLIGENT WORKFLOWS",
+                    "authors": [
+                        "Alaxander Harry",
+                        "Ravi Kiran Kandepu",
+                        "ZENODO"
+                    ],
+                    "publication_date": "27/09/2023",
+                    "pdf_link": "https://core.ac.uk/download/587418693.pdf",
+                    "page": 4,
+                    "pdf_downloaded": true
+                },
+                {
+                    "title": "Automation of Customer Initiated Back Office Processes: A Design Science Research Approach to link Robotic Process Automation and Chatbots",
+                    "authors": [
+                        "Daase  Christian",
+                        "Nahhas  Abdulrahman",
+                        "Staegemann  Daniel",
+                        "Turowski  Klaus",
+                        "Volk  Matthias",
+                        "AIS Electronic Library (AISeL)"
+                    ],
+                    "publication_date": "01/01/2020",
+                    "pdf_link": "https://core.ac.uk/download/389054860.pdf",
+                    "page": 4,
+                    "pdf_downloaded": true
+                },
+                {
+                    "title": "Data technologies and next generation insurance operations",
+                    "authors": [
+                        "Alex Zarifis (6502466)",
+                        "Alistair Milne (1257834)",
+                        "Ian Herbert (1254471)",
+                        "Loughborough University Institutional Repository"
+                    ],
+                    "publication_date": "27/11/2019",
+                    "pdf_link": "https://core.ac.uk/download/288351898.pdf",
+                    "page": 4,
+                    "pdf_downloaded": true
+                },
+                {
+                    "title": "Using a test automation tool for robotic process automation: An empirical study",
+                    "authors": [
+                        "Santos  Filipa da Silva",
+                        "Reposit\u00f3rio Institucional do ISCTE-IUL"
+                    ],
+                    "publication_date": "15/11/2019",
+                    "pdf_link": "https://core.ac.uk/download/542333041.pdf",
+                    "page": 4,
+                    "pdf_downloaded": true
+                },
+                {
+                    "title": "IT outside of the IT Department: Reviewing Lightweight IT in Times of Shadow IT and IT Consumerization",
+                    "authors": [
+                        "Godefroid  Marie",
+                        "Niehaves  Bj\u00f6rn",
+                        "Plattfaut  Ralf",
+                        "AIS Electronic Library (AISeL)"
+                    ],
+                    "publication_date": "11/02/2021",
+                    "pdf_link": "https://core.ac.uk/download/385858440.pdf",
+                    "page": 4,
+                    "pdf_downloaded": true
+                },
+                {
+                    "title": "Method to Foster Intelligent Processes Automation into an Organization",
+                    "authors": [
+                        "Cardoso  Afonso Pires de Matos Gomes",
+                        "Reposit\u00f3rio da Universidade Nova de Lisboa"
+                    ],
+                    "publication_date": "08/10/2021",
+                    "pdf_link": "https://core.ac.uk/download/481372943.pdf",
+                    "page": 4,
+                    "pdf_downloaded": true
+                },
+                {
+                    "title": "How to Measure RPA\\u27s Benefits? A Review on Metrics, Indicators, and Evaluation Methods of RPA Benefit Assessment",
+                    "authors": [
+                        "Kuehnel  Stephan",
+                        "Meironke  Anja",
+                        "AIS Electronic Library (AISeL)"
+                    ],
+                    "publication_date": "17/01/2022",
+                    "pdf_link": "https://core.ac.uk/download/491250784.pdf",
+                    "page": 4,
+                    "pdf_downloaded": true
+                },
+                {
+                    "title": "Responding to Healthcare Emergency Outbreak of COVID-19 Pandemic with Robotic Process Automation (RPA)",
+                    "authors": [
+                        "Kedziora  Damian",
+                        "Smolander  Kari",
+                        "ScholarSpace at University of Hawai'i at Manoa",
+                        "AIS Electronic Library (AISeL)"
+                    ],
+                    "publication_date": "03/01/2022",
+                    "pdf_link": "https://core.ac.uk/download/489426246.pdf",
+                    "page": 5,
+                    "pdf_downloaded": true
+                },
+                {
+                    "title": "Emerging Technology in Business and Finance",
+                    "authors": [
+                        "Chaudhary  Shashwat",
+                        "Dewakar  Sneha",
+                        "Kanika",
+                        "Satsangi  Priya",
+                        "Integrated Journal for Research in Arts and Humanities"
+                    ],
+                    "publication_date": "07/04/2023",
+                    "pdf_link": "https://core.ac.uk/download/570780794.pdf",
+                    "page": 5,
+                    "pdf_downloaded": true
+                },
+                {
+                    "title": "Industry 4.0 and accounting: directions, challenges, opportunities",
+                    "authors": [
+                        "Demchuk  Olena",
+                        "Koval   Nataliia",
+                        "Onyshchenko  Oksana",
+                        "Shara  Yevheniia",
+                        "Shevchuk  Kateryna",
+                        "DIALNET",
+                        "Independent Journal of Management & Production"
+                    ],
+                    "publication_date": "01/01/2022",
+                    "pdf_link": "https://core.ac.uk/download/522186633.pdf",
+                    "page": 5,
+                    "pdf_downloaded": true
+                },
+                {
+                    "title": "Digital Trade Technology and Policy - Barriers and Opportunities:A Scoping Report for a Centre for Digital Trade and Innovation",
+                    "authors": [
+                        "Adu-Amankwa  Nana Akua",
+                        "Arutyunyan  Arutyun",
+                        "Baucherel  Kate",
+                        "Joneidy  Sina",
+                        "Parniani  Behzad",
+                        "Rahimian  Farzad",
+                        "Roughan  Andrew",
+                        "Short  Michael",
+                        "Teeside University's Research Repository"
+                    ],
+                    "publication_date": "31/03/2022",
+                    "pdf_link": "https://core.ac.uk/download/519712501.pdf",
+                    "page": 5,
+                    "pdf_downloaded": true
+                },
+                {
+                    "title": "Digital Trade Technology and Policy - Barriers and Opportunities:A Scoping Report for a Centre for Digital Trade and Innovation",
+                    "authors": [
+                        "Adu-Amankwa  Nana Akua",
+                        "Arutyunyan  Arutyun",
+                        "Baucherel  Kate",
+                        "Joneidy  Sina",
+                        "Parniani  Behzad",
+                        "Rahimian  Farzad",
+                        "Roughan  Andrew",
+                        "Short  Michael",
+                        "Teeside University's Research Repository"
+                    ],
+                    "publication_date": "31/03/2022",
+                    "pdf_link": "https://core.ac.uk/download/519711116.pdf",
+                    "page": 5,
+                    "pdf_downloaded": false
+                },
+                {
+                    "title": "The Ecosystem of Startups in Greece: An Explorative Study",
+                    "authors": [
+                        "Koulouris  Stamatios",
+                        "Bard College"
+                    ],
+                    "publication_date": "01/01/2022",
+                    "pdf_link": "https://core.ac.uk/download/541433992.pdf",
+                    "page": 5,
+                    "pdf_downloaded": true
+                },
+                {
+                    "title": "Research on the implication of artificial intelligence in accounting subfields: current research trends from bibliometric analysis, and research directions",
+                    "authors": [
+                        "AYAD  Meryem",
+                        "EL MEZOUARI  Said",
+                        "International Journal of Accounting, Finance, Auditing, Management and Economics - IJAFAME",
+                        "International Journal of Accounting, Finance, Auditing, Management and Economics (IJAFAME)",
+                        "International Journal of Accounting, Finance, Auditing, Management and Economics"
+                    ],
+                    "publication_date": "13/10/2022",
+                    "pdf_link": "https://core.ac.uk/download/543113253.pdf",
+                    "page": 5,
+                    "pdf_downloaded": true
+                },
+                {
+                    "title": "The Impact of Electronic Data Interchange on Accounting Systems",
+                    "authors": [
+                        "Oleiwi  Raad Abdulameer",
+                        "International Journal of Professional Business Review",
+                        "Revista REGEP"
+                    ],
+                    "publication_date": "22/03/2023",
+                    "pdf_link": "https://core.ac.uk/download/561089523.pdf",
+                    "page": 5,
+                    "pdf_downloaded": true
+                },
+                {
+                    "title": "Trend tracking approaches : a critical overview and possible integration between internal and external environment",
+                    "authors": [
+                        "Barroso  Marcos Andr\u00e9 Rosendo",
+                        "UTL Repository"
+                    ],
+                    "publication_date": "01/10/2019",
+                    "pdf_link": "https://core.ac.uk/download/289120129.pdf",
+                    "page": 5,
+                    "pdf_downloaded": true
+                },
+                {
+                    "title": "TOWARDS SME GROWTH: RPA AS AN INTERVENTION TECHNOLOGY IN ACTION DESIGN RESEARCH",
+                    "authors": [
+                        "Hansen  Magnus Rotvit Perlt",
+                        "Hougaard  Mads",
+                        "Nielsen  Peter Eli-Friis",
+                        "AIS Electronic Library (AISeL)"
+                    ],
+                    "publication_date": "24/04/2023",
+                    "pdf_link": "https://core.ac.uk/download/567667165.pdf",
+                    "page": 5,
+                    "pdf_downloaded": true
+                },
+                {
+                    "title": "Ohjelmistorobotiikka toimistoty\u00f6ss\u00e4: hy\u00f6dyt, haasteet ja kyvykkyyden kehitt\u00e4minen",
+                    "authors": [
+                        "Str\u00f6mberg  Kristian",
+                        "Aaltodoc Publication Archive"
+                    ],
+                    "publication_date": "01/01/2018",
+                    "pdf_link": "https://core.ac.uk/download/159158272.pdf",
+                    "page": 6,
+                    "pdf_downloaded": true
+                },
+                {
+                    "title": "The impact of performance communication on process  efficiency : a RPA implementation project",
+                    "authors": [
+                        "Morfeld  Franz-Jakob",
+                        "Reposit\u00f3rio Institucional da Universidade Cat\u00f3lica Portuguesa"
+                    ],
+                    "publication_date": "01/01/2023",
+                    "pdf_link": "https://core.ac.uk/download/570978279.pdf",
+                    "page": 6,
+                    "pdf_downloaded": true
+                },
+                {
+                    "title": "Implications of Emerging Technologies on the Accounting Profession",
+                    "authors": [
+                        "Peace  Collin",
+                        "East Tennessee State University"
+                    ],
+                    "publication_date": "01/05/2021",
+                    "pdf_link": "https://core.ac.uk/download/428357823.pdf",
+                    "page": 6,
+                    "pdf_downloaded": true
+                },
+                {
+                    "title": "The deployment of the blockchain in a transportation network",
+                    "authors": [
+                        "Wyci\u015blak  S\u0142awomir",
+                        "Jagiellonian Univeristy Repository"
+                    ],
+                    "publication_date": "01/01/2018",
+                    "pdf_link": "https://core.ac.uk/download/190384059.pdf",
+                    "page": 6,
+                    "pdf_downloaded": true
+                },
+                {
+                    "title": "The role of RPA/Low-Code in process transformation. How well-implemented RPA/Low-Code projects can help transform a company\u00b4s process development?",
+                    "authors": [
+                        "Marques  Diogo Vargas",
+                        "Reposit\u00f3rio da Universidade Nova de Lisboa"
+                    ],
+                    "publication_date": "24/10/2023",
+                    "pdf_link": "https://core.ac.uk/download/591216901.pdf",
+                    "page": 6,
+                    "pdf_downloaded": true
+                },
+                {
+                    "title": "Money after money:Disassembling value/information infrastructures",
+                    "authors": [
+                        "Ferrari  V.",
+                        "International Migration, Integration and Social Cohesion online publications"
+                    ],
+                    "publication_date": "01/01/2023",
+                    "pdf_link": "https://core.ac.uk/download/560939858.pdf",
+                    "page": 6,
+                    "pdf_downloaded": true
+                },
+                {
+                    "title": "16th Prof. Vladas Gronskas International Scientific Conference",
+                    "authors": [
+                        "\u0160arki\u016bnait\u0117  Ingrida",
+                        "Vilnius University Open Series",
+                        "Vilnius University Proceedings"
+                    ],
+                    "publication_date": "26/10/2022",
+                    "pdf_link": "https://core.ac.uk/download/543008841.pdf",
+                    "page": 6,
+                    "pdf_downloaded": true
+                },
+                {
+                    "title": "The Intersection of Robotic Process Automation and Lean Six Sigma Applied to Unstructured Data",
+                    "authors": [
+                        "McIntosh  Emily",
+                        "Southern Methodist University"
+                    ],
+                    "publication_date": "14/05/2022",
+                    "pdf_link": "https://core.ac.uk/download/541420833.pdf",
+                    "page": 6,
+                    "pdf_downloaded": true
+                },
+                {
+                    "title": "Money after money:Disassembling value/information infrastructures",
+                    "authors": [
+                        "Ferrari  V.",
+                        "International Migration, Integration and Social Cohesion online publications"
+                    ],
+                    "publication_date": "01/01/2023",
+                    "pdf_link": "https://core.ac.uk/download/560941850.pdf",
+                    "page": 6,
+                    "pdf_downloaded": false
+                },
+                {
+                    "title": "Using RPA for performance monitoring of dynamic SHM applications",
+                    "authors": [
+                        "Aguilera  Edison",
+                        "Atencio  Edison",
+                        "Komarizadehasl  Seyedmilad",
+                        "Lozano Galant  Jos\u00e9 Antonio",
+                        "UPCommons. Portal del coneixement obert de la UPC"
+                    ],
+                    "publication_date": "01/08/2022",
+                    "pdf_link": "https://core.ac.uk/download/534172616.pdf",
+                    "page": 7,
+                    "pdf_downloaded": true
+                },
+                {
+                    "title": "Simplified literature review on the applicability of process mining to RPA",
+                    "authors": [
+                        "Sallet  Hyago C\u00e9sar da Silva",
+                        "Lume 5.8"
+                    ],
+                    "publication_date": "01/01/2021",
+                    "pdf_link": "https://core.ac.uk/download/479499232.pdf",
+                    "page": 7,
+                    "pdf_downloaded": true
+                },
+                {
+                    "title": "Development of a model for Business Process Reengineering: A practical application in a Corporate Center of a Logistics Company",
+                    "authors": [
+                        "Ricardo Manuel Monteiro Mo\u00e7o",
+                        "Reposit\u00f3rio Aberto da Universidade do Porto"
+                    ],
+                    "publication_date": "17/07/2018",
+                    "pdf_link": "https://core.ac.uk/download/481359748.pdf",
+                    "page": 7,
+                    "pdf_downloaded": true
+                },
+                {
+                    "title": "DAMPAK TEKNOLOGI ARTIFICIAL INTELLIGENCE PADA PROFESI AKUNTANSI",
+                    "authors": [
+                        "Alghafiqi  Burhanuddin",
+                        "Jurnal Ilmiah IKOPIN (E-Journals)"
+                    ],
+                    "publication_date": "28/01/2022",
+                    "pdf_link": "https://core.ac.uk/download/525054787.pdf",
+                    "page": 7,
+                    "pdf_downloaded": true
+                },
+                {
+                    "title": "Design Foundations for AI Assisted Decision Making: A Self Determination Theory Approach",
+                    "authors": [
+                        "De Vreede  Gert-Jan",
+                        "De Vreede  Triparna",
+                        "Raghavan  Mukhunth",
+                        "ScholarSpace at University of Hawai'i at Manoa",
+                        "AIS Electronic Library (AISeL)"
+                    ],
+                    "publication_date": "04/01/2021",
+                    "pdf_link": "https://core.ac.uk/download/479740265.pdf",
+                    "page": 7,
+                    "pdf_downloaded": true
+                },
+                {
+                    "title": "EMPLOYEES\u2019 CHALLENGES AND NEEDS FOR RESKILLING WHEN WORKING WITH SOFTWARE ROBOTS",
+                    "authors": [
+                        "Lampi  Anna",
+                        "Pirkkalainen , Henri",
+                        "Salo  Markus",
+                        "Venermo  Kaisa",
+                        "Jyv\u00e4skyl\u00e4 University Digital Archive",
+                        "AIS Electronic Library (AISeL)"
+                    ],
+                    "publication_date": "01/01/2022",
+                    "pdf_link": "https://core.ac.uk/download/559466051.pdf",
+                    "page": 7,
+                    "pdf_downloaded": true
+                },
+                {
+                    "title": "Restructuring the Supply Chain in the Post Covid Era with Geopolitics in the Background",
+                    "authors": [
+                        "Gupta  Vikas",
+                        "ExcelingTech Publishing Company (E-Journals)"
+                    ],
+                    "publication_date": "29/12/2022",
+                    "pdf_link": "https://core.ac.uk/download/552580113.pdf",
+                    "page": 7,
+                    "pdf_downloaded": true
+                },
+                {
+                    "title": "Collective employee narratives and responses to  subtractive change",
+                    "authors": [
+                        "\u00c5gnes  Julie Salthella",
+                        "NHH Brage",
+                        "NORA - Norwegian Open Research Archives"
+                    ],
+                    "publication_date": "01/01/2022",
+                    "pdf_link": "https://core.ac.uk/download/539602746.pdf",
+                    "page": 7,
+                    "pdf_downloaded": true
+                },
+                {
+                    "title": "An Action Design Research",
+                    "authors": [
+                        "Saarikoski  Vesa",
+                        "Aaltodoc Publication Archive"
+                    ],
+                    "publication_date": "01/01/2020",
+                    "pdf_link": "https://core.ac.uk/download/333888495.pdf",
+                    "page": 7,
+                    "pdf_downloaded": true
+                },
+                {
+                    "title": "Future-proofing accounting professionals: Ensuring graduate employability and future readiness",
+                    "authors": [
+                        "Bowles  M",
+                        "Ghosh  S",
+                        "Thomas  L",
+                        "University of Tasmania Open Access Repository",
+                        "Deakin University: openjournals@Deakin"
+                    ],
+                    "publication_date": "01/01/2020",
+                    "pdf_link": "https://core.ac.uk/download/328828824.pdf",
+                    "page": 7,
+                    "pdf_downloaded": false
+                },
+                {
+                    "title": "Essays on the New Blockchain-Based Digital Financial Market : Risks and Opportunities",
+                    "authors": [
+                        "Sapkota  Niranjan",
+                        "Osuva"
+                    ],
+                    "publication_date": "04/10/2022",
+                    "pdf_link": "https://core.ac.uk/download/535017085.pdf",
+                    "page": 8,
+                    "pdf_downloaded": true
+                },
+                {
+                    "title": "Increasing customer service efficiency through artificial intelligence chatbot",
+                    "authors": [
+                        "Andrade  Ivan Martins De",
+                        "Tumelero   Cleonir",
+                        "Cadernos Espinosanos (E-Journal)"
+                    ],
+                    "publication_date": "18/07/2022",
+                    "pdf_link": "https://core.ac.uk/download/542560505.pdf",
+                    "page": 8,
+                    "pdf_downloaded": true
+                },
+                {
+                    "title": "A systematic review of the literature on digital transformation: insights and implications for strategy and organizational change",
+                    "authors": [
+                        "Altukhova N.",
+                        "Andal\u2010Ancion A.",
+                        "Andriole S. J.",
+                        "Arribas V.",
+                        "Baum J.",
+                        "Benner M. J.",
+                        "Bitran G.",
+                        "Brynjolfsson E.",
+                        "Canaday T.",
+                        "Coile R.",
+                        "Cortet M.",
+                        "Dery K.",
+                        "Downes L.",
+                        "Dutra A.",
+                        "Gallaugher J.",
+                        "Gandhi S.",
+                        "Garud R.",
+                        "Glaser B. G.",
+                        "Greenwood R.",
+                        "Gregory R. W.",
+                        "Haffke I.",
+                        "Hansen A. M.",
+                        "Hatch M.",
+                        "Hausladen I.",
+                        "Ho\u00dfbach N.",
+                        "Kolbj\u00f8rnsrud V.",
+                        "KPMG",
+                        "Lawrence P. R.",
+                        "Lewin K.",
+                        "Li L.",
+                        "Markus M. L.",
+                        "Mayring P.",
+                        "Mayring P.",
+                        "McKinsey",
+                        "Pawson R.",
+                        "Poole M.",
+                        "Poole M. S.",
+                        "Porter M.",
+                        "Roberts R.",
+                        "Schwer K.",
+                        "Sebastian I.",
+                        "Sia S.",
+                        "Steinhoff J.",
+                        "strategy&",
+                        "Treem J.",
+                        "Van de Ven A.",
+                        "Venkatraman N.",
+                        "Vera D.",
+                        "Webster J.",
+                        "Weichert M.",
+                        "Weill P.",
+                        "Wessel L.",
+                        "Westerman G.",
+                        "Westerman G.",
+                        "Woodman R.",
+                        "Crossref",
+                        "Reposit\u00f3rio Institucional da Universidade Cat\u00f3lica Portuguesa"
+                    ],
+                    "publication_date": "01/07/2021",
+                    "pdf_link": "https://core.ac.uk/download/392356955.pdf",
+                    "page": 8,
+                    "pdf_downloaded": true
+                },
+                {
+                    "title": "The M2X Economy  \u2013  Concepts for Business Interactions, Transactions and Collaborations Among Autonomous Smart Devices",
+                    "authors": [
+                        "Leiding  Benjamin",
+                        "Georg-August-University G\u00f6ttingen"
+                    ],
+                    "publication_date": "11/12/2019",
+                    "pdf_link": "https://core.ac.uk/download/289245085.pdf",
+                    "page": 8,
+                    "pdf_downloaded": true
+                },
+                {
+                    "title": "Guiding the Automation and AI Revolution: What the Rise in Automation Means for Shifting Standards of Human Value and Our Societal Structure",
+                    "authors": [
+                        "Purandare  Neha",
+                        "UT Digital Repository"
+                    ],
+                    "publication_date": "01/05/2020",
+                    "pdf_link": "https://core.ac.uk/download/395033730.pdf",
+                    "page": 8,
+                    "pdf_downloaded": true
+                },
+                {
+                    "title": "Strategic use of Scrum framework on BPMS projects",
+                    "authors": [
+                        "Pires  Jo\u00e3o Fernando Campos Mendes",
+                        "Reposit\u00f3rio da Universidade Nova de Lisboa"
+                    ],
+                    "publication_date": "26/11/2021",
+                    "pdf_link": "https://core.ac.uk/download/489419309.pdf",
+                    "page": 8,
+                    "pdf_downloaded": true
+                },
+                {
+                    "title": "Digital Transformation: A Cognitive Study for Organizations to Shape their Journeys",
+                    "authors": [
+                        "Bozbura  Faik Tun\u00e7",
+                        "Kaya  Yama\u00e7",
+                        "International Journal of Professional Business Review",
+                        "Revista REGEP"
+                    ],
+                    "publication_date": "22/05/2023",
+                    "pdf_link": "https://core.ac.uk/download/568560362.pdf",
+                    "page": 8,
+                    "pdf_downloaded": true
+                },
+                {
+                    "title": "Digital transformation \u2013 enabling factory economy actors\u2019 entrepreneurial integration in global value chains?",
+                    "authors": [
+                        "Szalavetz  Andrea",
+                        "Repository of the Academy's Library"
+                    ],
+                    "publication_date": "01/01/2020",
+                    "pdf_link": "https://core.ac.uk/download/287738064.pdf",
+                    "page": 8,
+                    "pdf_downloaded": true
+                },
+                {
+                    "title": "The future of internal auditing: how technology is shaping the profession",
+                    "authors": [
+                        "PERON  EDOARDO",
+                        "Padua Thesis and Dissertation Archive"
+                    ],
+                    "publication_date": "17/10/2023",
+                    "pdf_link": "https://core.ac.uk/download/588602489.pdf",
+                    "page": 8,
+                    "pdf_downloaded": true
+                },
+                {
+                    "title": "KNOWLEDGE MANAGEMENT FOR QUALITY ASSURANCE INNOVATION IN THE OPERATIONS QUALITY ASSURANCE DIVISION OF BANK BAKTI KARYA PURNA",
+                    "authors": [
+                        "Joko  Patritius",
+                        "Tjakraatmadja  Jann Hidajat",
+                        "Jurnal Manajemen dan Kewirausahaan"
+                    ],
+                    "publication_date": "03/10/2022",
+                    "pdf_link": "https://core.ac.uk/download/537616302.pdf",
+                    "page": 8,
+                    "pdf_downloaded": true
+                },
+                {
+                    "title": "Chief Digital Officers\u2019 Evolving Strategies: Balancing Lightweight and Heavyweight IT During the Digital Transformation",
+                    "authors": [
+                        "Bygstad  Bendik",
+                        "Danilova  Kjersti",
+                        "Iden  Jon",
+                        "ScholarSpace at University of Hawai'i at Manoa",
+                        "AIS Electronic Library (AISeL)"
+                    ],
+                    "publication_date": "03/01/2022",
+                    "pdf_link": "https://core.ac.uk/download/489426270.pdf",
+                    "page": 9,
+                    "pdf_downloaded": true
+                },
+                {
+                    "title": "Charting the future of accountancy with AI",
+                    "authors": [
+                        "GOH  Clarence",
+                        "LEE  Benjamin Huan Zhou",
+                        "PAN  Gary",
+                        "SEOW  Poh Sun",
+                        "YONG  Melvin",
+                        "Institutional Knowledge at Singapore Management University"
+                    ],
+                    "publication_date": "01/07/2019",
+                    "pdf_link": "https://core.ac.uk/download/286383980.pdf",
+                    "page": 9,
+                    "pdf_downloaded": true
+                },
+                {
+                    "title": "Mastering Software Robot Development Projects: Understanding the Association between System Attributes & Design Practices",
+                    "authors": [
+                        "Dibbern  Jens",
+                        "Rutschi  Corinna",
+                        "Crossref",
+                        "ScholarSpace at University of Hawai'i at Manoa",
+                        "Bern Open Repository and Information System (BORIS)",
+                        "AIS Electronic Library (AISeL)"
+                    ],
+                    "publication_date": "01/01/2019",
+                    "pdf_link": "https://core.ac.uk/download/326834602.pdf",
+                    "page": 9,
+                    "pdf_downloaded": true
+                },
+                {
+                    "title": "The Strategic Supply Chain Management in the Digital Era, Tactical vs Strategic",
+                    "authors": [
+                        "El Sherbiny  Saher",
+                        "Qucosa \u2013 Dresden International University"
+                    ],
+                    "publication_date": "05/01/2023",
+                    "pdf_link": "https://core.ac.uk/download/554064321.pdf",
+                    "page": 9,
+                    "pdf_downloaded": true
+                },
+                {
+                    "title": "INNOVATIVE DIGITAL START-UPS AND THEIR VENTURE CREATION PROCESS WITH ENABLING DIGITAL PLATFORMS",
+                    "authors": [
+                        "M\u00e4k\u00e4r\u00e4inen-Suni  I.",
+                        "M\u00e4k\u00e4r\u00e4inen-Suni  I.",
+                        "WestminsterResearch"
+                    ],
+                    "publication_date": "01/01/2021",
+                    "pdf_link": "https://core.ac.uk/download/396458152.pdf",
+                    "page": 9,
+                    "pdf_downloaded": true
+                },
+                {
+                    "title": "Towards the Implementation of an Intelligent ERP System: Guidelines for Building Intelligent ERP Systems",
+                    "authors": [
+                        "Sousa  Filipe In\u00e1cio Ferreira da Silva de",
+                        "Reposit\u00f3rio da Universidade Nova de Lisboa"
+                    ],
+                    "publication_date": "28/10/2022",
+                    "pdf_link": "https://core.ac.uk/download/543997380.pdf",
+                    "page": 9,
+                    "pdf_downloaded": true
+                },
+                {
+                    "title": "Value positions viewed through the lens of automated decision-making : The case of social services",
+                    "authors": [
+                        "Henriksen  Helle Aagard Zinner",
+                        "Ranerup  Agneta",
+                        "Agder University Research Archive"
+                    ],
+                    "publication_date": "01/01/2019",
+                    "pdf_link": "https://core.ac.uk/download/287123502.pdf",
+                    "page": 9,
+                    "pdf_downloaded": true
+                },
+                {
+                    "title": "Impact of Automated Accounting Software on Bookkeeping Jobs",
+                    "authors": [
+                        "Jedlickova  Karolina",
+                        "Theseus"
+                    ],
+                    "publication_date": "01/01/2020",
+                    "pdf_link": "https://core.ac.uk/download/323462308.pdf",
+                    "page": 9,
+                    "pdf_downloaded": true
+                },
+                {
+                    "title": "Information knowledge and technology for Development in Africa",
+                    "authors": [
+                        "Britz  Johannes",
+                        "Bwalya  Kelvin J.",
+                        "Kalusopa  Trywell",
+                        "Kwanya  Tom",
+                        "Ngoepe  Mpho",
+                        "Ocholla  Dennis N.",
+                        "Onyancha  Omwoyo B.",
+                        "Shongwe  Mzwandile M.",
+                        "Too  Jackson",
+                        "Directory of Open Access Books (DOAB)"
+                    ],
+                    "publication_date": "08/04/2022",
+                    "pdf_link": "https://core.ac.uk/download/520259182.pdf",
+                    "page": 9,
+                    "pdf_downloaded": true
+                },
+                {
+                    "title": "Navigating towards hyperautomation and the empowerment of human capital in family businesses: a perspective article",
+                    "authors": [
+                        "Birkbeck  Andrew",
+                        "Rowe  Lisa",
+                        "ChesterRep"
+                    ],
+                    "publication_date": "23/10/2023",
+                    "pdf_link": "https://core.ac.uk/download/589989987.pdf",
+                    "page": 9,
+                    "pdf_downloaded": true
+                },
+                {
+                    "title": "The role of middle management in achieving continuous improvement:a demanding playing field",
+                    "authors": [
+                        "Hermkens  Freek Johan Andreus",
+                        "Pure OAI Repository"
+                    ],
+                    "publication_date": "03/06/2020",
+                    "pdf_link": "https://core.ac.uk/download/577428119.pdf",
+                    "page": 10,
+                    "pdf_downloaded": true
+                },
+                {
+                    "title": "Business Theory and Practice Across Industries and Markets",
+                    "authors": [
+                        "Baima  Gabriele",
+                        "Goria  Mirko",
+                        "Santoro  Gabriele",
+                        "Institutional Research Information System University of Turin"
+                    ],
+                    "publication_date": "01/01/2020",
+                    "pdf_link": "https://core.ac.uk/download/389056722.pdf",
+                    "page": 10,
+                    "pdf_downloaded": true
+                },
+                {
+                    "title": "The role of middle management in achieving continuous improvement:a demanding playing field",
+                    "authors": [
+                        "Hermkens  Freek Johan Andreus",
+                        "Pure OAI Repository"
+                    ],
+                    "publication_date": "03/06/2020",
+                    "pdf_link": "https://core.ac.uk/download/577063983.pdf",
+                    "page": 10,
+                    "pdf_downloaded": false
+                }
+            ]
+        },
+        {
+            "query_metadata": {
+                "query_number": 2,
+                "max_items": 100,
+                "params": {
+                    "q": "\"Robotic+Process+Automation\"+(implementation+recommendations)+AND+(bank+OR+fintech)+AND+(yearPublished>=2014+AND+yearPublished<=2024)+AND+language%3A\"en\"",
+                    "base": "https://core.ac.uk/search",
+                    "page": 11
+                }
+            },
+            "query_link_statistics": {
+                "total_results_query": 100,
+                "total_pdf_links_query": 100,
+                "downloaded_pdfs_count_query": 86
+            },
+            "query_results": [
+                {
+                    "title": "FinTech ecosystem as an instrument of sustainable development provision",
+                    "authors": [
+                        "Dzhu  O. S.",
+                        "Galazova  S. S.",
+                        "Sopchenko  A. A.",
+                        "Vovchenko  N. G.",
+                        "OAR@UM"
+                    ],
+                    "publication_date": "01/01/2019",
+                    "pdf_link": "https://core.ac.uk/download/288638543.pdf",
+                    "page": 0,
+                    "pdf_downloaded": true
+                },
+                {
+                    "title": "The AI Revolution: Opportunities and Challenges for the Finance Sector",
+                    "authors": [
+                        "Avramovic  Pavle",
+                        "Epiphaniou  Gregory",
+                        "Hariharan  Jagdish",
+                        "Maple  Carsten",
+                        "Penwarden  William",
+                        "Singh  Simran",
+                        "Staykova  Kalina",
+                        "Szpruch  Lukasz",
+                        "Wang  Zijian",
+                        "Wen  Yisi",
+                        "arXiv.org e-Print Archive"
+                    ],
+                    "publication_date": "31/08/2023",
+                    "pdf_link": "http://arxiv.org/abs/2308.16538",
+                    "page": 0,
+                    "pdf_downloaded": true
+                },
+                {
+                    "title": "EXPLORING THE ADOPTION OF ARTIFICIAL  INTELLIGENCE IN THE ZIMBABWE BANKING SECTOR",
+                    "authors": [
+                        "Shambira  Leonard",
+                        "European Journals of Social Sciences Studies"
+                    ],
+                    "publication_date": "15/11/2020",
+                    "pdf_link": "https://core.ac.uk/download/354407044.pdf",
+                    "page": 0,
+                    "pdf_downloaded": true
+                },
+                {
+                    "title": "\u041f\u0435\u0440\u0441\u043f\u0435\u043a\u0442\u0438\u0432\u044b \u0440\u0430\u0437\u0432\u0438\u0442\u0438\u044f \u0431\u0430\u043d\u043a\u043e\u0432\u0441\u043a\u043e\u0433\u043e \u0441\u0435\u043a\u0442\u043e\u0440\u0430 \u0410\u0437\u0435\u0440\u0431\u0430\u0439\u0434\u0436\u0430\u043d\u0430",
+                    "authors": [
+                        "Y. Veliyeva F.",
+                        "\u0415. \u0412\u0435\u043b\u0438\u0435\u0432\u0430 \u0424.",
+                        "Finance: Theory and Practice (E-Journal) / \u0424\u0438\u043d\u0430\u043d\u0441\u044b: \u0442\u0435\u043e\u0440\u0438\u044f \u0438 \u043f\u0440\u0430\u043a\u0442\u0438\u043a\u0430"
+                    ],
+                    "publication_date": "03/02/2021",
+                    "pdf_link": "https://core.ac.uk/download/386147746.pdf",
+                    "page": 0,
+                    "pdf_downloaded": true
+                },
+                {
+                    "title": "From Accountant to Software Developer \u2013 Transforming Employees with Robotic Process Automation (RPA)",
+                    "authors": [
+                        "Kedziora  Damian",
+                        "Siemon  Dominik",
+                        "ScholarSpace at University of Hawai'i at Manoa"
+                    ],
+                    "publication_date": "03/01/2023",
+                    "pdf_link": "https://core.ac.uk/download/552657440.pdf",
+                    "page": 0,
+                    "pdf_downloaded": true
+                },
+                {
+                    "title": "An analysis of whether privately owned financial planning practices are transitioning to fully independent advice providers",
+                    "authors": [
+                        "Golab  Anna",
+                        "Pawski  Darren",
+                        "Powell  Robert",
+                        "Research Online @ ECU"
+                    ],
+                    "publication_date": "09/08/2022",
+                    "pdf_link": "https://core.ac.uk/download/541150877.pdf",
+                    "page": 0,
+                    "pdf_downloaded": true
+                },
+                {
+                    "title": "Optymalizacja proces\u00f3w z wykorzystaniem RPA \u2013 jako element zarz\u0105dzania zmian\u0105 w organizacji",
+                    "authors": [
+                        "Pyp\u0142acz  Paula",
+                        "Sasak  Janusz",
+                        "Akademia Ignatianum w Krakowie: Czasopisma",
+                        "Jagiellonian Univeristy Repository"
+                    ],
+                    "publication_date": "01/01/2023",
+                    "pdf_link": "https://core.ac.uk/download/587967960.pdf",
+                    "page": 0,
+                    "pdf_downloaded": true
+                },
+                {
+                    "title": "Knowledge-based automation and new workforce implementation at a financial institution",
+                    "authors": [
+                        "Elsworth  Catherine",
+                        "University of Johannesburg Institutional Repository"
+                    ],
+                    "publication_date": "01/01/2018",
+                    "pdf_link": "https://core.ac.uk/download/245881171.pdf",
+                    "page": 0,
+                    "pdf_downloaded": true
+                },
+                {
+                    "title": "Robotic process automation framework - The implementation of Robotic Process Automation in Business Processing Outsourcing Organizations",
+                    "authors": [
+                        "Gon\u00e7alves  Ana Isabel Fernandes",
+                        "Reposit\u00f3rio da Universidade Nova de Lisboa"
+                    ],
+                    "publication_date": "27/01/2023",
+                    "pdf_link": "https://core.ac.uk/download/560745316.pdf",
+                    "page": 0,
+                    "pdf_downloaded": true
+                },
+                {
+                    "title": "A User Acceptance Model for Robotic Process Automation",
+                    "authors": [
+                        "Dax  Sebastian",
+                        "Reichert  Manfred",
+                        "Wewerka  Judith",
+                        "DBIS EPub",
+                        "Crossref"
+                    ],
+                    "publication_date": "01/10/2020",
+                    "pdf_link": "https://core.ac.uk/download/385914395.pdf",
+                    "page": 1,
+                    "pdf_downloaded": false
+                },
+                {
+                    "title": "Automated Trading Systems VS Manual Trading in Forex Exchange Market",
+                    "authors": [
+                        "Nunes  Marli Dami\u00e3o Abade",
+                        "Reposit\u00f3rio da Universidade Nova de Lisboa"
+                    ],
+                    "publication_date": "18/06/2021",
+                    "pdf_link": "https://core.ac.uk/download/459213296.pdf",
+                    "page": 1,
+                    "pdf_downloaded": true
+                },
+                {
+                    "title": "Implementing Robotic Process Automation for Internal Process Optimization",
+                    "authors": [
+                        "Mateo  Franco Zuccolillo",
+                        "Rodrigues  Gabriel R",
+                        "DigitalCommons@WPI"
+                    ],
+                    "publication_date": "16/05/2020",
+                    "pdf_link": "https://core.ac.uk/download/343944304.pdf",
+                    "page": 1,
+                    "pdf_downloaded": true
+                },
+                {
+                    "title": "Implementing Robotic Process Automation for Internal Process Optimization",
+                    "authors": [
+                        "Kopper  Valeria",
+                        "Zomb  Madeline Eva",
+                        "DigitalCommons@WPI"
+                    ],
+                    "publication_date": "19/05/2020",
+                    "pdf_link": "https://core.ac.uk/download/343944309.pdf",
+                    "page": 1,
+                    "pdf_downloaded": false
+                },
+                {
+                    "title": "Legal and Regulatory Implications of Disruptive Technologies in Emerging Market Economies",
+                    "authors": [
+                        "Christou  TA",
+                        "Walden  I",
+                        "Queen Mary Research Online",
+                        "FigShare"
+                    ],
+                    "publication_date": "01/01/2018",
+                    "pdf_link": "https://core.ac.uk/download/511729714.pdf",
+                    "page": 1,
+                    "pdf_downloaded": true
+                },
+                {
+                    "title": "Managing a Robotic Process Automation Project Implementation",
+                    "authors": [
+                        "Bernardo Ant\u00f3nio Guedes Macieira",
+                        "Reposit\u00f3rio Aberto da Universidade do Porto"
+                    ],
+                    "publication_date": "12/10/2021",
+                    "pdf_link": "https://core.ac.uk/download/481360733.pdf",
+                    "page": 1,
+                    "pdf_downloaded": true
+                },
+                {
+                    "title": "Organizing Robotic Process Automation: Balancing Loose and Tight Coupling",
+                    "authors": [
+                        "Bygstad  Bendik",
+                        "Iden  Jon",
+                        "Osmundsen  Karen",
+                        "Crossref",
+                        "ScholarSpace at University of Hawai'i at Manoa",
+                        "AIS Electronic Library (AISeL)"
+                    ],
+                    "publication_date": "01/01/2019",
+                    "pdf_link": "https://core.ac.uk/download/211327946.pdf",
+                    "page": 1,
+                    "pdf_downloaded": true
+                },
+                {
+                    "title": "Digital accounting: innovative technologies cause a new paradigm",
+                    "authors": [
+                        "Brukhanskyi   Ruslan",
+                        "Kolesnikova  Olena",
+                        "Sokolenko  Liudmyla",
+                        "Spilnyk  Iryna",
+                        "Struk  Nataliia",
+                        "DIALNET",
+                        "Independent Journal of Management & Production"
+                    ],
+                    "publication_date": "01/01/2022",
+                    "pdf_link": "https://core.ac.uk/download/522186631.pdf",
+                    "page": 1,
+                    "pdf_downloaded": true
+                },
+                {
+                    "title": "A Study of the impact of the adoption of Robotic Process Automation (RPA) on work productivity in the retail banking industry",
+                    "authors": [
+                        "KO  Eura",
+                        "KDI School Archives"
+                    ],
+                    "publication_date": "01/01/2020",
+                    "pdf_link": "https://core.ac.uk/download/395689875.pdf",
+                    "page": 1,
+                    "pdf_downloaded": true
+                },
+                {
+                    "title": "Literature based Cyber Security Topics: Handbook",
+                    "authors": [
+                        "SESHADRI  Dr SRIDHAR",
+                        "International Journal of Innovative Technology and Research (IJITR)"
+                    ],
+                    "publication_date": "29/10/2022",
+                    "pdf_link": "https://core.ac.uk/download/544087838.pdf",
+                    "page": 1,
+                    "pdf_downloaded": true
+                },
+                {
+                    "title": "Checklist-based Support of Knowledge Workers in Robotic Process Automation Projects",
+                    "authors": [
+                        "Reichert  Manfred",
+                        "Wewerka  Judith",
+                        "DBIS EPub"
+                    ],
+                    "publication_date": "01/09/2021",
+                    "pdf_link": "https://core.ac.uk/download/478961402.pdf",
+                    "page": 2,
+                    "pdf_downloaded": false
+                },
+                {
+                    "title": "The role of technology in improving the Customer Experience in the banking sector: a systematic mapping study",
+                    "authors": [
+                        "MAINETTI L.",
+                        "VERGALLO R.",
+                        "Archivio Istituzionale della Ricerca- Universit\u00e0 del Salento"
+                    ],
+                    "publication_date": "01/01/2022",
+                    "pdf_link": "https://core.ac.uk/download/571666855.pdf",
+                    "page": 2,
+                    "pdf_downloaded": true
+                },
+                {
+                    "title": "Influencing factors for the digital transformation in the financial services sector",
+                    "authors": [
+                        "Breitner  Michael H.",
+                        "Rodr\u00edguez Cardona  Davinia",
+                        "Schulenburg  Johann-Matthias Graf von der",
+                        "Schwarzbach  Christoph",
+                        "Werth  Oliver",
+                        "Institutionelles Repositorium der Leibniz Universit\u00e4t Hannover"
+                    ],
+                    "publication_date": "01/01/2020",
+                    "pdf_link": "https://core.ac.uk/download/421650937.pdf",
+                    "page": 2,
+                    "pdf_downloaded": true
+                },
+                {
+                    "title": "Fintech and the future of financial services: What are the research gaps?",
+                    "authors": [
+                        "Alistair Milne (1257834)",
+                        "Anil Kavuri (5623250)",
+                        "Loughborough University Institutional Repository"
+                    ],
+                    "publication_date": "01/01/2018",
+                    "pdf_link": "https://core.ac.uk/download/288357112.pdf",
+                    "page": 2,
+                    "pdf_downloaded": true
+                },
+                {
+                    "title": "Guest editorial",
+                    "authors": [
+                        "Chang  Victor",
+                        "Gagnon  St\u00e9phane",
+                        "Ramachandran  Muthu",
+                        "Valverde  Raul",
+                        "Teeside University's Research Repository"
+                    ],
+                    "publication_date": "09/11/2021",
+                    "pdf_link": "https://core.ac.uk/download/492530956.pdf",
+                    "page": 2,
+                    "pdf_downloaded": true
+                },
+                {
+                    "title": "Artificial intelligence and data analytics: Emerging opportunities and challenges in financial services",
+                    "authors": [
+                        "Crispin Coombs (1255719)",
+                        "Raghav Chopra (8354952)",
+                        "Loughborough University Institutional Repository"
+                    ],
+                    "publication_date": "27/11/2019",
+                    "pdf_link": "https://core.ac.uk/download/288351463.pdf",
+                    "page": 2,
+                    "pdf_downloaded": true
+                },
+                {
+                    "title": "Robotic Process Automation - A Systematic Mapping Study and\n\nClassification Framework",
+                    "authors": [
+                        "Reichert  Manfred",
+                        "Wewerka  Judith",
+                        "DBIS EPub"
+                    ],
+                    "publication_date": "01/01/2022",
+                    "pdf_link": "https://core.ac.uk/download/483689329.pdf",
+                    "page": 2,
+                    "pdf_downloaded": false
+                },
+                {
+                    "title": "Robotic Process Automation -- A Systematic Literature Review and\n  Assessment Framework",
+                    "authors": [
+                        "Reichert  Manfred",
+                        "Wewerka  Judith",
+                        "arXiv.org e-Print Archive",
+                        "DBIS EPub"
+                    ],
+                    "publication_date": "01/12/2020",
+                    "pdf_link": "https://core.ac.uk/download/478961403.pdf",
+                    "page": 2,
+                    "pdf_downloaded": false
+                },
+                {
+                    "title": "UNDERSTANDING THE ADOPTION OF ARTIFICIAL INTELLIGENCE IN THE NORWEGIAN BANKING SECTOR: AN ANALYSES OF TRUST, PERCEIVED RISK, AND BENEFITS\"",
+                    "authors": [
+                        "Khan Sultan",
+                        "Agder University Research Archive"
+                    ],
+                    "publication_date": "01/01/2023",
+                    "pdf_link": "https://core.ac.uk/download/577836299.pdf",
+                    "page": 2,
+                    "pdf_downloaded": true
+                },
+                {
+                    "title": "Method to Foster Intelligent Processes Automation into an Organization",
+                    "authors": [
+                        "Cardoso  Afonso Pires de Matos Gomes",
+                        "Reposit\u00f3rio da Universidade Nova de Lisboa"
+                    ],
+                    "publication_date": "08/10/2021",
+                    "pdf_link": "https://core.ac.uk/download/481372943.pdf",
+                    "page": 2,
+                    "pdf_downloaded": true
+                },
+                {
+                    "title": "THE RISE OF AI IN CONTENT MANAGEMENT: REIMAGINING INTELLIGENT WORKFLOWS",
+                    "authors": [
+                        "Alaxander Harry",
+                        "Ravi Kiran Kandepu",
+                        "ZENODO"
+                    ],
+                    "publication_date": "27/09/2023",
+                    "pdf_link": "https://core.ac.uk/download/587418693.pdf",
+                    "page": 3,
+                    "pdf_downloaded": true
+                },
+                {
+                    "title": "Future of the German Banking Sector",
+                    "authors": [
+                        "Z\u00fcgel  Alexander",
+                        "Hochschulschriftenserver der Hochschule Furtwangen"
+                    ],
+                    "publication_date": "01/01/2020",
+                    "pdf_link": "https://core.ac.uk/download/334494957.pdf",
+                    "page": 3,
+                    "pdf_downloaded": true
+                },
+                {
+                    "title": "Digital Trade Technology and Policy - Barriers and Opportunities:A Scoping Report for a Centre for Digital Trade and Innovation",
+                    "authors": [
+                        "Adu-Amankwa  Nana Akua",
+                        "Arutyunyan  Arutyun",
+                        "Baucherel  Kate",
+                        "Joneidy  Sina",
+                        "Parniani  Behzad",
+                        "Rahimian  Farzad",
+                        "Roughan  Andrew",
+                        "Short  Michael",
+                        "Teeside University's Research Repository"
+                    ],
+                    "publication_date": "31/03/2022",
+                    "pdf_link": "https://core.ac.uk/download/519712501.pdf",
+                    "page": 3,
+                    "pdf_downloaded": true
+                },
+                {
+                    "title": "Digital Trade Technology and Policy - Barriers and Opportunities:A Scoping Report for a Centre for Digital Trade and Innovation",
+                    "authors": [
+                        "Adu-Amankwa  Nana Akua",
+                        "Arutyunyan  Arutyun",
+                        "Baucherel  Kate",
+                        "Joneidy  Sina",
+                        "Parniani  Behzad",
+                        "Rahimian  Farzad",
+                        "Roughan  Andrew",
+                        "Short  Michael",
+                        "Teeside University's Research Repository"
+                    ],
+                    "publication_date": "31/03/2022",
+                    "pdf_link": "https://core.ac.uk/download/519711116.pdf",
+                    "page": 3,
+                    "pdf_downloaded": false
+                },
+                {
+                    "title": "Artificial intelligence \u2013 a key success factor for wealth management industry",
+                    "authors": [
+                        "Dzhaparov  Plamen",
+                        "Varna Medical University Press: Journals"
+                    ],
+                    "publication_date": "09/06/2022",
+                    "pdf_link": "https://core.ac.uk/download/555220543.pdf",
+                    "page": 3,
+                    "pdf_downloaded": true
+                },
+                {
+                    "title": "Responding to Healthcare Emergency Outbreak of COVID-19 Pandemic with Robotic Process Automation (RPA)",
+                    "authors": [
+                        "Kedziora  Damian",
+                        "Smolander  Kari",
+                        "ScholarSpace at University of Hawai'i at Manoa",
+                        "AIS Electronic Library (AISeL)"
+                    ],
+                    "publication_date": "03/01/2022",
+                    "pdf_link": "https://core.ac.uk/download/489426246.pdf",
+                    "page": 3,
+                    "pdf_downloaded": true
+                },
+                {
+                    "title": "Automation of Customer Initiated Back Office Processes: A Design Science Research Approach to link Robotic Process Automation and Chatbots",
+                    "authors": [
+                        "Daase  Christian",
+                        "Nahhas  Abdulrahman",
+                        "Staegemann  Daniel",
+                        "Turowski  Klaus",
+                        "Volk  Matthias",
+                        "AIS Electronic Library (AISeL)"
+                    ],
+                    "publication_date": "01/01/2020",
+                    "pdf_link": "https://core.ac.uk/download/389054860.pdf",
+                    "page": 3,
+                    "pdf_downloaded": true
+                },
+                {
+                    "title": "Simplified literature review on the applicability of process mining to RPA",
+                    "authors": [
+                        "Sallet  Hyago C\u00e9sar da Silva",
+                        "Lume 5.8"
+                    ],
+                    "publication_date": "01/01/2021",
+                    "pdf_link": "https://core.ac.uk/download/479499232.pdf",
+                    "page": 4,
+                    "pdf_downloaded": true
+                },
+                {
+                    "title": "The Ecosystem of Startups in Greece: An Explorative Study",
+                    "authors": [
+                        "Koulouris  Stamatios",
+                        "Bard College"
+                    ],
+                    "publication_date": "01/01/2022",
+                    "pdf_link": "https://core.ac.uk/download/541433992.pdf",
+                    "page": 4,
+                    "pdf_downloaded": true
+                },
+                {
+                    "title": "IT outside of the IT Department: Reviewing Lightweight IT in Times of Shadow IT and IT Consumerization",
+                    "authors": [
+                        "Godefroid  Marie",
+                        "Niehaves  Bj\u00f6rn",
+                        "Plattfaut  Ralf",
+                        "AIS Electronic Library (AISeL)"
+                    ],
+                    "publication_date": "11/02/2021",
+                    "pdf_link": "https://core.ac.uk/download/385858440.pdf",
+                    "page": 4,
+                    "pdf_downloaded": true
+                },
+                {
+                    "title": "The impact of performance communication on process  efficiency : a RPA implementation project",
+                    "authors": [
+                        "Morfeld  Franz-Jakob",
+                        "Reposit\u00f3rio Institucional da Universidade Cat\u00f3lica Portuguesa"
+                    ],
+                    "publication_date": "01/01/2023",
+                    "pdf_link": "https://core.ac.uk/download/570978279.pdf",
+                    "page": 4,
+                    "pdf_downloaded": true
+                },
+                {
+                    "title": "Using RPA for performance monitoring of dynamic SHM applications",
+                    "authors": [
+                        "Aguilera  Edison",
+                        "Atencio  Edison",
+                        "Komarizadehasl  Seyedmilad",
+                        "Lozano Galant  Jos\u00e9 Antonio",
+                        "UPCommons. Portal del coneixement obert de la UPC"
+                    ],
+                    "publication_date": "01/08/2022",
+                    "pdf_link": "https://core.ac.uk/download/534172616.pdf",
+                    "page": 4,
+                    "pdf_downloaded": true
+                },
+                {
+                    "title": "How do Machine Learning, Robotic Process Automation, and Blockchains Affect the Human Factor in Business Process Management?",
+                    "authors": [
+                        "Decker  Gero",
+                        "Hull  Richard",
+                        "Mendling  Jan",
+                        "Reijers  Hajo A.",
+                        "Weber  Ingo",
+                        "VU Research Portal",
+                        "Elektronische Publikationen der Wirtschaftsuniversit\u00e4t Wien",
+                        "AIS Electronic Library (AISeL)"
+                    ],
+                    "publication_date": "01/01/2018",
+                    "pdf_link": "https://core.ac.uk/download/301375901.pdf",
+                    "page": 4,
+                    "pdf_downloaded": true
+                },
+                {
+                    "title": "Implications of Emerging Technologies on the Accounting Profession",
+                    "authors": [
+                        "Peace  Collin",
+                        "East Tennessee State University"
+                    ],
+                    "publication_date": "01/05/2021",
+                    "pdf_link": "https://core.ac.uk/download/428357823.pdf",
+                    "page": 4,
+                    "pdf_downloaded": true
+                },
+                {
+                    "title": "The Intersection of Robotic Process Automation and Lean Six Sigma Applied to Unstructured Data",
+                    "authors": [
+                        "McIntosh  Emily",
+                        "Southern Methodist University"
+                    ],
+                    "publication_date": "14/05/2022",
+                    "pdf_link": "https://core.ac.uk/download/541420833.pdf",
+                    "page": 4,
+                    "pdf_downloaded": true
+                },
+                {
+                    "title": "The role of RPA/Low-Code in process transformation. How well-implemented RPA/Low-Code projects can help transform a company\u00b4s process development?",
+                    "authors": [
+                        "Marques  Diogo Vargas",
+                        "Reposit\u00f3rio da Universidade Nova de Lisboa"
+                    ],
+                    "publication_date": "24/10/2023",
+                    "pdf_link": "https://core.ac.uk/download/591216901.pdf",
+                    "page": 4,
+                    "pdf_downloaded": true
+                },
+                {
+                    "title": "Ohjelmistorobotiikka toimistoty\u00f6ss\u00e4: hy\u00f6dyt, haasteet ja kyvykkyyden kehitt\u00e4minen",
+                    "authors": [
+                        "Str\u00f6mberg  Kristian",
+                        "Aaltodoc Publication Archive"
+                    ],
+                    "publication_date": "01/01/2018",
+                    "pdf_link": "https://core.ac.uk/download/159158272.pdf",
+                    "page": 4,
+                    "pdf_downloaded": true
+                },
+                {
+                    "title": "16th Prof. Vladas Gronskas International Scientific Conference",
+                    "authors": [
+                        "\u0160arki\u016bnait\u0117  Ingrida",
+                        "Vilnius University Open Series",
+                        "Vilnius University Proceedings"
+                    ],
+                    "publication_date": "26/10/2022",
+                    "pdf_link": "https://core.ac.uk/download/543008841.pdf",
+                    "page": 5,
+                    "pdf_downloaded": true
+                },
+                {
+                    "title": "Information security frameworks for assisting GDPR compliance in banking industry",
+                    "authors": [
+                        "Bianchi  I. S.",
+                        "Mira da Silva  M.",
+                        "Pereira  R.",
+                        "Serrado  J.",
+                        "Reposit\u00f3rio Institucional do ISCTE-IUL"
+                    ],
+                    "publication_date": "01/01/2020",
+                    "pdf_link": "https://core.ac.uk/download/542318656.pdf",
+                    "page": 5,
+                    "pdf_downloaded": true
+                },
+                {
+                    "title": "Trend tracking approaches : a critical overview and possible integration between internal and external environment",
+                    "authors": [
+                        "Barroso  Marcos Andr\u00e9 Rosendo",
+                        "UTL Repository"
+                    ],
+                    "publication_date": "01/10/2019",
+                    "pdf_link": "https://core.ac.uk/download/289120129.pdf",
+                    "page": 5,
+                    "pdf_downloaded": true
+                },
+                {
+                    "title": "Money after money:Disassembling value/information infrastructures",
+                    "authors": [
+                        "Ferrari  V.",
+                        "International Migration, Integration and Social Cohesion online publications"
+                    ],
+                    "publication_date": "01/01/2023",
+                    "pdf_link": "https://core.ac.uk/download/560939858.pdf",
+                    "page": 5,
+                    "pdf_downloaded": true
+                },
+                {
+                    "title": "Money after money:Disassembling value/information infrastructures",
+                    "authors": [
+                        "Ferrari  V.",
+                        "International Migration, Integration and Social Cohesion online publications"
+                    ],
+                    "publication_date": "01/01/2023",
+                    "pdf_link": "https://core.ac.uk/download/560941850.pdf",
+                    "page": 5,
+                    "pdf_downloaded": false
+                },
+                {
+                    "title": "Towards the Implementation of an Intelligent ERP System: Guidelines for Building Intelligent ERP Systems",
+                    "authors": [
+                        "Sousa  Filipe In\u00e1cio Ferreira da Silva de",
+                        "Reposit\u00f3rio da Universidade Nova de Lisboa"
+                    ],
+                    "publication_date": "28/10/2022",
+                    "pdf_link": "https://core.ac.uk/download/543997380.pdf",
+                    "page": 5,
+                    "pdf_downloaded": true
+                },
+                {
+                    "title": "Blockchain Ethics in Information Systems: A Literature Review",
+                    "authors": [
+                        "Castelar-Cerna  Alejandra",
+                        "Coombs  Crispin",
+                        "Jayawickrama  Uchitha",
+                        "AIS Electronic Library (AISeL)"
+                    ],
+                    "publication_date": "29/06/2023",
+                    "pdf_link": "https://core.ac.uk/download/577862323.pdf",
+                    "page": 5,
+                    "pdf_downloaded": true
+                },
+                {
+                    "title": "Future-proofing accounting professionals: Ensuring graduate employability and future readiness",
+                    "authors": [
+                        "Bowles  M",
+                        "Ghosh  S",
+                        "Thomas  L",
+                        "University of Tasmania Open Access Repository",
+                        "Deakin University: openjournals@Deakin"
+                    ],
+                    "publication_date": "01/01/2020",
+                    "pdf_link": "https://core.ac.uk/download/328828824.pdf",
+                    "page": 5,
+                    "pdf_downloaded": false
+                },
+                {
+                    "title": "Value positions viewed through the lens of automated decision-making : The case of social services",
+                    "authors": [
+                        "Henriksen  Helle Aagard Zinner",
+                        "Ranerup  Agneta",
+                        "Agder University Research Archive"
+                    ],
+                    "publication_date": "01/01/2019",
+                    "pdf_link": "https://core.ac.uk/download/287123502.pdf",
+                    "page": 5,
+                    "pdf_downloaded": true
+                },
+                {
+                    "title": "The future of internal auditing: how technology is shaping the profession",
+                    "authors": [
+                        "PERON  EDOARDO",
+                        "Padua Thesis and Dissertation Archive"
+                    ],
+                    "publication_date": "17/10/2023",
+                    "pdf_link": "https://core.ac.uk/download/588602489.pdf",
+                    "page": 5,
+                    "pdf_downloaded": true
+                },
+                {
+                    "title": "COMPLEX ESTIMATES AND AUDITOR RELIANCE ON ARTIFICIAL INTELLIGENCE",
+                    "authors": [
+                        "Commerford  Benjamin",
+                        "Dennis  Sean",
+                        "Joe  Jennifer",
+                        "Wang  Jenny",
+                        "ScholarSpace at University of Hawai'i at Manoa"
+                    ],
+                    "publication_date": "07/08/2019",
+                    "pdf_link": "https://core.ac.uk/download/286029865.pdf",
+                    "page": 6,
+                    "pdf_downloaded": true
+                },
+                {
+                    "title": "Impact of Automated Accounting Software on Bookkeeping Jobs",
+                    "authors": [
+                        "Jedlickova  Karolina",
+                        "Theseus"
+                    ],
+                    "publication_date": "01/01/2020",
+                    "pdf_link": "https://core.ac.uk/download/323462308.pdf",
+                    "page": 6,
+                    "pdf_downloaded": true
+                },
+                {
+                    "title": "Scholarly Commentaries on  Hirschheim\u2019s \u201cAgainst Theory\u201d",
+                    "authors": [
+                        "Burton-Jones  Andrew",
+                        "Hirschheim  Rudy",
+                        "Hovorka  Dirk S.",
+                        "Jarvenpaa  Sirkka",
+                        "Lacity  Mary",
+                        "Markus  M. Lynne",
+                        "Rowe  Frantz",
+                        "Swanson  E. Burton",
+                        "Venkatesh  Viswanath",
+                        "HAL Descartes",
+                        "Hal-Diderot",
+                        "AIS Electronic Library (AISeL)",
+                        "University of Queensland eSpace"
+                    ],
+                    "publication_date": "01/01/2019",
+                    "pdf_link": "https://core.ac.uk/download/301387225.pdf",
+                    "page": 6,
+                    "pdf_downloaded": true
+                },
+                {
+                    "title": "Looking into the Antecedents of the Transformation of IT Jobs. A Country-based Perspective",
+                    "authors": [
+                        "MOLDOVEANU  Ion",
+                        "Management Dynamics in the Knowledge Economy (E-Journal)"
+                    ],
+                    "publication_date": "10/09/2022",
+                    "pdf_link": "https://core.ac.uk/download/544083212.pdf",
+                    "page": 6,
+                    "pdf_downloaded": true
+                },
+                {
+                    "title": "How Technology Has Changed the Field of Accounting",
+                    "authors": [
+                        "Quinto II  Emmanuel J",
+                        "Virtual Commons - Bridgewater State University"
+                    ],
+                    "publication_date": "18/08/2022",
+                    "pdf_link": "https://core.ac.uk/download/541298320.pdf",
+                    "page": 6,
+                    "pdf_downloaded": true
+                },
+                {
+                    "title": "The Strategic Supply Chain Management in the Digital Era, Tactical vs Strategic",
+                    "authors": [
+                        "El Sherbiny  Saher",
+                        "Qucosa \u2013 Dresden International University"
+                    ],
+                    "publication_date": "05/01/2023",
+                    "pdf_link": "https://core.ac.uk/download/554064321.pdf",
+                    "page": 6,
+                    "pdf_downloaded": true
+                },
+                {
+                    "title": "Charting the future of accountancy with AI",
+                    "authors": [
+                        "GOH  Clarence",
+                        "LEE  Benjamin Huan Zhou",
+                        "PAN  Gary",
+                        "SEOW  Poh Sun",
+                        "YONG  Melvin",
+                        "Institutional Knowledge at Singapore Management University"
+                    ],
+                    "publication_date": "01/07/2019",
+                    "pdf_link": "https://core.ac.uk/download/286383980.pdf",
+                    "page": 6,
+                    "pdf_downloaded": true
+                },
+                {
+                    "title": "Failure factors of AI projects: results from expert interviews",
+                    "authors": [
+                        "Schlegel  Dennis",
+                        "Schuler  Kajetan",
+                        "Westenberger  Jens",
+                        "UMinho Editora Revistas"
+                    ],
+                    "publication_date": "04/10/2023",
+                    "pdf_link": "https://core.ac.uk/download/588400472.pdf",
+                    "page": 6,
+                    "pdf_downloaded": true
+                },
+                {
+                    "title": "Digital transformation \u2013 enabling factory economy actors\u2019 entrepreneurial integration in global value chains?",
+                    "authors": [
+                        "Szalavetz  Andrea",
+                        "Repository of the Academy's Library"
+                    ],
+                    "publication_date": "01/01/2020",
+                    "pdf_link": "https://core.ac.uk/download/287738064.pdf",
+                    "page": 6,
+                    "pdf_downloaded": true
+                },
+                {
+                    "title": "Navigating the Ethical and Legal Terrains of AI Tool Deployment: A Comparative Legal Analysis",
+                    "authors": [
+                        "Akindele  Roland",
+                        "Jesuloluwa Adewuyi  Stella",
+                        "CSUSB ScholarWorks"
+                    ],
+                    "publication_date": "24/10/2023",
+                    "pdf_link": "https://core.ac.uk/download/589248268.pdf",
+                    "page": 6,
+                    "pdf_downloaded": true
+                },
+                {
+                    "title": "Digital transformation in business and management research: An overview of the current status quo",
+                    "authors": [
+                        "Durst  Susanne",
+                        "Ferreira  Jo\u00e3o Jos\u00e9 de Matos",
+                        "Kailer  Norbert",
+                        "Kraus  Sascha",
+                        "Veiga  Pedro",
+                        "Weinmann  Alexandra",
+                        "UBibliorum repositorio digital da ubi"
+                    ],
+                    "publication_date": "07/12/2021",
+                    "pdf_link": "https://core.ac.uk/download/490213371.pdf",
+                    "page": 7,
+                    "pdf_downloaded": true
+                },
+                {
+                    "title": "Business Theory and Practice Across Industries and Markets",
+                    "authors": [
+                        "Baima  Gabriele",
+                        "Goria  Mirko",
+                        "Santoro  Gabriele",
+                        "Institutional Research Information System University of Turin"
+                    ],
+                    "publication_date": "01/01/2020",
+                    "pdf_link": "https://core.ac.uk/download/389056722.pdf",
+                    "page": 7,
+                    "pdf_downloaded": true
+                },
+                {
+                    "title": "The role of middle management in achieving continuous improvement:a demanding playing field",
+                    "authors": [
+                        "Hermkens  Freek Johan Andreus",
+                        "Pure OAI Repository"
+                    ],
+                    "publication_date": "03/06/2020",
+                    "pdf_link": "https://core.ac.uk/download/577428119.pdf",
+                    "page": 7,
+                    "pdf_downloaded": true
+                },
+                {
+                    "title": "Case of Indonesian Covid-19 Chatbot Service",
+                    "authors": [
+                        "\uc2dc\uc554\uc220",
+                        "SNU Open Repository and Archive"
+                    ],
+                    "publication_date": "01/08/2021",
+                    "pdf_link": "https://core.ac.uk/download/522188045.pdf",
+                    "page": 7,
+                    "pdf_downloaded": true
+                },
+                {
+                    "title": "The role of middle management in achieving continuous improvement:a demanding playing field",
+                    "authors": [
+                        "Hermkens  Freek Johan Andreus",
+                        "Pure OAI Repository"
+                    ],
+                    "publication_date": "03/06/2020",
+                    "pdf_link": "https://core.ac.uk/download/577063983.pdf",
+                    "page": 7,
+                    "pdf_downloaded": false
+                },
+                {
+                    "title": "THE IMPACT OF AUTOMATION TOWARDS FEMALE LABOR FORCE IN INDONESIA AND THE ATTEMPTS TO ESTABLISH BETTER PROTECTION MECHANISM",
+                    "authors": [
+                        "Virgil  Dominique",
+                        "PEOPLE: International Journal of Social Sciences",
+                        "Global Research & Development Services Publishing"
+                    ],
+                    "publication_date": "15/03/2019",
+                    "pdf_link": "https://core.ac.uk/download/497888617.pdf",
+                    "page": 7,
+                    "pdf_downloaded": true
+                },
+                {
+                    "title": "Understanding the Effect that Task Complexity has on Automation Potential and Opacity: Implications for Algorithmic Fairness",
+                    "authors": [
+                        "Dwivedi  Yogesh",
+                        "Gupta  Agam",
+                        "Sharma  Divya",
+                        "Vimalkumar  M.",
+                        "AIS Electronic Library (AISeL)"
+                    ],
+                    "publication_date": "31/03/2021",
+                    "pdf_link": "https://core.ac.uk/download/402100634.pdf",
+                    "page": 7,
+                    "pdf_downloaded": true
+                },
+                {
+                    "title": "Scenarios for the future of the European legal sector, in the context of disruptive technologies, and its implications for the national association of young Portuguese lawyers (Anjap): framing, scoping & External environmental scanning",
+                    "authors": [
+                        "Bork  Alexandre",
+                        "Reposit\u00f3rio da Universidade Nova de Lisboa"
+                    ],
+                    "publication_date": "20/05/2021",
+                    "pdf_link": "https://core.ac.uk/download/491649751.pdf",
+                    "page": 7,
+                    "pdf_downloaded": false
+                },
+                {
+                    "title": "Information knowledge and technology for Development in Africa",
+                    "authors": [
+                        "Britz  Johannes",
+                        "Bwalya  Kelvin J.",
+                        "Kalusopa  Trywell",
+                        "Kwanya  Tom",
+                        "Ngoepe  Mpho",
+                        "Ocholla  Dennis N.",
+                        "Onyancha  Omwoyo B.",
+                        "Shongwe  Mzwandile M.",
+                        "Too  Jackson",
+                        "Directory of Open Access Books (DOAB)"
+                    ],
+                    "publication_date": "08/04/2022",
+                    "pdf_link": "https://core.ac.uk/download/520259182.pdf",
+                    "page": 7,
+                    "pdf_downloaded": true
+                },
+                {
+                    "title": "INNOVATIVE DIGITAL START-UPS AND THEIR VENTURE CREATION PROCESS WITH ENABLING DIGITAL PLATFORMS",
+                    "authors": [
+                        "M\u00e4k\u00e4r\u00e4inen-Suni  I.",
+                        "M\u00e4k\u00e4r\u00e4inen-Suni  I.",
+                        "WestminsterResearch"
+                    ],
+                    "publication_date": "01/01/2021",
+                    "pdf_link": "https://core.ac.uk/download/396458152.pdf",
+                    "page": 7,
+                    "pdf_downloaded": true
+                },
+                {
+                    "title": "Emerging Technologies",
+                    "authors": [
+                        "K\u00fcfeo\u011flu  Sinan",
+                        "Directory of Open Access Books (DOAB)"
+                    ],
+                    "publication_date": "13/07/2022",
+                    "pdf_link": "https://core.ac.uk/download/534899422.pdf",
+                    "page": 8,
+                    "pdf_downloaded": false
+                },
+                {
+                    "title": "Digital Security in the Public Sector",
+                    "authors": [
+                        "Valto"
+                    ],
+                    "publication_date": "01/06/2020",
+                    "pdf_link": "https://core.ac.uk/download/326751119.pdf",
+                    "page": 8,
+                    "pdf_downloaded": true
+                },
+                {
+                    "title": "Institutional Report 2020",
+                    "authors": [
+                        "Repositorio Institucional de la Biblioteca del Banco de Espa\u00f1a"
+                    ],
+                    "publication_date": "09/04/2021",
+                    "pdf_link": "https://core.ac.uk/download/479908966.pdf",
+                    "page": 8,
+                    "pdf_downloaded": false
+                },
+                {
+                    "title": "Designing and Managing Artificial Intelligence-Enabled Information Systems",
+                    "authors": [
+                        "Hofmann  Peter",
+                        "EPub Bayreuth"
+                    ],
+                    "publication_date": "01/01/2021",
+                    "pdf_link": "https://core.ac.uk/download/479348902.pdf",
+                    "page": 8,
+                    "pdf_downloaded": true
+                },
+                {
+                    "title": "Impact of Lean management at EDP Produ\u00e7\u00e3o",
+                    "authors": [
+                        "Chaves  Constan\u00e7a de Athayde de Antunes Varela",
+                        "Reposit\u00f3rio Institucional do ISCTE-IUL"
+                    ],
+                    "publication_date": "05/11/2019",
+                    "pdf_link": "https://core.ac.uk/download/544089141.pdf",
+                    "page": 8,
+                    "pdf_downloaded": true
+                },
+                {
+                    "title": "Building Sustainable Business Practices: Design Principles for Reusable Artificial Intelligence",
+                    "authors": [
+                        "Omerovic Smajlovic  Mirheta",
+                        "Rami  Alhasan",
+                        "Z\u00f6ll  Anne",
+                        "AIS Electronic Library (AISeL)"
+                    ],
+                    "publication_date": "09/10/2023",
+                    "pdf_link": "https://core.ac.uk/download/587843400.pdf",
+                    "page": 8,
+                    "pdf_downloaded": true
+                },
+                {
+                    "title": "MENILAI INTEGRASI MUATAN DATA ANALYTICS DALAM KURIKULUM PROGRAM STUDI KOMPUTERISASI AKUNTANSI POLINES",
+                    "authors": [
+                        "Ardiansah  M. Noor",
+                        "Hidayati  Ulfah",
+                        "Manshur  A. Wafa",
+                        "Murtini  Sri",
+                        "Putri  Alvianita G.",
+                        "Portal Jurnal Politeknik Negeri Semarang"
+                    ],
+                    "publication_date": "09/06/2023",
+                    "pdf_link": "https://core.ac.uk/download/568525727.pdf",
+                    "page": 8,
+                    "pdf_downloaded": true
+                },
+                {
+                    "title": "Essays on Innovations in Public Sector Auditing",
+                    "authors": [
+                        "OTIA  Javis Ebua",
+                        "Archivio istituzionale della ricerca - Universit\u00e0 di Ferrara"
+                    ],
+                    "publication_date": "22/05/2023",
+                    "pdf_link": "https://core.ac.uk/download/576887355.pdf",
+                    "page": 8,
+                    "pdf_downloaded": true
+                },
+                {
+                    "title": "Special Issue Editorial. Artificial Intelligence in Organizations: Current State and Future Opportunities",
+                    "authors": [
+                        "Benbya  Hind",
+                        "Davenport  Thomas H.",
+                        "Pachidi  Stella",
+                        "Deakin Research Online",
+                        "AIS Electronic Library (AISeL)"
+                    ],
+                    "publication_date": "01/12/2020",
+                    "pdf_link": "https://core.ac.uk/download/356499635.pdf",
+                    "page": 8,
+                    "pdf_downloaded": true
+                },
+                {
+                    "title": "An Assessment of the Impact of Disruptive Technologies on the Efficacy of Accounting Practices in Selected South Western States, Nigeria",
+                    "authors": [
+                        "Adebiyi  Ifeoluwa M.",
+                        "Akinadewo  Israel S.",
+                        "Akinadewo  Jeremiah O.",
+                        "Dagunduro  Muyiwa E.",
+                        "Ogundele  Omobolade S.",
+                        "Scholink Journals"
+                    ],
+                    "publication_date": "29/06/2023",
+                    "pdf_link": "https://core.ac.uk/download/578161900.pdf",
+                    "page": 8,
+                    "pdf_downloaded": true
+                },
+                {
+                    "title": "Digital tax administration: transforming the workforce to deliver",
+                    "authors": [
+                        "Bentley  Duncan",
+                        "Federation ResearchOnline"
+                    ],
+                    "publication_date": "01/01/2020",
+                    "pdf_link": "https://core.ac.uk/download/544396258.pdf",
+                    "page": 9,
+                    "pdf_downloaded": true
+                },
+                {
+                    "title": "Supervision Report 2020",
+                    "authors": [
+                        "Repositorio Institucional de la Biblioteca del Banco de Espa\u00f1a"
+                    ],
+                    "publication_date": "18/03/2021",
+                    "pdf_link": "https://core.ac.uk/download/493139792.pdf",
+                    "page": 9,
+                    "pdf_downloaded": false
+                },
+                {
+                    "title": "Taxation in the Digital Economy",
+                    "authors": [
+                        "Directory of Open Access Books (DOAB)"
+                    ],
+                    "publication_date": "07/07/2022",
+                    "pdf_link": "https://core.ac.uk/download/534901658.pdf",
+                    "page": 9,
+                    "pdf_downloaded": true
+                },
+                {
+                    "title": "Assessing the relationship between bpm maturity and the success of organizations",
+                    "authors": [
+                        "Pinto  Joana Leite",
+                        "Reposit\u00f3rio da Universidade Nova de Lisboa"
+                    ],
+                    "publication_date": "17/02/2020",
+                    "pdf_link": "https://core.ac.uk/download/288869556.pdf",
+                    "page": 9,
+                    "pdf_downloaded": true
+                },
+                {
+                    "title": "AI Hype: Public Relations and AI's doomsday machine",
+                    "authors": [
+                        "Bourne  Clea D.",
+                        "Goldsmiths Research Online"
+                    ],
+                    "publication_date": "01/09/2023",
+                    "pdf_link": "https://core.ac.uk/download/587386681.pdf",
+                    "page": 9,
+                    "pdf_downloaded": true
+                },
+                {
+                    "title": "Contextual impacts on industrial processes brought by the digital transformation of manufacturing: a systematic review",
+                    "authors": [
+                        "Amendola  Carlo",
+                        "Bellini  Francesco",
+                        "D'Ascenzo  Fabrizio",
+                        "Savastano  Marco",
+                        "Directory of Open Access Journals",
+                        "Archivio della ricerca- Universit\u00e0 di Roma La Sapienza"
+                    ],
+                    "publication_date": "01/01/2019",
+                    "pdf_link": "https://core.ac.uk/download/188832805.pdf",
+                    "page": 9,
+                    "pdf_downloaded": true
+                },
+                {
+                    "title": "Business Model Innovation based on Software Robotics for Mobile Network Operators",
+                    "authors": [
+                        "Tobias  Florian",
+                        "University of South Wales Research Explorer"
+                    ],
+                    "publication_date": "29/03/2021",
+                    "pdf_link": "https://core.ac.uk/download/482703008.pdf",
+                    "page": 9,
+                    "pdf_downloaded": true
+                },
+                {
+                    "title": "Directional classification of cryptocurrencies using stock indices: the case of Bitcoin",
+                    "authors": [
+                        "Chasitou  Valentina",
+                        "International Hellenic University: IHU Open Access Repository"
+                    ],
+                    "publication_date": "12/06/2020",
+                    "pdf_link": "https://core.ac.uk/download/328007124.pdf",
+                    "page": 9,
+                    "pdf_downloaded": true
+                },
+                {
+                    "title": "The Evolution of Smart Buildings: An Industrial Perspective of the Development of Smart Buildings in the 2010s",
+                    "authors": [
+                        "Marson  M.",
+                        "Marson  M.",
+                        "WestminsterResearch"
+                    ],
+                    "publication_date": "01/01/2022",
+                    "pdf_link": "https://core.ac.uk/download/492046340.pdf",
+                    "page": 9,
+                    "pdf_downloaded": true
+                },
+                {
+                    "title": "Directional classification of cryptocurrencies using stock indices: the case of Bitcoin",
+                    "authors": [
+                        "Chasiotou  Valentina",
+                        "International Hellenic University: IHU Open Access Repository"
+                    ],
+                    "publication_date": "12/06/2020",
+                    "pdf_link": "https://core.ac.uk/download/328007250.pdf",
+                    "page": 10,
+                    "pdf_downloaded": false
+                },
+                {
+                    "title": "Smart Regulation: Lessons from the Artificial Intelligence Act",
+                    "authors": [
+                        "Hillman  John",
+                        "Emory Law Scholarly Commons"
+                    ],
+                    "publication_date": "01/01/2023",
+                    "pdf_link": "https://core.ac.uk/download/578902680.pdf",
+                    "page": 10,
+                    "pdf_downloaded": true
+                },
+                {
+                    "title": "Revolutionising Public Private Partnerships: A Transition to the Fifth Industrial Revolution",
+                    "authors": [
+                        "Nel-Sanders  Danielle",
+                        "International Journal of Innovation in Management, Economics and Social Sciences"
+                    ],
+                    "publication_date": "16/02/2023",
+                    "pdf_link": "https://core.ac.uk/download/572722310.pdf",
+                    "page": 10,
+                    "pdf_downloaded": true
+                },
+                {
+                    "title": "Adoption Factors of Artificial intelligence in Human Resource Management",
+                    "authors": [
+                        "Tuffaha  Mohand",
+                        "RiuNet"
+                    ],
+                    "publication_date": "06/09/2022",
+                    "pdf_link": "https://riunet.upv.es/bitstream/10251/185909/1/Tuffaha%20-%20Adoption%20Factors%20of%20Artificial%20intelligence%20in%20Human%20Resource%20Management.pdf",
+                    "page": 10,
+                    "pdf_downloaded": true
+                },
+                {
+                    "title": "From Automation to Autonomy: Legal and Ethical Responsibility Gaps in Artificial Intelligence Innovation",
+                    "authors": [
+                        "Mancha  Ruben",
+                        "Nersessian  David",
+                        "bepress Legal Repository",
+                        "University of Michigan School of Law"
+                    ],
+                    "publication_date": "01/01/2021",
+                    "pdf_link": "https://core.ac.uk/download/370602600.pdf",
+                    "page": 10,
+                    "pdf_downloaded": true
+                }
+            ]
+        }
+    ]
+}

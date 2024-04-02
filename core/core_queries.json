@@ -1,0 +1,29 @@
+[
+    {
+        "query_number": 0,
+        "max_items": 100,
+        "params": {
+            "q": "\"Robotic+Process+Automation\"+(integration+finance+industry+financial+sector)+AND+(bank+OR+fintech)+AND+(yearPublished>=2014+AND+yearPublished<=2024)+AND+language%3A\"en\"",
+            "base": "https://core.ac.uk/search",
+            "page": 1
+        }
+    },
+    {
+        "query_number": 1,
+        "max_items": 100,
+        "params": {
+            "q": "\"Robotic+Process+Automation\"+(integration+business+management)+AND+(bank+OR+fintech)+AND+(yearPublished>=2014+AND+yearPublished<=2024)+AND+language%3A\"en\"",
+            "base": "https://core.ac.uk/search",
+            "page": 1
+        }
+    },
+    {
+        "query_number": 2,
+        "max_items": 100,
+        "params": {
+            "q": "\"Robotic+Process+Automation\"+(implementation+recommendations)+AND+(bank+OR+fintech)+AND+(yearPublished>=2014+AND+yearPublished<=2024)+AND+language%3A\"en\"",
+            "base": "https://core.ac.uk/search",
+            "page": 1
+        }
+    }
+]

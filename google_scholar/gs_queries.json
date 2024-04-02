@@ -1,0 +1,38 @@
+[
+   {
+      "query_number": 0,
+      "max_items": 100,
+      "params": {
+         "q": "integration+finance+industry+financial+bank+OR+fintech+\"Robotic+Process+Automation\"",
+         "base": "https://scholar.google.com/scholar",
+         "start": 0,
+         "hl": "en",
+         "as_ylo": 2014,
+         "as_yhi": 2024
+      }
+   },
+   {
+      "query_number": 1,
+      "max_items": 100,
+      "params": {
+         "q": "integration+business+management+bank+OR+fintech+\"Robotic+Process+Automation\"",
+         "base": "https://scholar.google.com/scholar",
+         "start": 0,
+         "hl": "en",
+         "as_ylo": 2014,
+         "as_yhi": 2024
+      }
+   },
+   {
+      "query_number": 2,
+      "max_items": 100,
+      "params": {
+         "q": "implementation+recommendations+bank+OR+fintech+\"Robotic+Process+Automation\"",
+         "base": "https://scholar.google.com/scholar",
+         "start": 0,
+         "hl": "en",
+         "as_ylo": 2014,
+         "as_yhi": 2024
+      }
+   }
+]
