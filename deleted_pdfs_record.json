@@ -1,0 +1,761 @@
+{
+    "total_original_count": 439,
+    "total_deleted_count": 174,
+    "total_remaining_count": 265,
+    "directories": {
+        "acm_pdfs\\query_1": {
+            "original_count": 8,
+            "deleted_count": 0,
+            "remaining_count": 8,
+            "deleted_files": []
+        },
+        "acm_pdfs\\query_2": {
+            "original_count": 10,
+            "deleted_count": 0,
+            "remaining_count": 10,
+            "deleted_files": []
+        },
+        "acm_pdfs\\query_3": {
+            "original_count": 6,
+            "deleted_count": 0,
+            "remaining_count": 6,
+            "deleted_files": []
+        },
+        "core_pdfs\\query_1": {
+            "original_count": 85,
+            "deleted_count": 0,
+            "remaining_count": 85,
+            "deleted_files": []
+        },
+        "core_pdfs\\query_2": {
+            "original_count": 91,
+            "deleted_count": 48,
+            "remaining_count": 43,
+            "deleted_files": [
+                {
+                    "file_name": "16th Prof. Vladas Gronskas International Scientific Conference.pdf",
+                    "file_path": "core_pdfs\\query_2\\16th Prof. Vladas Gronskas International Scientific Conference.pdf"
+                },
+                {
+                    "file_name": "Artificial intelligence and data analytics_ Emerging opportunities and challenges in financial services.pdf",
+                    "file_path": "core_pdfs\\query_2\\Artificial intelligence and data analytics_ Emerging opportunities and challenges in financial services.pdf"
+                },
+                {
+                    "file_name": "Artificial Intelligence in Banking Industry_ A Review on Fraud Detection, Credit Management, and Document Processing.pdf",
+                    "file_path": "core_pdfs\\query_2\\Artificial Intelligence in Banking Industry_ A Review on Fraud Detection, Credit Management, and Document Processing.pdf"
+                },
+                {
+                    "file_name": "Business Theory and Practice Across Industries and Markets.pdf",
+                    "file_path": "core_pdfs\\query_2\\Business Theory and Practice Across Industries and Markets.pdf"
+                },
+                {
+                    "file_name": "Charting the future of accountancy with AI.pdf",
+                    "file_path": "core_pdfs\\query_2\\Charting the future of accountancy with AI.pdf"
+                },
+                {
+                    "file_name": "Collective employee narratives and responses to  subtractive change.pdf",
+                    "file_path": "core_pdfs\\query_2\\Collective employee narratives and responses to  subtractive change.pdf"
+                },
+                {
+                    "file_name": "Development of a model for Business Process Reengineering_ A practical application in a Corporate Center of a Logistics Company.pdf",
+                    "file_path": "core_pdfs\\query_2\\Development of a model for Business Process Reengineering_ A practical application in a Corporate Center of a Logistics Company.pdf"
+                },
+                {
+                    "file_name": "Digital Trade Technology and Policy - Barriers and Opportunities_A Scoping Report for a Centre for Digital Trade and Innovation.pdf",
+                    "file_path": "core_pdfs\\query_2\\Digital Trade Technology and Policy - Barriers and Opportunities_A Scoping Report for a Centre for Digital Trade and Innovation.pdf"
+                },
+                {
+                    "file_name": "Emerging Technology in Business and Finance.pdf",
+                    "file_path": "core_pdfs\\query_2\\Emerging Technology in Business and Finance.pdf"
+                },
+                {
+                    "file_name": "Employees\u2019 perception of value-added activity increase of Robotic Process Automation with time and cost efficiency_ a case study.pdf",
+                    "file_path": "core_pdfs\\query_2\\Employees\u2019 perception of value-added activity increase of Robotic Process Automation with time and cost efficiency_ a case study.pdf"
+                },
+                {
+                    "file_name": "Essays on the New Blockchain-Based Digital Financial Market _ Risks and Opportunities.pdf",
+                    "file_path": "core_pdfs\\query_2\\Essays on the New Blockchain-Based Digital Financial Market _ Risks and Opportunities.pdf"
+                },
+                {
+                    "file_name": "Exploring the Role of Big Data Analytics in Driving Financial Innovation_ An Affordance Actualisation Perspectivec.pdf",
+                    "file_path": "core_pdfs\\query_2\\Exploring the Role of Big Data Analytics in Driving Financial Innovation_ An Affordance Actualisation Perspectivec.pdf"
+                },
+                {
+                    "file_name": "Future of the German Banking Sector.pdf",
+                    "file_path": "core_pdfs\\query_2\\Future of the German Banking Sector.pdf"
+                },
+                {
+                    "file_name": "Guest editorial.pdf",
+                    "file_path": "core_pdfs\\query_2\\Guest editorial.pdf"
+                },
+                {
+                    "file_name": "Guiding the Automation and AI Revolution_ What the Rise in Automation Means for Shifting Standards of Human Value and Our Societal Structure.pdf",
+                    "file_path": "core_pdfs\\query_2\\Guiding the Automation and AI Revolution_ What the Rise in Automation Means for Shifting Standards of Human Value and Our Societal Structure.pdf"
+                },
+                {
+                    "file_name": "How do Machine Learning, Robotic Process Automation, and Blockchains Affect the Human Factor in Business Process Management_.pdf",
+                    "file_path": "core_pdfs\\query_2\\How do Machine Learning, Robotic Process Automation, and Blockchains Affect the Human Factor in Business Process Management_.pdf"
+                },
+                {
+                    "file_name": "How students can combine earning with learning through flexible business process sourcing_ a proposition.pdf",
+                    "file_path": "core_pdfs\\query_2\\How students can combine earning with learning through flexible business process sourcing_ a proposition.pdf"
+                },
+                {
+                    "file_name": "How to Measure RPA_u27s Benefits_ A Review on Metrics, Indicators, and Evaluation Methods of RPA Benefit Assessment.pdf",
+                    "file_path": "core_pdfs\\query_2\\How to Measure RPA_u27s Benefits_ A Review on Metrics, Indicators, and Evaluation Methods of RPA Benefit Assessment.pdf"
+                },
+                {
+                    "file_name": "Implications of Emerging Technologies on the Accounting Profession.pdf",
+                    "file_path": "core_pdfs\\query_2\\Implications of Emerging Technologies on the Accounting Profession.pdf"
+                },
+                {
+                    "file_name": "Industry 4.0 and accounting_ directions, challenges, opportunities.pdf",
+                    "file_path": "core_pdfs\\query_2\\Industry 4.0 and accounting_ directions, challenges, opportunities.pdf"
+                },
+                {
+                    "file_name": "Influencing factors for the digital transformation in the financial services sector.pdf",
+                    "file_path": "core_pdfs\\query_2\\Influencing factors for the digital transformation in the financial services sector.pdf"
+                },
+                {
+                    "file_name": "Information and Communication Technology Capabilities and Business Performance_ The Case of Differences in the Czech Financial Sector and Lessons from Robotic Process Automation between 2015 and 2020.pdf",
+                    "file_path": "core_pdfs\\query_2\\Information and Communication Technology Capabilities and Business Performance_ The Case of Differences in the Czech Financial Sector and Lessons from Robotic Process Automation between 2015 and 2020.pdf"
+                },
+                {
+                    "file_name": "Information knowledge and technology for Development in Africa.pdf",
+                    "file_path": "core_pdfs\\query_2\\Information knowledge and technology for Development in Africa.pdf"
+                },
+                {
+                    "file_name": "INNOVATIVE DIGITAL START-UPS AND THEIR VENTURE CREATION PROCESS WITH ENABLING DIGITAL PLATFORMS.pdf",
+                    "file_path": "core_pdfs\\query_2\\INNOVATIVE DIGITAL START-UPS AND THEIR VENTURE CREATION PROCESS WITH ENABLING DIGITAL PLATFORMS.pdf"
+                },
+                {
+                    "file_name": "INTRODUCTION OF THE LATEST DIGITAL TECHNOLOGIES IN THE BANKING SECTOR_ FOREIGN EXPERIENCE AND RUSSIAN PRACTICE.pdf",
+                    "file_path": "core_pdfs\\query_2\\INTRODUCTION OF THE LATEST DIGITAL TECHNOLOGIES IN THE BANKING SECTOR_ FOREIGN EXPERIENCE AND RUSSIAN PRACTICE.pdf"
+                },
+                {
+                    "file_name": "Knowledge-based automation and new workforce implementation at a financial institution.pdf",
+                    "file_path": "core_pdfs\\query_2\\Knowledge-based automation and new workforce implementation at a financial institution.pdf"
+                },
+                {
+                    "file_name": "Literature based Cyber Security Topics_ Handbook.pdf",
+                    "file_path": "core_pdfs\\query_2\\Literature based Cyber Security Topics_ Handbook.pdf"
+                },
+                {
+                    "file_name": "Money after money_Disassembling value_information infrastructures.pdf",
+                    "file_path": "core_pdfs\\query_2\\Money after money_Disassembling value_information infrastructures.pdf"
+                },
+                {
+                    "file_name": "Research on the implication of artificial intelligence in accounting subfields_ current research trends from bibliometric analysis, and research directions.pdf",
+                    "file_path": "core_pdfs\\query_2\\Research on the implication of artificial intelligence in accounting subfields_ current research trends from bibliometric analysis, and research directions.pdf"
+                },
+                {
+                    "file_name": "Robotic Process Automation as a Lever for Productivity in a Luxury E-Commerce Company.pdf",
+                    "file_path": "core_pdfs\\query_2\\Robotic Process Automation as a Lever for Productivity in a Luxury E-Commerce Company.pdf"
+                },
+                {
+                    "file_name": "Robotic process automation framework - The implementation of Robotic Process Automation in Business Processing Outsourcing Organizations.pdf",
+                    "file_path": "core_pdfs\\query_2\\Robotic process automation framework - The implementation of Robotic Process Automation in Business Processing Outsourcing Organizations.pdf"
+                },
+                {
+                    "file_name": "Robotic process automation _ impact and best practices in portuguese banks.pdf",
+                    "file_path": "core_pdfs\\query_2\\Robotic process automation _ impact and best practices in portuguese banks.pdf"
+                },
+                {
+                    "file_name": "Strategic use of Scrum framework on BPMS projects.pdf",
+                    "file_path": "core_pdfs\\query_2\\Strategic use of Scrum framework on BPMS projects.pdf"
+                },
+                {
+                    "file_name": "Success factors of Robotic Process Automation in case processing.pdf",
+                    "file_path": "core_pdfs\\query_2\\Success factors of Robotic Process Automation in case processing.pdf"
+                },
+                {
+                    "file_name": "The AI Revolution_ Opportunities and Challenges for the Finance Sector.pdf",
+                    "file_path": "core_pdfs\\query_2\\The AI Revolution_ Opportunities and Challenges for the Finance Sector.pdf"
+                },
+                {
+                    "file_name": "The Ecosystem of Startups in Greece_ An Explorative Study.pdf",
+                    "file_path": "core_pdfs\\query_2\\The Ecosystem of Startups in Greece_ An Explorative Study.pdf"
+                },
+                {
+                    "file_name": "The future of internal auditing_ how technology is shaping the profession.pdf",
+                    "file_path": "core_pdfs\\query_2\\The future of internal auditing_ how technology is shaping the profession.pdf"
+                },
+                {
+                    "file_name": "The Impact of Electronic Data Interchange on Accounting Systems.pdf",
+                    "file_path": "core_pdfs\\query_2\\The Impact of Electronic Data Interchange on Accounting Systems.pdf"
+                },
+                {
+                    "file_name": "The impact of the Center of Excellence governance on the definition of RPA KPIs _ An exploratory case-study of the Dutch banking sector.pdf",
+                    "file_path": "core_pdfs\\query_2\\The impact of the Center of Excellence governance on the definition of RPA KPIs _ An exploratory case-study of the Dutch banking sector.pdf"
+                },
+                {
+                    "file_name": "The M2X Economy  \u2013  Concepts for Business Interactions, Transactions and Collaborations Among Autonomous Smart Devices.pdf",
+                    "file_path": "core_pdfs\\query_2\\The M2X Economy  \u2013  Concepts for Business Interactions, Transactions and Collaborations Among Autonomous Smart Devices.pdf"
+                },
+                {
+                    "file_name": "The role of middle management in achieving continuous improvement_a demanding playing field.pdf",
+                    "file_path": "core_pdfs\\query_2\\The role of middle management in achieving continuous improvement_a demanding playing field.pdf"
+                },
+                {
+                    "file_name": "The role of technology in improving the Customer Experience in the banking sector_ a systematic mapping study.pdf",
+                    "file_path": "core_pdfs\\query_2\\The role of technology in improving the Customer Experience in the banking sector_ a systematic mapping study.pdf"
+                },
+                {
+                    "file_name": "The Strategic Supply Chain Management in the Digital Era, Tactical vs Strategic.pdf",
+                    "file_path": "core_pdfs\\query_2\\The Strategic Supply Chain Management in the Digital Era, Tactical vs Strategic.pdf"
+                },
+                {
+                    "file_name": "Towards the Implementation of an Intelligent ERP System_ Guidelines for Building Intelligent ERP Systems.pdf",
+                    "file_path": "core_pdfs\\query_2\\Towards the Implementation of an Intelligent ERP System_ Guidelines for Building Intelligent ERP Systems.pdf"
+                },
+                {
+                    "file_name": "Trend tracking approaches _ a critical overview and possible integration between internal and external environment.pdf",
+                    "file_path": "core_pdfs\\query_2\\Trend tracking approaches _ a critical overview and possible integration between internal and external environment.pdf"
+                },
+                {
+                    "file_name": "UNDERSTANDING THE ADOPTION OF ARTIFICIAL INTELLIGENCE IN THE NORWEGIAN BANKING SECTOR_ AN ANALYSES OF TRUST, PERCEIVED RISK, AND BENEFITS_.pdf",
+                    "file_path": "core_pdfs\\query_2\\UNDERSTANDING THE ADOPTION OF ARTIFICIAL INTELLIGENCE IN THE NORWEGIAN BANKING SECTOR_ AN ANALYSES OF TRUST, PERCEIVED RISK, AND BENEFITS_.pdf"
+                },
+                {
+                    "file_name": "Using a test automation tool for robotic process automation_ An empirical study.pdf",
+                    "file_path": "core_pdfs\\query_2\\Using a test automation tool for robotic process automation_ An empirical study.pdf"
+                },
+                {
+                    "file_name": "\u201cYou have no idea how much we love Casper\u201d \u2013 Developing configurations of employees\u2019 RPA implementation experiences.pdf",
+                    "file_path": "core_pdfs\\query_2\\\u201cYou have no idea how much we love Casper\u201d \u2013 Developing configurations of employees\u2019 RPA implementation experiences.pdf"
+                }
+            ]
+        },
+        "core_pdfs\\query_3": {
+            "original_count": 86,
+            "deleted_count": 58,
+            "remaining_count": 28,
+            "deleted_files": [
+                {
+                    "file_name": "16th Prof. Vladas Gronskas International Scientific Conference.pdf",
+                    "file_path": "core_pdfs\\query_3\\16th Prof. Vladas Gronskas International Scientific Conference.pdf"
+                },
+                {
+                    "file_name": "AI Hype_ Public Relations and AI's doomsday machine.pdf",
+                    "file_path": "core_pdfs\\query_3\\AI Hype_ Public Relations and AI's doomsday machine.pdf"
+                },
+                {
+                    "file_name": "An Assessment of the Impact of Disruptive Technologies on the Efficacy of Accounting Practices in Selected South Western States, Nigeria.pdf",
+                    "file_path": "core_pdfs\\query_3\\An Assessment of the Impact of Disruptive Technologies on the Efficacy of Accounting Practices in Selected South Western States, Nigeria.pdf"
+                },
+                {
+                    "file_name": "Artificial intelligence and data analytics_ Emerging opportunities and challenges in financial services.pdf",
+                    "file_path": "core_pdfs\\query_3\\Artificial intelligence and data analytics_ Emerging opportunities and challenges in financial services.pdf"
+                },
+                {
+                    "file_name": "Assessing the relationship between bpm maturity and the success of organizations.pdf",
+                    "file_path": "core_pdfs\\query_3\\Assessing the relationship between bpm maturity and the success of organizations.pdf"
+                },
+                {
+                    "file_name": "Automation of Customer Initiated Back Office Processes_ A Design Science Research Approach to link Robotic Process Automation and Chatbots.pdf",
+                    "file_path": "core_pdfs\\query_3\\Automation of Customer Initiated Back Office Processes_ A Design Science Research Approach to link Robotic Process Automation and Chatbots.pdf"
+                },
+                {
+                    "file_name": "Business Model Innovation based on Software Robotics for Mobile Network Operators.pdf",
+                    "file_path": "core_pdfs\\query_3\\Business Model Innovation based on Software Robotics for Mobile Network Operators.pdf"
+                },
+                {
+                    "file_name": "Business Theory and Practice Across Industries and Markets.pdf",
+                    "file_path": "core_pdfs\\query_3\\Business Theory and Practice Across Industries and Markets.pdf"
+                },
+                {
+                    "file_name": "Case of Indonesian Covid-19 Chatbot Service.pdf",
+                    "file_path": "core_pdfs\\query_3\\Case of Indonesian Covid-19 Chatbot Service.pdf"
+                },
+                {
+                    "file_name": "Charting the future of accountancy with AI.pdf",
+                    "file_path": "core_pdfs\\query_3\\Charting the future of accountancy with AI.pdf"
+                },
+                {
+                    "file_name": "Digital accounting_ innovative technologies cause a new paradigm.pdf",
+                    "file_path": "core_pdfs\\query_3\\Digital accounting_ innovative technologies cause a new paradigm.pdf"
+                },
+                {
+                    "file_name": "Digital Security in the Public Sector.pdf",
+                    "file_path": "core_pdfs\\query_3\\Digital Security in the Public Sector.pdf"
+                },
+                {
+                    "file_name": "Digital tax administration_ transforming the workforce to deliver.pdf",
+                    "file_path": "core_pdfs\\query_3\\Digital tax administration_ transforming the workforce to deliver.pdf"
+                },
+                {
+                    "file_name": "Digital Trade Technology and Policy - Barriers and Opportunities_A Scoping Report for a Centre for Digital Trade and Innovation.pdf",
+                    "file_path": "core_pdfs\\query_3\\Digital Trade Technology and Policy - Barriers and Opportunities_A Scoping Report for a Centre for Digital Trade and Innovation.pdf"
+                },
+                {
+                    "file_name": "Digital transformation \u2013 enabling factory economy actors\u2019 entrepreneurial integration in global value chains_.pdf",
+                    "file_path": "core_pdfs\\query_3\\Digital transformation \u2013 enabling factory economy actors\u2019 entrepreneurial integration in global value chains_.pdf"
+                },
+                {
+                    "file_name": "Essays on Innovations in Public Sector Auditing.pdf",
+                    "file_path": "core_pdfs\\query_3\\Essays on Innovations in Public Sector Auditing.pdf"
+                },
+                {
+                    "file_name": "FinTech ecosystem as an instrument of sustainable development provision.pdf",
+                    "file_path": "core_pdfs\\query_3\\FinTech ecosystem as an instrument of sustainable development provision.pdf"
+                },
+                {
+                    "file_name": "Future of the German Banking Sector.pdf",
+                    "file_path": "core_pdfs\\query_3\\Future of the German Banking Sector.pdf"
+                },
+                {
+                    "file_name": "Guest editorial.pdf",
+                    "file_path": "core_pdfs\\query_3\\Guest editorial.pdf"
+                },
+                {
+                    "file_name": "How do Machine Learning, Robotic Process Automation, and Blockchains Affect the Human Factor in Business Process Management_.pdf",
+                    "file_path": "core_pdfs\\query_3\\How do Machine Learning, Robotic Process Automation, and Blockchains Affect the Human Factor in Business Process Management_.pdf"
+                },
+                {
+                    "file_name": "How Technology Has Changed the Field of Accounting.pdf",
+                    "file_path": "core_pdfs\\query_3\\How Technology Has Changed the Field of Accounting.pdf"
+                },
+                {
+                    "file_name": "Impact of Automated Accounting Software on Bookkeeping Jobs.pdf",
+                    "file_path": "core_pdfs\\query_3\\Impact of Automated Accounting Software on Bookkeeping Jobs.pdf"
+                },
+                {
+                    "file_name": "Implementing Robotic Process Automation for Internal Process Optimization.pdf",
+                    "file_path": "core_pdfs\\query_3\\Implementing Robotic Process Automation for Internal Process Optimization.pdf"
+                },
+                {
+                    "file_name": "Implications of Emerging Technologies on the Accounting Profession.pdf",
+                    "file_path": "core_pdfs\\query_3\\Implications of Emerging Technologies on the Accounting Profession.pdf"
+                },
+                {
+                    "file_name": "Influencing factors for the digital transformation in the financial services sector.pdf",
+                    "file_path": "core_pdfs\\query_3\\Influencing factors for the digital transformation in the financial services sector.pdf"
+                },
+                {
+                    "file_name": "Information knowledge and technology for Development in Africa.pdf",
+                    "file_path": "core_pdfs\\query_3\\Information knowledge and technology for Development in Africa.pdf"
+                },
+                {
+                    "file_name": "INNOVATIVE DIGITAL START-UPS AND THEIR VENTURE CREATION PROCESS WITH ENABLING DIGITAL PLATFORMS.pdf",
+                    "file_path": "core_pdfs\\query_3\\INNOVATIVE DIGITAL START-UPS AND THEIR VENTURE CREATION PROCESS WITH ENABLING DIGITAL PLATFORMS.pdf"
+                },
+                {
+                    "file_name": "IT outside of the IT Department_ Reviewing Lightweight IT in Times of Shadow IT and IT Consumerization.pdf",
+                    "file_path": "core_pdfs\\query_3\\IT outside of the IT Department_ Reviewing Lightweight IT in Times of Shadow IT and IT Consumerization.pdf"
+                },
+                {
+                    "file_name": "Knowledge-based automation and new workforce implementation at a financial institution.pdf",
+                    "file_path": "core_pdfs\\query_3\\Knowledge-based automation and new workforce implementation at a financial institution.pdf"
+                },
+                {
+                    "file_name": "Literature based Cyber Security Topics_ Handbook.pdf",
+                    "file_path": "core_pdfs\\query_3\\Literature based Cyber Security Topics_ Handbook.pdf"
+                },
+                {
+                    "file_name": "Managing a Robotic Process Automation Project Implementation.pdf",
+                    "file_path": "core_pdfs\\query_3\\Managing a Robotic Process Automation Project Implementation.pdf"
+                },
+                {
+                    "file_name": "Method to Foster Intelligent Processes Automation into an Organization.pdf",
+                    "file_path": "core_pdfs\\query_3\\Method to Foster Intelligent Processes Automation into an Organization.pdf"
+                },
+                {
+                    "file_name": "Money after money_Disassembling value_information infrastructures.pdf",
+                    "file_path": "core_pdfs\\query_3\\Money after money_Disassembling value_information infrastructures.pdf"
+                },
+                {
+                    "file_name": "Ohjelmistorobotiikka toimistoty\u00f6ss\u00e4_ hy\u00f6dyt, haasteet ja kyvykkyyden kehitt\u00e4minen.pdf",
+                    "file_path": "core_pdfs\\query_3\\Ohjelmistorobotiikka toimistoty\u00f6ss\u00e4_ hy\u00f6dyt, haasteet ja kyvykkyyden kehitt\u00e4minen.pdf"
+                },
+                {
+                    "file_name": "Optymalizacja proces\u00f3w z wykorzystaniem RPA \u2013 jako element zarz\u0105dzania zmian\u0105 w organizacji.pdf",
+                    "file_path": "core_pdfs\\query_3\\Optymalizacja proces\u00f3w z wykorzystaniem RPA \u2013 jako element zarz\u0105dzania zmian\u0105 w organizacji.pdf"
+                },
+                {
+                    "file_name": "Organizing Robotic Process Automation_ Balancing Loose and Tight Coupling.pdf",
+                    "file_path": "core_pdfs\\query_3\\Organizing Robotic Process Automation_ Balancing Loose and Tight Coupling.pdf"
+                },
+                {
+                    "file_name": "Responding to Healthcare Emergency Outbreak of COVID-19 Pandemic with Robotic Process Automation (RPA).pdf",
+                    "file_path": "core_pdfs\\query_3\\Responding to Healthcare Emergency Outbreak of COVID-19 Pandemic with Robotic Process Automation (RPA).pdf"
+                },
+                {
+                    "file_name": "Revolutionising Public Private Partnerships_ A Transition to the Fifth Industrial Revolution.pdf",
+                    "file_path": "core_pdfs\\query_3\\Revolutionising Public Private Partnerships_ A Transition to the Fifth Industrial Revolution.pdf"
+                },
+                {
+                    "file_name": "Robotic process automation framework - The implementation of Robotic Process Automation in Business Processing Outsourcing Organizations.pdf",
+                    "file_path": "core_pdfs\\query_3\\Robotic process automation framework - The implementation of Robotic Process Automation in Business Processing Outsourcing Organizations.pdf"
+                },
+                {
+                    "file_name": "Simplified literature review on the applicability of process mining to RPA.pdf",
+                    "file_path": "core_pdfs\\query_3\\Simplified literature review on the applicability of process mining to RPA.pdf"
+                },
+                {
+                    "file_name": "Special Issue Editorial. Artificial Intelligence in Organizations_ Current State and Future Opportunities.pdf",
+                    "file_path": "core_pdfs\\query_3\\Special Issue Editorial. Artificial Intelligence in Organizations_ Current State and Future Opportunities.pdf"
+                },
+                {
+                    "file_name": "Taxation in the Digital Economy.pdf",
+                    "file_path": "core_pdfs\\query_3\\Taxation in the Digital Economy.pdf"
+                },
+                {
+                    "file_name": "The AI Revolution_ Opportunities and Challenges for the Finance Sector.pdf",
+                    "file_path": "core_pdfs\\query_3\\The AI Revolution_ Opportunities and Challenges for the Finance Sector.pdf"
+                },
+                {
+                    "file_name": "The Ecosystem of Startups in Greece_ An Explorative Study.pdf",
+                    "file_path": "core_pdfs\\query_3\\The Ecosystem of Startups in Greece_ An Explorative Study.pdf"
+                },
+                {
+                    "file_name": "The Evolution of Smart Buildings_ An Industrial Perspective of the Development of Smart Buildings in the 2010s.pdf",
+                    "file_path": "core_pdfs\\query_3\\The Evolution of Smart Buildings_ An Industrial Perspective of the Development of Smart Buildings in the 2010s.pdf"
+                },
+                {
+                    "file_name": "The future of internal auditing_ how technology is shaping the profession.pdf",
+                    "file_path": "core_pdfs\\query_3\\The future of internal auditing_ how technology is shaping the profession.pdf"
+                },
+                {
+                    "file_name": "The impact of performance communication on process  efficiency _ a RPA implementation project.pdf",
+                    "file_path": "core_pdfs\\query_3\\The impact of performance communication on process  efficiency _ a RPA implementation project.pdf"
+                },
+                {
+                    "file_name": "The Intersection of Robotic Process Automation and Lean Six Sigma Applied to Unstructured Data.pdf",
+                    "file_path": "core_pdfs\\query_3\\The Intersection of Robotic Process Automation and Lean Six Sigma Applied to Unstructured Data.pdf"
+                },
+                {
+                    "file_name": "THE RISE OF AI IN CONTENT MANAGEMENT_ REIMAGINING INTELLIGENT WORKFLOWS.pdf",
+                    "file_path": "core_pdfs\\query_3\\THE RISE OF AI IN CONTENT MANAGEMENT_ REIMAGINING INTELLIGENT WORKFLOWS.pdf"
+                },
+                {
+                    "file_name": "The role of middle management in achieving continuous improvement_a demanding playing field.pdf",
+                    "file_path": "core_pdfs\\query_3\\The role of middle management in achieving continuous improvement_a demanding playing field.pdf"
+                },
+                {
+                    "file_name": "The role of RPA_Low-Code in process transformation. How well-implemented RPA_Low-Code projects can help transform a company\u00b4s process development_.pdf",
+                    "file_path": "core_pdfs\\query_3\\The role of RPA_Low-Code in process transformation. How well-implemented RPA_Low-Code projects can help transform a company\u00b4s process development_.pdf"
+                },
+                {
+                    "file_name": "The role of technology in improving the Customer Experience in the banking sector_ a systematic mapping study.pdf",
+                    "file_path": "core_pdfs\\query_3\\The role of technology in improving the Customer Experience in the banking sector_ a systematic mapping study.pdf"
+                },
+                {
+                    "file_name": "The Strategic Supply Chain Management in the Digital Era, Tactical vs Strategic.pdf",
+                    "file_path": "core_pdfs\\query_3\\The Strategic Supply Chain Management in the Digital Era, Tactical vs Strategic.pdf"
+                },
+                {
+                    "file_name": "Towards the Implementation of an Intelligent ERP System_ Guidelines for Building Intelligent ERP Systems.pdf",
+                    "file_path": "core_pdfs\\query_3\\Towards the Implementation of an Intelligent ERP System_ Guidelines for Building Intelligent ERP Systems.pdf"
+                },
+                {
+                    "file_name": "Trend tracking approaches _ a critical overview and possible integration between internal and external environment.pdf",
+                    "file_path": "core_pdfs\\query_3\\Trend tracking approaches _ a critical overview and possible integration between internal and external environment.pdf"
+                },
+                {
+                    "file_name": "UNDERSTANDING THE ADOPTION OF ARTIFICIAL INTELLIGENCE IN THE NORWEGIAN BANKING SECTOR_ AN ANALYSES OF TRUST, PERCEIVED RISK, AND BENEFITS_.pdf",
+                    "file_path": "core_pdfs\\query_3\\UNDERSTANDING THE ADOPTION OF ARTIFICIAL INTELLIGENCE IN THE NORWEGIAN BANKING SECTOR_ AN ANALYSES OF TRUST, PERCEIVED RISK, AND BENEFITS_.pdf"
+                },
+                {
+                    "file_name": "Using RPA for performance monitoring of dynamic SHM applications.pdf",
+                    "file_path": "core_pdfs\\query_3\\Using RPA for performance monitoring of dynamic SHM applications.pdf"
+                },
+                {
+                    "file_name": "Value positions viewed through the lens of automated decision-making _ The case of social services.pdf",
+                    "file_path": "core_pdfs\\query_3\\Value positions viewed through the lens of automated decision-making _ The case of social services.pdf"
+                }
+            ]
+        },
+        "gs_pdfs\\query_1": {
+            "original_count": 49,
+            "deleted_count": 0,
+            "remaining_count": 49,
+            "deleted_files": []
+        },
+        "gs_pdfs\\query_2": {
+            "original_count": 51,
+            "deleted_count": 32,
+            "remaining_count": 19,
+            "deleted_files": [
+                {
+                    "file_name": "AI AND ROBOTIC PROCESS AUTOMATION IN FINTECH_ ANALYZING THE SHIFT TOWARDS DIGITIZED CUSTOMER SERVICES AND OPERATIONAL\u00a0\u2026.pdf",
+                    "file_path": "gs_pdfs\\query_2\\AI AND ROBOTIC PROCESS AUTOMATION IN FINTECH_ ANALYZING THE SHIFT TOWARDS DIGITIZED CUSTOMER SERVICES AND OPERATIONAL\u00a0\u2026.pdf"
+                },
+                {
+                    "file_name": "AI-based Compliance Automation in Commercial Bank_ How the Silicon Valley Bank Provided a Cautionary Tale for Future Integration.pdf",
+                    "file_path": "gs_pdfs\\query_2\\AI-based Compliance Automation in Commercial Bank_ How the Silicon Valley Bank Provided a Cautionary Tale for Future Integration.pdf"
+                },
+                {
+                    "file_name": "Applications of robotic process automation in finance and accounting.pdf",
+                    "file_path": "gs_pdfs\\query_2\\Applications of robotic process automation in finance and accounting.pdf"
+                },
+                {
+                    "file_name": "Applications of Robotic Process Automation in Quantitative Risk Assessment in Financial Institutions.pdf",
+                    "file_path": "gs_pdfs\\query_2\\Applications of Robotic Process Automation in Quantitative Risk Assessment in Financial Institutions.pdf"
+                },
+                {
+                    "file_name": "Applying Robotic Process Automation in the Banking Industry.pdf",
+                    "file_path": "gs_pdfs\\query_2\\Applying Robotic Process Automation in the Banking Industry.pdf"
+                },
+                {
+                    "file_name": "Automation of financial management processes by utilizing robotic process automation_ a Finnish banking case.pdf",
+                    "file_path": "gs_pdfs\\query_2\\Automation of financial management processes by utilizing robotic process automation_ a Finnish banking case.pdf"
+                },
+                {
+                    "file_name": "Banking 4.0.pdf",
+                    "file_path": "gs_pdfs\\query_2\\Banking 4.0.pdf"
+                },
+                {
+                    "file_name": "Business Process Automation in Financial Services.pdf",
+                    "file_path": "gs_pdfs\\query_2\\Business Process Automation in Financial Services.pdf"
+                },
+                {
+                    "file_name": "Business process management and robotic process automation_ early deployment of a combined approach.pdf",
+                    "file_path": "gs_pdfs\\query_2\\Business process management and robotic process automation_ early deployment of a combined approach.pdf"
+                },
+                {
+                    "file_name": "Developing business process automation strategy_ case_ Finnish financial industry organization.pdf",
+                    "file_path": "gs_pdfs\\query_2\\Developing business process automation strategy_ case_ Finnish financial industry organization.pdf"
+                },
+                {
+                    "file_name": "Digital transformation of financial sector and challengies for competencies development.pdf",
+                    "file_path": "gs_pdfs\\query_2\\Digital transformation of financial sector and challengies for competencies development.pdf"
+                },
+                {
+                    "file_name": "Dominance of Automation in Financial Services Industry.pdf",
+                    "file_path": "gs_pdfs\\query_2\\Dominance of Automation in Financial Services Industry.pdf"
+                },
+                {
+                    "file_name": "Evolution of Business Organizations_ An Analysis of Robotic Process Automation.pdf",
+                    "file_path": "gs_pdfs\\query_2\\Evolution of Business Organizations_ An Analysis of Robotic Process Automation.pdf"
+                },
+                {
+                    "file_name": "Exploring the Potentials of Robotic Process Automation_ A Review.pdf",
+                    "file_path": "gs_pdfs\\query_2\\Exploring the Potentials of Robotic Process Automation_ A Review.pdf"
+                },
+                {
+                    "file_name": "Guidelines for implementing robotic process automation in banking operations.pdf",
+                    "file_path": "gs_pdfs\\query_2\\Guidelines for implementing robotic process automation in banking operations.pdf"
+                },
+                {
+                    "file_name": "Imperative role of integrating digitalization in the firms finance_ A technological perspective.pdf",
+                    "file_path": "gs_pdfs\\query_2\\Imperative role of integrating digitalization in the firms finance_ A technological perspective.pdf"
+                },
+                {
+                    "file_name": "Implementation of Robotic Process Automation_ A case study of issues, challenges and success factors for RPA implementation in banking and financial services.pdf",
+                    "file_path": "gs_pdfs\\query_2\\Implementation of Robotic Process Automation_ A case study of issues, challenges and success factors for RPA implementation in banking and financial services.pdf"
+                },
+                {
+                    "file_name": "Intelligent automation in FinTech_ an exploratory study of how Norwegian providers of financial technology utilize intelligent automation in light of PSD2.pdf",
+                    "file_path": "gs_pdfs\\query_2\\Intelligent automation in FinTech_ an exploratory study of how Norwegian providers of financial technology utilize intelligent automation in light of PSD2.pdf"
+                },
+                {
+                    "file_name": "Intelligent process automation_ building the bridge between Robotic Process Automation and artificial intelligence.pdf",
+                    "file_path": "gs_pdfs\\query_2\\Intelligent process automation_ building the bridge between Robotic Process Automation and artificial intelligence.pdf"
+                },
+                {
+                    "file_name": "Managing Robotics Process Automation (RPA)-A Qualitative Case Study of the Adoption and Implementation Process in the Banking Sector.pdf",
+                    "file_path": "gs_pdfs\\query_2\\Managing Robotics Process Automation (RPA)-A Qualitative Case Study of the Adoption and Implementation Process in the Banking Sector.pdf"
+                },
+                {
+                    "file_name": "Navigating Financial Evolution_ Business process optimization and digital transformation in the finance sector.pdf",
+                    "file_path": "gs_pdfs\\query_2\\Navigating Financial Evolution_ Business process optimization and digital transformation in the finance sector.pdf"
+                },
+                {
+                    "file_name": "NEW TRENDS IN THE BANKING-FINANCIAL SECTOR.pdf",
+                    "file_path": "gs_pdfs\\query_2\\NEW TRENDS IN THE BANKING-FINANCIAL SECTOR.pdf"
+                },
+                {
+                    "file_name": "Organisational adoption of a hyped technology_ the case of robotic process automation..pdf",
+                    "file_path": "gs_pdfs\\query_2\\Organisational adoption of a hyped technology_ the case of robotic process automation..pdf"
+                },
+                {
+                    "file_name": "Organizational adoption of Robotic Process Automation_ managing the performativity of hype.pdf",
+                    "file_path": "gs_pdfs\\query_2\\Organizational adoption of Robotic Process Automation_ managing the performativity of hype.pdf"
+                },
+                {
+                    "file_name": "Reshaping Banking with Digital Technologies.pdf",
+                    "file_path": "gs_pdfs\\query_2\\Reshaping Banking with Digital Technologies.pdf"
+                },
+                {
+                    "file_name": "Robotic Automation Process\u2013The operating system for the digital enterprise.pdf",
+                    "file_path": "gs_pdfs\\query_2\\Robotic Automation Process\u2013The operating system for the digital enterprise.pdf"
+                },
+                {
+                    "file_name": "Robotic process automation framework-The implementation of Robotic Process Automation in Business Processing Outsourcing Organizations.pdf",
+                    "file_path": "gs_pdfs\\query_2\\Robotic process automation framework-The implementation of Robotic Process Automation in Business Processing Outsourcing Organizations.pdf"
+                },
+                {
+                    "file_name": "Robotic process automation_ impact and best practices in portuguese banks.pdf",
+                    "file_path": "gs_pdfs\\query_2\\Robotic process automation_ impact and best practices in portuguese banks.pdf"
+                },
+                {
+                    "file_name": "Robotic Process Automation_ Lessons Learned from Case Studies..pdf",
+                    "file_path": "gs_pdfs\\query_2\\Robotic Process Automation_ Lessons Learned from Case Studies..pdf"
+                },
+                {
+                    "file_name": "Software robot-based automation of financial administration's processes.pdf",
+                    "file_path": "gs_pdfs\\query_2\\Software robot-based automation of financial administration's processes.pdf"
+                },
+                {
+                    "file_name": "The adoption of robotic process automation in a financial institution in South Africa.pdf",
+                    "file_path": "gs_pdfs\\query_2\\The adoption of robotic process automation in a financial institution in South Africa.pdf"
+                },
+                {
+                    "file_name": "The Rise of Robotic Process Automation in the Banking Sector_ Streamlining Operations and Improving Efficiency.pdf",
+                    "file_path": "gs_pdfs\\query_2\\The Rise of Robotic Process Automation in the Banking Sector_ Streamlining Operations and Improving Efficiency.pdf"
+                }
+            ]
+        },
+        "gs_pdfs\\query_3": {
+            "original_count": 53,
+            "deleted_count": 36,
+            "remaining_count": 17,
+            "deleted_files": [
+                {
+                    "file_name": "A Study of the impact of the adoption of Robotic Process Automation (RPA) on work productivity in the retail banking industry.pdf",
+                    "file_path": "gs_pdfs\\query_3\\A Study of the impact of the adoption of Robotic Process Automation (RPA) on work productivity in the retail banking industry.pdf"
+                },
+                {
+                    "file_name": "A Study to Identify the Possibilities of Implementing Robotic Process Automation for the Processing of Loans in Banks.pdf",
+                    "file_path": "gs_pdfs\\query_3\\A Study to Identify the Possibilities of Implementing Robotic Process Automation for the Processing of Loans in Banks.pdf"
+                },
+                {
+                    "file_name": "Advancements of AI and Machine Learning in FinTech Industry (2016-2020).pdf",
+                    "file_path": "gs_pdfs\\query_3\\Advancements of AI and Machine Learning in FinTech Industry (2016-2020).pdf"
+                },
+                {
+                    "file_name": "AI-based Compliance Automation in Commercial Bank_ How the Silicon Valley Bank Provided a Cautionary Tale for Future Integration.pdf",
+                    "file_path": "gs_pdfs\\query_3\\AI-based Compliance Automation in Commercial Bank_ How the Silicon Valley Bank Provided a Cautionary Tale for Future Integration.pdf"
+                },
+                {
+                    "file_name": "An empirical study on robotic process automation implementation_ A case study on MetLife Investment Management Client Services Group.pdf",
+                    "file_path": "gs_pdfs\\query_3\\An empirical study on robotic process automation implementation_ A case study on MetLife Investment Management Client Services Group.pdf"
+                },
+                {
+                    "file_name": "Applications of Robotic Process Automation in Quantitative Risk Assessment in Financial Institutions.pdf",
+                    "file_path": "gs_pdfs\\query_3\\Applications of Robotic Process Automation in Quantitative Risk Assessment in Financial Institutions.pdf"
+                },
+                {
+                    "file_name": "Applying Robotic Process Automation in the Banking Industry.pdf",
+                    "file_path": "gs_pdfs\\query_3\\Applying Robotic Process Automation in the Banking Industry.pdf"
+                },
+                {
+                    "file_name": "Artificial intelligence and automation in financial services_ the case of russian banking sector.pdf",
+                    "file_path": "gs_pdfs\\query_3\\Artificial intelligence and automation in financial services_ the case of russian banking sector.pdf"
+                },
+                {
+                    "file_name": "Automation of financial management processes by utilizing robotic process automation_ a Finnish banking case.pdf",
+                    "file_path": "gs_pdfs\\query_3\\Automation of financial management processes by utilizing robotic process automation_ a Finnish banking case.pdf"
+                },
+                {
+                    "file_name": "Business Process Automation in Financial Services.pdf",
+                    "file_path": "gs_pdfs\\query_3\\Business Process Automation in Financial Services.pdf"
+                },
+                {
+                    "file_name": "Business process management and robotic process automation_ early deployment of a combined approach.pdf",
+                    "file_path": "gs_pdfs\\query_3\\Business process management and robotic process automation_ early deployment of a combined approach.pdf"
+                },
+                {
+                    "file_name": "Developing business process automation strategy_ case_ Finnish financial industry organization.pdf",
+                    "file_path": "gs_pdfs\\query_3\\Developing business process automation strategy_ case_ Finnish financial industry organization.pdf"
+                },
+                {
+                    "file_name": "Dominance of Automation in Financial Services Industry.pdf",
+                    "file_path": "gs_pdfs\\query_3\\Dominance of Automation in Financial Services Industry.pdf"
+                },
+                {
+                    "file_name": "Embedding Robotic Process Automation into Process Management_ Case Study of using taskt.pdf",
+                    "file_path": "gs_pdfs\\query_3\\Embedding Robotic Process Automation into Process Management_ Case Study of using taskt.pdf"
+                },
+                {
+                    "file_name": "Exploring the Potentials of Robotic Process Automation_ A Review.pdf",
+                    "file_path": "gs_pdfs\\query_3\\Exploring the Potentials of Robotic Process Automation_ A Review.pdf"
+                },
+                {
+                    "file_name": "Guidelines for implementing robotic process automation in banking operations.pdf",
+                    "file_path": "gs_pdfs\\query_3\\Guidelines for implementing robotic process automation in banking operations.pdf"
+                },
+                {
+                    "file_name": "Implementation of Robotic Process Automation_ A case study of issues, challenges and success factors for RPA implementation in banking and financial services.pdf",
+                    "file_path": "gs_pdfs\\query_3\\Implementation of Robotic Process Automation_ A case study of issues, challenges and success factors for RPA implementation in banking and financial services.pdf"
+                },
+                {
+                    "file_name": "Intelligent automation in FinTech_ an exploratory study of how Norwegian providers of financial technology utilize intelligent automation in light of PSD2.pdf",
+                    "file_path": "gs_pdfs\\query_3\\Intelligent automation in FinTech_ an exploratory study of how Norwegian providers of financial technology utilize intelligent automation in light of PSD2.pdf"
+                },
+                {
+                    "file_name": "Intelligent process automation_ building the bridge between Robotic Process Automation and artificial intelligence.pdf",
+                    "file_path": "gs_pdfs\\query_3\\Intelligent process automation_ building the bridge between Robotic Process Automation and artificial intelligence.pdf"
+                },
+                {
+                    "file_name": "Managing Robotics Process Automation (RPA)-A Qualitative Case Study of the Adoption and Implementation Process in the Banking Sector.pdf",
+                    "file_path": "gs_pdfs\\query_3\\Managing Robotics Process Automation (RPA)-A Qualitative Case Study of the Adoption and Implementation Process in the Banking Sector.pdf"
+                },
+                {
+                    "file_name": "Navigating Financial Evolution_ Business process optimization and digital transformation in the finance sector.pdf",
+                    "file_path": "gs_pdfs\\query_3\\Navigating Financial Evolution_ Business process optimization and digital transformation in the finance sector.pdf"
+                },
+                {
+                    "file_name": "Organisational adoption of a hyped technology_ the case of robotic process automation..pdf",
+                    "file_path": "gs_pdfs\\query_3\\Organisational adoption of a hyped technology_ the case of robotic process automation..pdf"
+                },
+                {
+                    "file_name": "Reshaping Banking with Digital Technologies.pdf",
+                    "file_path": "gs_pdfs\\query_3\\Reshaping Banking with Digital Technologies.pdf"
+                },
+                {
+                    "file_name": "Robotic Automation Process\u2013The operating system for the digital enterprise.pdf",
+                    "file_path": "gs_pdfs\\query_3\\Robotic Automation Process\u2013The operating system for the digital enterprise.pdf"
+                },
+                {
+                    "file_name": "Robotic Process Automation and effectiveness of financial decisions_ A critical review.pdf",
+                    "file_path": "gs_pdfs\\query_3\\Robotic Process Automation and effectiveness of financial decisions_ A critical review.pdf"
+                },
+                {
+                    "file_name": "Robotic process automation framework-The implementation of Robotic Process Automation in Business Processing Outsourcing Organizations.pdf",
+                    "file_path": "gs_pdfs\\query_3\\Robotic process automation framework-The implementation of Robotic Process Automation in Business Processing Outsourcing Organizations.pdf"
+                },
+                {
+                    "file_name": "Robotic Process Automation implementation in record-to-report process.pdf",
+                    "file_path": "gs_pdfs\\query_3\\Robotic Process Automation implementation in record-to-report process.pdf"
+                },
+                {
+                    "file_name": "Robotic Process Automation implementation, deployment approaches and success factors\u2013an empirical study.pdf",
+                    "file_path": "gs_pdfs\\query_3\\Robotic Process Automation implementation, deployment approaches and success factors\u2013an empirical study.pdf"
+                },
+                {
+                    "file_name": "Robotic process automation_ contemporary themes and challenges.pdf",
+                    "file_path": "gs_pdfs\\query_3\\Robotic process automation_ contemporary themes and challenges.pdf"
+                },
+                {
+                    "file_name": "Robotic process automation_ Developing a multi-criteria evaluation model for the selection of automatable business processes.pdf",
+                    "file_path": "gs_pdfs\\query_3\\Robotic process automation_ Developing a multi-criteria evaluation model for the selection of automatable business processes.pdf"
+                },
+                {
+                    "file_name": "Software robot-based automation of financial administration's processes.pdf",
+                    "file_path": "gs_pdfs\\query_3\\Software robot-based automation of financial administration's processes.pdf"
+                },
+                {
+                    "file_name": "The adoption of robotic process automation in a financial institution in South Africa.pdf",
+                    "file_path": "gs_pdfs\\query_3\\The adoption of robotic process automation in a financial institution in South Africa.pdf"
+                },
+                {
+                    "file_name": "The adoption of robotic process automation technology to ensure business processes during the COVID-19 pandemic.pdf",
+                    "file_path": "gs_pdfs\\query_3\\The adoption of robotic process automation technology to ensure business processes during the COVID-19 pandemic.pdf"
+                },
+                {
+                    "file_name": "The Development of Robotic Process Automation (RPA) For the Efficiency of Back Office Operations at Bank Muscat.pdf",
+                    "file_path": "gs_pdfs\\query_3\\The Development of Robotic Process Automation (RPA) For the Efficiency of Back Office Operations at Bank Muscat.pdf"
+                },
+                {
+                    "file_name": "The Today and Tomorrow of Robotic Process Automation.pdf",
+                    "file_path": "gs_pdfs\\query_3\\The Today and Tomorrow of Robotic Process Automation.pdf"
+                },
+                {
+                    "file_name": "Toward robotic process automation implementation_ an end-to-end perspective.pdf",
+                    "file_path": "gs_pdfs\\query_3\\Toward robotic process automation implementation_ an end-to-end perspective.pdf"
+                }
+            ]
+        }
+    }
+}
