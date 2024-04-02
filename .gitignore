@@ -1,0 +1,12 @@
+.idea/
+**/gs_search_results.json
+**/PDFs
+**/__pycache__
+**/test.py
+**/gs_search_results_updated.json
+**/core_search_results_updated.json
+**/core_search_results.json
+**/gs_search_results.json
+**/acm_search_results.json
+**/acm_search_results_updated.json
+**/deleted_pdfs_record.json
