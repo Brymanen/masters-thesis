@@ -42,7 +42,7 @@ def remove_duplicates(directory):
                 }
                 deleted_files.append(deleted_file_info)
 
-                # Delete the file
+                # Delete the file.
                 print(f"Deleting duplicate file: {filepath}")
                 os.remove(filepath)
             else:
