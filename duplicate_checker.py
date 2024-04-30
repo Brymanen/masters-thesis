@@ -33,9 +33,9 @@ def remove_duplicates(directory):
             filepath = os.path.join(root, file)
             file_hash = calculate_hash(filepath)
 
-            # Check for duplicates
+            # Check for duplicates.
             if file in records and records[file] == file_hash:
-                # Record the deleted file's info
+                # Record the deleted file's info.
                 deleted_file_info = {
                     "file_name": file,
                     "file_path": os.path.relpath(filepath, start=directory)
@@ -69,13 +69,13 @@ def save_to_json(data, filename):
         json.dump(data, f, indent=4)
 
 
-# Directory containing the PDFs
+# Directory containing the PDFs.
 pdf_directory = "pdfs"
 
 # Remove duplicates and get info about directories
 directories_info, total_original, total_deleted, total_remaining = remove_duplicates(pdf_directory)
 
-# Prepare JSON structure
+# Prepare JSON structure.
 json_data = {
     "total_original_count": total_original,
     "total_deleted_count": total_deleted,
@@ -83,7 +83,7 @@ json_data = {
     "directories": directories_info
 }
 
-# Save to JSON file
+# Save to JSON file.
 json_filename = "deleted_pdfs_record.json"
 save_to_json(json_data, json_filename)
 
