@@ -72,7 +72,7 @@ def save_to_json(data, filename):
 # Directory containing the PDFs.
 pdf_directory = "pdfs"
 
-# Remove duplicates and get info about directories
+# Remove duplicates and get info about directories.
 directories_info, total_original, total_deleted, total_remaining = remove_duplicates(pdf_directory)
 
 # Prepare JSON structure.
